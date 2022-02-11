@@ -1,9 +1,122 @@
 ---
 outputs: meta
 slug: book
-languageCode: en
-readingOrder: []
-tocBase: null
+meta:
+  title: Ezopovy bajky
+  identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
+  author: Pavel Šrut
+  publisher: Městská knihovna v Praze
+  modified: '2022-02-11T11:35:01.840Z'
+  publisherShort: mkp
+  edition: beletrie
+readingOrder:
+  - ezopovy_bajky_001.html
+  - ezopovy_bajky_002.html
+  - ezopovy_bajky_003.html
+  - ezopovy_bajky_004.html
+  - ezopovy_bajky_005.html
+  - ezopovy_bajky_006.html
+  - ezopovy_bajky_007.html
+  - ezopovy_bajky_008.html
+  - ezopovy_bajky_009.html
+  - ezopovy_bajky_010.html
+  - ezopovy_bajky_011.html
+  - ezopovy_bajky_012.html
+  - ezopovy_bajky_013.html
+  - ezopovy_bajky_014.html
+  - ezopovy_bajky_015.html
+  - ezopovy_bajky_016.html
+  - ezopovy_bajky_017.html
+  - ezopovy_bajky_018.html
+  - ezopovy_bajky_019.html
+  - ezopovy_bajky_020.html
+  - ezopovy_bajky_021.html
+  - ezopovy_bajky_022.html
+  - ezopovy_bajky_023.html
+  - ezopovy_bajky_024.html
+  - ezopovy_bajky_025.html
+  - ezopovy_bajky_026.html
+  - ezopovy_bajky_027.html
+  - ezopovy_bajky_028.html
+  - ezopovy_bajky_029.html
+  - ezopovy_bajky_030.html
+  - ezopovy_bajky_031.html
+  - ezopovy_bajky_032.html
+  - ezopovy_bajky_033.html
+  - ezopovy_bajky_034.html
+  - ezopovy_bajky_035.html
+  - ezopovy_bajky_036.html
+  - ezopovy_bajky_037.html
+  - ezopovy_bajky_038.html
+  - ezopovy_bajky_039.html
+  - ezopovy_bajky_040.html
+  - ezopovy_bajky_041.html
+  - ezopovy_bajky_042.html
+  - ezopovy_bajky_043.html
+  - ezopovy_bajky_044.html
+  - ezopovy_bajky_045.html
+  - ezopovy_bajky_046.html
+  - ezopovy_bajky_047.html
+  - ezopovy_bajky_048.html
+  - ezopovy_bajky_049.html
+  - ezopovy_bajky_050.html
+  - ezopovy_bajky_051.html
+  - ezopovy_bajky_052.html
+  - ezopovy_bajky_053.html
+  - ezopovy_bajky_054.html
+  - ezopovy_bajky_055.html
+  - ezopovy_bajky_056.html
+  - ezopovy_bajky_057.html
+  - ezopovy_bajky_058.html
+  - ezopovy_bajky_059.html
+  - ezopovy_bajky_060.html
+  - ezopovy_bajky_061.html
+  - ezopovy_bajky_062.html
+  - ezopovy_bajky_063.html
+  - ezopovy_bajky_064.html
+  - ezopovy_bajky_065.html
+  - ezopovy_bajky_066.html
+  - ezopovy_bajky_067.html
+  - ezopovy_bajky_068.html
+  - ezopovy_bajky_069.html
+  - ezopovy_bajky_070.html
+  - ezopovy_bajky_071.html
+  - ezopovy_bajky_072.html
+  - ezopovy_bajky_073.html
+  - ezopovy_bajky_074.html
+  - ezopovy_bajky_075.html
+  - ezopovy_bajky_076.html
+  - ezopovy_bajky_077.html
+  - ezopovy_bajky_078.html
+  - ezopovy_bajky_079.html
+  - ezopovy_bajky_080.html
+  - ezopovy_bajky_081.html
+  - ezopovy_bajky_082.html
+  - ezopovy_bajky_083.html
+  - ezopovy_bajky_084.html
+  - ezopovy_bajky_085.html
+  - ezopovy_bajky_086.html
+  - ezopovy_bajky_087.html
+  - ezopovy_bajky_088.html
+  - ezopovy_bajky_089.html
+  - ezopovy_bajky_090.html
+  - ezopovy_bajky_091.html
+  - ezopovy_bajky_092.html
+  - ezopovy_bajky_093.html
+  - ezopovy_bajky_094.html
+  - ezopovy_bajky_095.html
+  - ezopovy_bajky_096.html
+  - ezopovy_bajky_097.html
+  - ezopovy_bajky_098.html
+  - ezopovy_bajky_099.html
+  - ezopovy_bajky_100.html
+  - ezopovy_bajky_101.html
+  - ezopovy_bajky_102.html
+  - ezopovy_bajky_103.html
+tocBase:
+  - id: section-1
+    children: []
+    isSection: true
 static:
   - style
   - scripts
