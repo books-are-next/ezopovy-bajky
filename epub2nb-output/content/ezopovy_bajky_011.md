@@ -10,5 +10,5 @@ Převozník se vzpíral přívalům vln svými vesly, ale cestující padli na k
 
 Jak rychle přišla, tak rychle se bouře utišila. A tehdy ti lidé začali v pramici z radosti poskakovat a jásat a tancovat. Marně je rybář okřikoval, že ze samého štěstí přivolají neštěstí. Pramice se zhoupla, převrhla a jenom rybář se zachránil.
 
-> A kdo je moudrý,  
-> v pravou chvíli si tenhle příběh připomene.
+> _A kdo je moudrý,  
+> v pravou chvíli si tenhle příběh připomene._

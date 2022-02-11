@@ -18,6 +18,6 @@ Ten křik přivolal pastýře. Pastýř kavku vysvobodil, ale volnost jí nedal.
 
 „Kavka, která chtěla být orlem,“ odpověděl otec. „Není to k smíchu?“
 
-> Je to k smíchu a může to dopadnout i hůř –  
+> _Je to k smíchu a může to dopadnout i hůř –  
 > s kavkou a s každým, kdo má málo rozumu  
-> a hodně pýchy.
+> a hodně pýchy._

@@ -14,6 +14,6 @@ Jenže narazil na hroudu zlata – a neroztroubil nic. Zlato schoval pod kabá
 
 Zato lakomec naříkal a rval si vlasy. A když si postěžoval svému sousedovi, takovouhle dostal odpověď: „Nech už naříkání. Vezmi kámen, zakopej ho na stejné místo a mysli si, že je to hrouda zlata! Vždyť jsi svého bohatství neužíval ani tenkrát, když jsi ho měl. A spánek budeš mít klidnější než předtím, protože kámen ti žádný zloděj neukradne!“
 
-> Byla to dobrá rada, i když se lakomci pranic nelíbila.  
+> _Byla to dobrá rada, i když se lakomci pranic nelíbila.  
 > Protože mít něco, co člověk neužívá,  
-> je stejné jako nemít nic.
+> je stejné jako nemít nic._

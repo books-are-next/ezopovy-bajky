@@ -16,5 +16,5 @@ Orlí mláďata, která ještě neuměla lítat, dopadla z hořícího hnízda 
 
 Kdyby na ně už dole liška nečekala – a kdyby s nimi nenaložila stejně jako předtím orel s liščaty.
 
-> Ach ano, tak krutý konec mívá krutá zrada  
-> a nerovné přátelství.
+> _Ach ano, tak krutý konec mívá krutá zrada  
+> a nerovné přátelství._

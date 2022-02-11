@@ -14,6 +14,6 @@ A tak seskočila ze stromu a začala tahat síť jako oni.
 
 „Sama se ulovila,“ odpověděl otec. „Chtěla být rybářem, ale dopadla jako ryba.“
 
-> Kdepak, kdo se jen opičí  
+> _Kdepak, kdo se jen opičí  
 > a dělá něco bez znalosti, důvtipu a fortelu,  
-> sám si škodí.
+> sám si škodí._

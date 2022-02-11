@@ -18,6 +18,6 @@ Za nějaký čas zánět zmizel a mastičkář požadoval slíbenou odměnu. Al
 
 Tak stařena prohlédla a prohlédl i soudce. Potrestal lakotného felčara.
 
-> Protože zlodějíček a hrabivec  
+> _Protože zlodějíček a hrabivec  
 > ani v lékařském hábitu  
-> před spravedlností neuteče.
+> před spravedlností neuteče._

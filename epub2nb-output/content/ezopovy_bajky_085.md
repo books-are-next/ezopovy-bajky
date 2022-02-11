@@ -20,6 +20,6 @@ A lidé poslouchali, a nakonec ji pro její důvtip a důvěřivost i state�
 
 Od té doby má vlaštovka u dobrých lidí útočiště a nemusí se bát jako ostatní ptáci.
 
-> A tak i slabý člověk,  
+> _A tak i slabý člověk,  
 > když má statečné a důvěřivé srdce,  
-> může napravit mocného nepřítele.
+> může napravit mocného nepřítele._

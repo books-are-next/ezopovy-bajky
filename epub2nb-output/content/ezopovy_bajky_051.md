@@ -16,6 +16,6 @@ Hospodář se vůbec nerozmýšlel a popadl ohlávku. Nasadil ji tomu novému o
 
 „Já si ho vůbec nemusel zkoušet,“ odpověděl hospodář. „Hned jsem poznal, že bude na chlup stejný jako ten osel, který je dobrý nanejvýš pro řezníka!“
 
-> A ta slova stojí za zapamatování.  
+> _A ta slova stojí za zapamatování.  
 > Vždyť člověk je právem posuzován nejen podle sebe,  
-> ale i podle svých kamarádů.
+> ale i podle svých kamarádů._

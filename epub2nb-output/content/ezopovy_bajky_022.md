@@ -18,7 +18,7 @@ Když viděl, že mu osel neuteče, obrátil se na lišku.
 
 A hned skočil a lišku roztrhal. Teprve potom se vrhl na osla.
 
-> Stala se v cizí zemi tahle zrada.  
+> _Stala se v cizí zemi tahle zrada.  
 > Ale i u nás platí:  
 > Kdo jinému jámu kopá,  
-> sám do ní padá.
+> sám do ní padá._

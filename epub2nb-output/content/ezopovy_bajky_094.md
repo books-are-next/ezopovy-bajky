@@ -14,6 +14,6 @@ Z chudáka se stal rázem boháč. Ale příliš brzo si na své bohatství zvy
 
 Tak jednoho dne slepici zabil a vykuchal ji. A co našel? Správně hádáte – vůbec nic.
 
-> Ale to už se stává i chamtivcům a lidem,  
+> _Ale to už se stává i chamtivcům a lidem,  
 > kteří poznají, co měli, teprve tehdy,  
-> až se o to sami připraví.
+> až se o to sami připraví._

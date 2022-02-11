@@ -20,5 +20,5 @@ Liška nechala lvovi celou kořist, jen malý kousek masa si přitáhla na svou 
 
 A víckrát už se lvem na lov nešla.
 
-> Byla dost chytrá na to,  
-> aby se z neštěstí druhého poučila.
+> _Byla dost chytrá na to,  
+> aby se z neštěstí druhého poučila._

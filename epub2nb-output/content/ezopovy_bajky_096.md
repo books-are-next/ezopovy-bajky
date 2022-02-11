@@ -20,5 +20,5 @@ Orlovi to neušlo. Spustil se z oblohy jako blesk a zobanem vytrhl pohár své
 
 Víckrát už se nepotkali, ale věděli oba, že…
 
-> … kdo činí dobro,  
-> dočká se vděčnosti.
+> _… kdo činí dobro,  
+> dočká se vděčnosti._

@@ -14,9 +14,9 @@ Pán se zachránil, ale kůň zůstal ležet na bojišti.
 
 Osel pak litoval svých slov, ale slova jsou jenom slova, krvácející ránu nezhojí a život nikomu nevrátí.
 
-> A tak není moudré závidět  
+> _A tak není moudré závidět  
 > vládcům a bojovníkům,  
 > kteří jsou stále v nebezpečí.  
 > Moudřejší je smířit se  
 > s vlastní prostotou  
-> a nestěžovat si na chudobu.
+> a nestěžovat si na chudobu._

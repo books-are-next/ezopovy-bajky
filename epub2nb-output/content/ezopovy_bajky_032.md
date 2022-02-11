@@ -16,5 +16,5 @@ Pastýř si samosebou spočítal, že se mu čas od času nějaká ovečka ztrá
 
 A díky tomu jednou poznal, že lupiče má ve svém vlastním domě. Vlka bez milosti zastřelil a celou psí smečku rozehnal. Dobře věděl, že ze psa, který uvykl vlčím mravům, už nikdy dobrý ovčák nebude.
 
-> A to je poučení,  
-> které mnohdy platí i o lidech.
+> _A to je poučení,  
+> které mnohdy platí i o lidech._

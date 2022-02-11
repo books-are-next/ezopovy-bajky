@@ -18,7 +18,7 @@ Kdyby planina nekončila lesem. V hustém hvozdu se jelen zapletl parohy do vě
 
 A pak lev skočil.
 
-> Poučení přišlo pro jelena pozdě,  
+> _Poučení přišlo pro jelena pozdě,  
 > ale pro vás snad ještě včas.  
 > Mocný přítel mnohdy selže,  
-> zatímco slabý pomůže.
+> zatímco slabý pomůže._

@@ -20,5 +20,5 @@ Když se za pár dnů znovu potkali, čáp lišku pozval, aby tentokrát přišl
 
 „Tak to vidíš,“ řekl čáp, když se najedl. „Teď půjdeš domů hladová a navíc ještě s ostudou.“ A měl pravdu.
 
-> Protože na každého vtipálka, který si myslí,  
-> že snědl všechnu vtipnou kaši, jednou dojde.
+> _Protože na každého vtipálka, který si myslí,  
+> že snědl všechnu vtipnou kaši, jednou dojde._

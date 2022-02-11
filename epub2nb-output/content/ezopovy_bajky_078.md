@@ -16,5 +16,5 @@ Tomu nestačil obdiv všech slepic na dvorku. Musel vyletět na střechu a kokr
 
 Vyvolával svou slávu a přivolal orla. Orel se tiše spustil z nebe a kohouta odnesl.
 
-> A proč to povídám? Jen tak – a jako varování  
-> pro lidské kohouty. Sami je znáte…
+> _A proč to povídám? Jen tak – a jako varování  
+> pro lidské kohouty. Sami je znáte…_

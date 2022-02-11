@@ -16,6 +16,6 @@ Zeus se zamračil, ale včely trvaly na svém.
 
 Dal včelám, co si přály, ale zařídil to tak, že bodnutím přijdou o žihadlo. A v tu chvíli i o svůj život.
 
-> Kdo z lakoty nepřeje potřebnému,  
+> _Kdo z lakoty nepřeje potřebnému,  
 > sám sobě škodí.  
-> Tak zní varování.
+> Tak zní varování._

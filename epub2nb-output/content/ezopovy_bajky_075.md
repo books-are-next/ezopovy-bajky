@@ -16,7 +16,7 @@ Ta rvačka vylákala myši ze všech skulin a děr v domě… Myši byly zvěd
 
 Hloupé a zvědavé myši se pozdě poučily, že…
 
-> … dva silní nepřátelé snadno  
+> _… dva silní nepřátelé snadno  
 > zapomenou na rozbroje mezi sebou  
 > a vrhnou se na slabšího.  
-> Zvlášť když jim sám vyjde naproti.
+> Zvlášť když jim sám vyjde naproti._

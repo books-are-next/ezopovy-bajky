@@ -12,7 +12,7 @@ Ten se staral o sebe, víc než bylo třeba – a byl sám se sebou náramně
 
 A tak Stvořitel dostal nápad. Zavěsil na každého člověka dvě tašky: jednu na cizí špatnosti, druhou na vlastní. První tašku nosili lidé na prsou a tu druhou na zádech. A od té doby se stává, že člověk vidí cizí zlo zdaleka – a vlastní vůbec ne.
 
-> A poučení?  
+> _A poučení?  
 > Kdo si ho v téhle bajce nenajde,  
 > nevidí si na špičku nosu,  
-> natož na záda!
+> natož na záda!_

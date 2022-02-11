@@ -12,6 +12,6 @@ Hned nato mrazivě zadul a vrhl se na pocestného. Rval mu oděv z ramen, ale 
 
 Teď byla řada na slunci. Začalo mírně hřát a muž pookřál. Ro­zepnul knoflíky a za chvíli nesl kabát v ruce. Slunce se rozpálilo ještě víc, a tak si svlékl i košili. A když slunce pokojně hřálo dál, shodil ten človíček i kalhoty a skočil do řeky, aby se ochladil.
 
-> Tak slunce vyhrálo sázku  
+> _Tak slunce vyhrálo sázku  
 > a mírnost a přesvědčování zvítězily  
-> nad hrubou sílou.
+> nad hrubou sílou._

@@ -20,6 +20,6 @@ Lasice chytila kohouta. Měla hlad, ale zároveň se bála hospodáře, kterému
 
 Na dvoře zůstala jen hrst peří.
 
-> A nám zůstává poučení:  
+> _A nám zůstává poučení:  
 > pro špatný čin si špatný člověk  
-> vždycky dobrou záminku najde.
+> vždycky dobrou záminku najde._

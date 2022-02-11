@@ -22,5 +22,5 @@ Bůh Hermes všechno viděl. Vstoupil do divoké řeky a podal drvoštěpovi zl
 
 „Lžeš,“ zamračil se Hermes. „A za trest nedostaneš ani tu svou!“
 
-> A stalo se, jak Hermes řekl.  
-> Lháři za trest a vám k poučení.
+> _A stalo se, jak Hermes řekl.  
+> Lháři za trest a vám k poučení._

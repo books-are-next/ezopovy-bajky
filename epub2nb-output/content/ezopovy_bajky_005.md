@@ -16,6 +16,6 @@ To rozhodlo. Všichni byli najednou pro slona. I jedno malé selátko, které s
 
 Tak se stalo, že v tomhle zeleném kraji zvířata krále nemají, i když to nahlas neřeknou a potichu to tají.
 
-> A my z toho vidíme,  
+> _A my z toho vidíme,  
 > jak někdy nepatrná překážka  
-> může i velké věci překazit.
+> může i velké věci překazit._

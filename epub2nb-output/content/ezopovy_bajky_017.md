@@ -18,6 +18,6 @@ Chytrák snu uvěřil a uprostřed noci utíkal k moři. Začínalo svítat, k
 
 Zatím ho zamkli v podpalubí. Hemžilo se tu krysami. Aby mu nelezli po nohou, ustlal si ten nešťastný chytrák na železné truhlici, která tu stála v koutě. Ta truhla byla plná uloupených zlatých mincí. Bohové mu ve snu nelhali…
 
-> A hlupák, který si hrál na chytráka,  
+> _A hlupák, který si hrál na chytráka,  
 > až v potupném otroctví poznal,  
-> že lhát se nevyplácí. Ani lidem, ani bohům.
+> že lhát se nevyplácí. Ani lidem, ani bohům._

@@ -24,6 +24,6 @@ Orel poznal, že mluvit k želvě je stejné jako mluvit do skály. Vzal tedy �
 
 A želva padala jako kámen a dole na kamení se roztříštila.
 
-> Vyprávěl jsem o želvě, ale myslel přitom na lidi,  
+> _Vyprávěl jsem o želvě, ale myslel přitom na lidi,  
 > kteří touží po nemožném, na rozumnou radu neslyší,  
-> a sami si pak škodí.
+> a sami si pak škodí._

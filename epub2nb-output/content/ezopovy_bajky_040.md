@@ -16,7 +16,7 @@ Otec se vrátil domů a velice se trápil. Obě dcery měl stejně rád, a kdy
 
 A ti se rozhodli pro boží zlomyslnost. Nepřivolali ani déšť, ani slunce, nýbrž vichřici. Vichřice pokácela a rozbila hrnce a nádoby na hrnčířově dvoře a zpustošila a vytrhala ze země i zeleninu na zahradníkově poli.
 
-> To se stává,  
+> _To se stává,  
 > když dva chtějí v jedné chvíli něco naprosto rozdílného,  
 > a ten, kdo je má rozsoudit,  
-> se uchýlí k výčitkám u vrat nepravého domu.
+> se uchýlí k výčitkám u vrat nepravého domu._

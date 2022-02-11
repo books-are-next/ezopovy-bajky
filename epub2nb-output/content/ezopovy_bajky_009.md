@@ -16,6 +16,6 @@ Havran otevřel zobák a královsky zakrákal.
 
 Maso spadlo lišce k nohám. Jen se po něm olízla. A nad havranovou hloupostí se usmála a řekla: „Havrane, havrane, hlas máš jaksepatří, ale rozum ti chybí. Proto nemůžeš být králem.“
 
-> A měla pravdu.  
+> _A měla pravdu.  
 > Hloupému a ješitnému ptačímu králi  
-> by se i vrabčák vysmál.
+> by se i vrabčák vysmál._

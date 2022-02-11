@@ -16,5 +16,5 @@ A šípkový keř jí odpověděl: „Chudáčku, cožpak nevidíš, že ti lid
 
 A měl pravdu ten zaprášený keřík. Když se dřevorubci dali do práce, pyšná jedle tak žalostně pod jejich sekyrami a pilami naříkala, že šípek z lítosti poztrácel pár růžových kvítků. Ale věděl, že…
 
-> … lepší je žít v chudobě a prostotě beze strachu,  
-> než v bohatství a pýše pod hrozbou násilí.
+> _… lepší je žít v chudobě a prostotě beze strachu,  
+> než v bohatství a pýše pod hrozbou násilí._

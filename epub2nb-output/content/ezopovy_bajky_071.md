@@ -18,5 +18,5 @@ A lev mu odpověděl: „Kdyby lvi uměli tesat, viděl bys na těch kamenech o
 
 Ale dvounohý mlčel. Odpověď neznal a pravdu čtyřnohému přiznat nechtěl.
 
-> Jako každý, kdo se vychloubá tvrzením,  
-> jež ve při neobstojí.
+> _Jako každý, kdo se vychloubá tvrzením,  
+> jež ve při neobstojí._

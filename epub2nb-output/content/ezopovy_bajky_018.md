@@ -10,5 +10,5 @@ Když vinař umíral, svolal si rodinu a řekl: „Pod jedním z vinných keř
 
 Synové vždycky o pokladu snili. Tedy poslechli a začali poklad hledat. Okopávali vinici rok co rok, ani jediný keřík neobešli. Poklad zakopaný pod keřem sice nenašli, ale přece zbohatli…
 
-> Zní to jako pohádka, ale hádanka to není.  
-> V pracovitých rukou je poklad. Tak zní poučení.
+> _Zní to jako pohádka, ale hádanka to není.  
+> V pracovitých rukou je poklad. Tak zní poučení._

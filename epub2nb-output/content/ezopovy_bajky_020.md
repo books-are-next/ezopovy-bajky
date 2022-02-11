@@ -22,6 +22,6 @@ Liška právě přišla k jeskyni, aby lva pozdravila, a tak náhodou ty pomlu
 
 A lev jí uvěřil. Vlk přišel o kůži a liška se zdravou kůží z nebezpečí vyvázla.
 
-> A poučení? Je tak snadné!  
+> _A poučení? Je tak snadné!  
 > Jeden strojí úklady druhému  
-> a sám do pasti spadne.
+> a sám do pasti spadne._

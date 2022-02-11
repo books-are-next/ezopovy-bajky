@@ -20,8 +20,8 @@ Koroptev se škubala a naříkala, jaký je to od ptáčníka zlý nevděk a n
 
 A bylo to. Koroptev skončila na pekáči a ptáčníkův příbuzný si na ní prý náramně pochutnal.
 
-> Tak to chodí.  
+> _Tak to chodí.  
 > Ten, kdo zrazuje své blízké,  
 > aby se někomu cizímu zavděčil,  
 > vděku se nedočká ani z jedné,  
-> ani z druhé strany.
+> ani z druhé strany._

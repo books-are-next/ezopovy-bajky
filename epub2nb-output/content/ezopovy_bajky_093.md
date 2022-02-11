@@ -26,6 +26,6 @@ Ale hospodský se mu v hrůze vytrhl, vysvlékl se z kazajky, nechal ji zlodě
 
 A zloděj? Ten vzal taky do zaječích. Jenže s náprsní taškou, kterou měl hostinský v kazajce. Byla plná peněz!
 
-> Ale ano.  
+> _Ale ano.  
 > Takové věci se stávají ustrašencům,  
-> kteří naletí na každou báchorku.
+> kteří naletí na každou báchorku._

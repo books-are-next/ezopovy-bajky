@@ -14,6 +14,6 @@ Zamilovaný lev poslechl. Dal si vyrvat tesáky a ubrousit drápy. Pak přišel
 
 Nevěsta se mu neukázala. Zato vyběhl pastýř s holí. Vyhnal bezzubého ženicha z domu. Lev se nakonec dočkal kromě ran i posměchu ostatních zvířat. Raději se odstěhoval ze svého kraje až na poušť a živil se tam písečnými blechami.
 
-> Ach ano, pošetilá láska dovede udělat  
+> _Ach ano, pošetilá láska dovede udělat  
 > i ze lva hlupáka. Zvláště když ani předtím,  
-> než se zamiloval, moc rozumu v hlavě neměl.
+> než se zamiloval, moc rozumu v hlavě neměl._

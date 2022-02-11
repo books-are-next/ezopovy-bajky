@@ -18,6 +18,6 @@ Zato jeho sousedka cikáda trpěla hladem. Nakonec přišla za mravencem a popr
 
 A věřte nebo nevěřte, ani to mrňavé zrníčko jí nedal. Byl to starý bručoun, o ždibec jídla se nerozdělil, ale ždibec pravdy měl…
 
-> Protože kdo se v létě jen raduje  
+> _Protože kdo se v létě jen raduje  
 > a nemyslí na mráz,  
-> v zimě si pak stýská.
+> v zimě si pak stýská._

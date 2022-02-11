@@ -22,6 +22,6 @@ Soudcem byla vosa, protože dobře znala včely i trubce.
 
 Vosa rozhodla po právu. Pracovitým včelám zůstal sladký med a líným trubcům hořká hanba.
 
-> A to je poučení  
+> _A to je poučení  
 > pro trubce mezi lidmi  
-> i pro soudce jejich častých sporů.
+> i pro soudce jejich častých sporů._

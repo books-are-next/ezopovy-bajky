@@ -18,7 +18,7 @@ Divokým kozám chutnalo, a tak se pastýř nebál hnát příští den celé s
 
 „Právě proto od tebe utíkáme,“ odpověděl mu starý kozel, vůdce divokého stáda, než zmizel za skálou.
 
-> A měl pravdu.  
+> _A měl pravdu.  
 > Když pastýř nechal o hladu své vlastní kozy  
 > a přilepšoval jiným, jistě by i příště  
-> na staré přátelství pro nějaké nové zapomněl.
+> na staré přátelství pro nějaké nové zapomněl._

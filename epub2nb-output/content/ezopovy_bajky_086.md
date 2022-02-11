@@ -16,7 +16,7 @@ Pomluva je jako nemoc. A strach je jako choroba. Důvěřivá orlice přikryla 
 
 Tak se stalo, že orlí rodina a rodinka divoké svině pomřely hladem.
 
-> Smutný příběh,  
+> _Smutný příběh,  
 > smutné varování pro toho,  
 > kdo zlé pomluvě věří  
-> a strachu z ní se neubrání.
+> a strachu z ní se neubrání._

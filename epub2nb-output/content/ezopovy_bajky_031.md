@@ -16,6 +16,6 @@ Touha po odměně – spíše než soucit – přiměla volavku, aby strčila 
 
 „Jsi slepá? Nebo jsi zapomněla, že mluvíš s vlkem? Jediná odměna, které se ti může dostat, je, že tě nechám uletět, ty hlupačko!“
 
-> Tohle vlk řekl a řekl pravdu.  
+> _Tohle vlk řekl a řekl pravdu.  
 > Kdo je zlý, prokáže ti dobrodiní už tím,  
-> že ti neublíží.
+> že ti neublíží._

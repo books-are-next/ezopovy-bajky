@@ -10,5 +10,5 @@ Tam dole pod sebou na vodní hladině spatřil jiného psa, který držel v zub
 
 Chtěl mít dvě a nakonec neměl žádnou. Ta první, skutečná, mu uletěla, když skočil do vody. A ta druhá nikdy nebyla. Byl to jen odraz na říční hladině.
 
-> A jako on pochodí každý,  
-> komu chamtivost rozum zacloní.
+> _A jako on pochodí každý,  
+> komu chamtivost rozum zacloní._

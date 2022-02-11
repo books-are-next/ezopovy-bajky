@@ -14,5 +14,5 @@ A představte si, že když jednoho z nich řezník popadl za rohy, aby mu uš
 
 Teprve když se i nad ním zaleskl řezníkův nůž, beran si uvědomil: „Zasloužili jsme si to. Proč jsme se nespojili? Vždyť všechny naše rohy dohromady měly stokrát víc síly než jeden řezníkův nůž!“
 
-> A lidé? Nechovají se často podobně,  
-> nejsou jako berani a skopci?
+> _A lidé? Nechovají se často podobně,  
+> nejsou jako berani a skopci?_

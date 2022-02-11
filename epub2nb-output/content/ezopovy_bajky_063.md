@@ -24,5 +24,5 @@ Jednou v lese našla past a přinesla ji králi.
 
 „A ty nerozumně jednáš,“ řekla liška. „Lepší je nemít žádného krále než hlupáka, který se chytí do každé pasti!“
 
-> Neplatí tahle pravda  
-> stejně u lidí?
+> _Neplatí tahle pravda  
+> stejně u lidí?_

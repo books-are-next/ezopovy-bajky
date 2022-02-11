@@ -14,6 +14,6 @@ A tak si osel vzal do hlavy, že bude žít jako cikády. Přes den se postil a
 
 Trpěl hladem a zanedlouho i slabostí, ale měl tvrdou hlavu, jak už někteří osli mívají. Vydržel to až do konce – a ten konec přišel brzo. Osel pošel hladem a cikády mu na jeho poslední cestě smutně zazpívaly.
 
-> A stejně nešťastně mohou skončit i lidé,  
+> _A stejně nešťastně mohou skončit i lidé,  
 > kteří chtějí za každou cenu dosáhnout něčeho,  
-> co je proti jejich přirozenosti.
+> co je proti jejich přirozenosti._

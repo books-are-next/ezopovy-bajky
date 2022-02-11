@@ -20,5 +20,5 @@ Když osel poznal, čím se jeho pán živí, dostal strach. „Zachraň mne!“
 
 Ale Zeus mu neodpověděl. Jen se hrozivě zamračil. A osel smutně šlapal zpátky k svému pánovi koželuhovi.
 
-> Tak i člověk, který si stále na něco stěžuje,  
-> pozná, že stará příkoří nebyla tak zlá jako ta nová.
+> _Tak i člověk, který si stále na něco stěžuje,  
+> pozná, že stará příkoří nebyla tak zlá jako ta nová._

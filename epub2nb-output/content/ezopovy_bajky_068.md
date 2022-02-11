@@ -14,6 +14,6 @@ Nakonec se lev, ohluchlý z komářího ryku a oslepený vztekem, docela vyče
 
 Čím zuřivěji se snažil vymotat, tím víc se do pavučiny zaplétal. Pavouk jen pokojně čekal v rohu, až se komár marným bojem unaví. A když se pyšný bojovník docela vyčerpal a nechal boje jako předtím lev, pavouk se k němu dosoukal a řekl: „Vidíš, ty válečníku, krále zvířat jsi vyzval na souboj a malá pavučinka tě lapila!“
 
-> A do podobné pavučiny  
+> _A do podobné pavučiny  
 > se jednou chytí a zaplete  
-> každý chvastoun a chlubivec.
+> každý chvastoun a chlubivec._

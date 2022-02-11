@@ -14,6 +14,6 @@ Ztratilo se sele pasákovi vepřů a zabloudilo mezi ovce. Sotva ovčák to pra
 
 „A právě proto kvičím a utíkám,“ volalo sele. „Vás chytá pastýř kvůli vlně a mléku – a mne kvůli masu!“
 
-> Je to tak. Jinak volá o pomoc ten,  
+> _Je to tak. Jinak volá o pomoc ten,  
 > komu jde jenom o kabát,  
-> a jinak ten, komu jde o kůži.
+> a jinak ten, komu jde o kůži._

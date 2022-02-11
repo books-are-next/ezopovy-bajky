@@ -1,15 +1,15 @@
 {
   "author": "Pavel Šrut",
   "edition": "beletrie",
-  "identifier": "srut-ezopovy-bajky-4e290ac",
+  "identifier": "srut-ezopovy-bajky-9dbd5be",
   "modified": "2022-02-11T11:35:01.840Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Ezopovy bajky",
-  "revision": "4e290ac",
+  "revision": "9dbd5be",
   "generatedAt": {
-    "date": "Fri Feb 11 2022 12:23:00 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1644582180604
+    "date": "Fri Feb 11 2022 12:29:03 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1644582543496
   },
   "documents": [
     {
@@ -2008,7 +2008,22 @@
           "level": 1,
           "name": "Tiráž",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Ezopovy bajky",
+              "id": "ezopovy-bajky",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "Pavel Šrut",
+              "id": "pavel-šrut",
+              "children": []
+            }
+          ]
         }
       ]
     }
