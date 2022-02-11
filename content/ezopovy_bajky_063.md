@@ -2,6 +2,8 @@
 title: Sněm zvířat
 ---
 
+  
+
 Sněm zvířat volil krále. První se představila opice. Uprostřed kruhu začala poskakovat, všelijak se pitvořit a provádět různé ztřeštěné kousky. Všichni se smáli a tleskali, chtěli mít zábavného krále.
 
 Ta sláva popletla hlavu starému velbloudovi. I on chtěl být králem a nenapadlo mu nic chytřejšího než opičit se po opici. Jenže jeho neobratné poskoky vzbudily u zvířat jen posměch a opovržení. Jak vidět, nepřišel velbloud ke svému jménu nadarmo. Velbloud je velký bloud.
@@ -22,5 +24,5 @@ Jednou v lese našla past a přinesla ji králi.
 
 „A ty nerozumně jednáš,“ řekla liška. „Lepší je nemít žádného krále než hlupáka, který se chytí do každé pasti!“
 
-Neplatí tahle pravda  
-stejně u lidí?
+> Neplatí tahle pravda  
+> stejně u lidí?

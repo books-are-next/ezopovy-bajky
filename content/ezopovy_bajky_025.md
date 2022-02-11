@@ -2,6 +2,8 @@
 title: Kavka a holubi
 ---
 
+  
+
 Kavce se nelíbilo mezi kavkami. Pokukovala po holubníku. Holubi měli bílé peří – a hlavně pohodlný život. Nemuseli si shánět potravu po polích. Posedávali doma a zobali zrní, které jim hospodář nasypal.
 
 A tak se kavka nabílila a usadila se v holubníku.
@@ -16,5 +18,5 @@ Holubi hned nechali hádky mezi sebou a vrhli se na vetřelkyni. Vyštípali ji
 
 Nic jí nepomohlo, že křičela jako kavka. Barva ji prozradila. Byla bílá mezi černými kavkami. A tak musela z hejna ven.
 
-A podobně může skončit každý,  
-kdo není doma spokojen.
+> A podobně může skončit každý,  
+> kdo není doma spokojen.

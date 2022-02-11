@@ -2,6 +2,8 @@
 title: "Poutníci a\_medvěd"
 ---
 
+  
+
 Dva přátelé šli v družném rozhovoru lesem. Tu jeden z nich spatřil, že mají v zádech medvěda. Ani špitnutím druha nevaroval, jen sám uskočil k nejbližšímu stromu a vyšplhal až do koruny.
 
 Tomu druhému už nezbývalo nic jiného než padnout na zem a tvářit se jako mrtvý, protože mrtvoly se medvěd nedotkne. Ležel docela bez hnutí, zadržel tlukot srdce i dech…
@@ -14,6 +16,6 @@ Když nebezpečí pominulo, slezl přítel ze stromu a podivil se: „Co ti, ka
 
 A pak dal příteli sbohem a pokračoval v cestě raději sám.
 
-Protože je lepší jít světem sám  
-než s přítelem, který v nouzi myslí  
-jen na svou vlastní kůži.
+> Protože je lepší jít světem sám  
+> než s přítelem, který v nouzi myslí  
+> jen na svou vlastní kůži.

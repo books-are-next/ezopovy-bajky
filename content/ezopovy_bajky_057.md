@@ -2,6 +2,8 @@
 title: "Vlaštovka a\_soudce"
 ---
 
+  
+
 Jedna vlaštovka si postavila hnízdo pod střechou soudní budovy. Za ten čas, co tu bydlela, poznala, že soudce je moudrý a spravedlivý. Ctil právo a každou křivdu uměl potrestat.
 
 Vlaštovka byla šťastná, že si vybrala právě takové místo pro svou příští rodinu. Nakladla do hnízda vejce a dobře se o ně postarala.
@@ -14,5 +16,5 @@ A naše vlaštovka jim odpověděla: „Vždyť já snad nenaříkám ani tak n
 
 Nu nevím, zda jí vlaštovky rozuměly, ale člověk ví…
 
-… že křivda bolí víc, jestliže k ní dojde tam,  
-kde by se to nejmíň čekalo.
+> … že křivda bolí víc, jestliže k ní dojde tam,  
+> kde by se to nejmíň čekalo.

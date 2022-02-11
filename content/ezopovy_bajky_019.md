@@ -2,6 +2,8 @@
 title: Kočka a bohyně Afrodite
 ---
 
+  
+
 Jeden mladík měl kočku. Hrál si s ní, choval ji na klíně, ale kočce tahle přízeň nestačila. Chtěla se proměnit v ženu a v mladíkovu nevěstu.
 
 Uprosila bohyni lásky Afrodite, a ta jí dala podobu půvabné dívky. Byla mazlivá a mrštná jako kočka, není divu, že se mladík do takového děvčete hned zamiloval.
@@ -12,6 +14,6 @@ Myslíte, že se mladá paní vylekala? Kdepak! Vyskočila z lože a myš zako
 
 Afrodite raději zase vrátila dívce její dřívější podobu.
 
-Protože změnit zevnějšek člověka  
-je mnohem snazší,  
-než změnit jeho povahu a zvyky.
+> Protože změnit zevnějšek člověka  
+> je mnohem snazší,  
+> než změnit jeho povahu a zvyky.

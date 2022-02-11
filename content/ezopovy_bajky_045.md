@@ -2,6 +2,8 @@
 title: "Poutníci a\_platan"
 ---
 
+  
+
 Dva poutníci šli otevřenou krajinou. Bylo léto a plné poledne. Slunce sálalo jako pekařská pec. Poutníci usoužení vedrem spatřili najednou před sebou platan.
 
 „Konečně trochu stínu!“ zaradovali se. „Ten strom nám musel seslat z nebe sám Zeus!“
@@ -12,5 +14,5 @@ Jejich řeč slyšel Zeus, pán Olympu, a tuze se na ty dva nespokojence rozzlo
 
 Ostružiník byl obsypaný plody, ale poutníci uvízli v jeho trnech. Trvalo dlouho, než se z trní osvobodili, a ještě déle, než se jim škrábance zahojily.
 
-A není to snad zasloužený trest  
-pro tlachaly a nevděčníky?
+> A není to snad zasloužený trest  
+> pro tlachaly a nevděčníky?
