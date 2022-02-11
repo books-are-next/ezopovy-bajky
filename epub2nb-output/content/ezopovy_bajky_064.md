@@ -2,6 +2,8 @@
 title: "Jelen a\_lev"
 ---
 
+  
+
 U lesní studánky stál jelen. Pozoroval svůj obraz na hladině. Obdi­voval své paroží. Bylo mohutné a rozvětvené, zdobilo mu hlavu jako dub zdobí jeho koruna.
 
 Ale v zrcadle studánky spatřil i své nohy. A za ty se hanbil a styděl. Byly hubené a tenké jako vrbové proutky.
@@ -16,7 +18,7 @@ Kdyby planina nekončila lesem. V hustém hvozdu se jelen zapletl parohy do vě
 
 A pak lev skočil.
 
-Poučení přišlo pro jelena pozdě,  
-ale pro vás snad ještě včas.  
-Mocný přítel mnohdy selže,  
-zatímco slabý pomůže.
+> Poučení přišlo pro jelena pozdě,  
+> ale pro vás snad ještě včas.  
+> Mocný přítel mnohdy selže,  
+> zatímco slabý pomůže.

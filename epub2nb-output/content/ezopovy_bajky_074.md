@@ -2,6 +2,8 @@
 title: "Želva a\_orel"
 ---
 
+  
+
 Želva žila v jednom skalním sedle. Nad sebou měla modré nebe a pod sebou zelenou trávu, nic jí nescházelo. A přece…
 
 Na špici skály měl hnízdo orel. Orel létal nad krajinou, a kdyby se nebál, že si spálí peří, dokázal by vyletět až ke slunci.
@@ -22,6 +24,6 @@ Orel poznal, že mluvit k želvě je stejné jako mluvit do skály. Vzal tedy �
 
 A želva padala jako kámen a dole na kamení se roztříštila.
 
-Vyprávěl jsem o želvě, ale myslel přitom na lidi,  
-kteří touží po nemožném, na rozumnou radu neslyší,  
-a sami si pak škodí.
+> Vyprávěl jsem o želvě, ale myslel přitom na lidi,  
+> kteří touží po nemožném, na rozumnou radu neslyší,  
+> a sami si pak škodí.

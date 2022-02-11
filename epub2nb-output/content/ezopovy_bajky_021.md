@@ -2,6 +2,8 @@
 title: Lev a myš
 ---
 
+  
+
 Není radno budit lva, když spí. A přece mu myš přeběhla kolem tlap, když podřimoval. Lev zavrčel, vyskočil a hned by se na vetřelce vrhl, kdyby…
 
 Kdyby to nebyla mrňavá myška. Sotva ji bylo vidět. A ještě se smála, že se jí lev polekal.
@@ -18,6 +20,6 @@ Myška všechno viděla. Sotva lovci zmizeli za kopcem, přiběhla ke stromu a 
 
 „To abys věděl, že i mrňavá myš ví, co je vděk,“ řekla.
 
-A král zvířat poznal,  
-že ani ten nejmenší tvor  
-neběhá po světě nadarmo.
+> A král zvířat poznal,  
+> že ani ten nejmenší tvor  
+> neběhá po světě nadarmo.

@@ -1,37 +1,17 @@
 {
   "author": "Pavel Šrut",
   "edition": "beletrie",
-  "identifier": "srut-ezopovy-bajky-38c02fa",
+  "identifier": "srut-ezopovy-bajky-4e290ac",
   "modified": "2022-02-11T11:35:01.840Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Ezopovy bajky",
-  "revision": "38c02fa",
+  "revision": "4e290ac",
   "generatedAt": {
-    "date": "Fri Feb 11 2022 12:15:27 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1644581727379
+    "date": "Fri Feb 11 2022 12:23:00 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1644582180604
   },
   "documents": [
-    {
-      "title": "Ezopovy bajky",
-      "file": "ezopovy_bajky_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "ezopovy_bajky_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Ezopovy bajky",
       "file": "ezopovy_bajky_002.html",
@@ -39,48 +19,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "ezopovy_bajky_001.html",
-      "next": "ezopovy_bajky_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Ezopovy bajky",
-      "file": "ezopovy_bajky_003.html",
-      "words": 4,
-      "chars": 23,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 2,
-      "prev": "ezopovy_bajky_002.html",
-      "next": "ezopovy_bajky_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Ezopovy bajky",
-      "file": "ezopovy_bajky_004.html",
-      "words": 90,
-      "chars": 589,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 3,
-      "prev": "ezopovy_bajky_003.html",
+      "order": 0,
+      "prev": null,
       "next": "ezopovy_bajky_005.html",
       "toc": [
         {
@@ -99,8 +39,8 @@
       "chars": 1277,
       "ideas": 10,
       "role": "chapter",
-      "order": 4,
-      "prev": "ezopovy_bajky_004.html",
+      "order": 1,
+      "prev": "ezopovy_bajky_002.html",
       "next": "ezopovy_bajky_006.html",
       "toc": [
         {
@@ -119,7 +59,7 @@
       "chars": 1140,
       "ideas": 10,
       "role": "chapter",
-      "order": 5,
+      "order": 2,
       "prev": "ezopovy_bajky_005.html",
       "next": "ezopovy_bajky_007.html",
       "toc": [
@@ -139,7 +79,7 @@
       "chars": 1048,
       "ideas": 9,
       "role": "chapter",
-      "order": 6,
+      "order": 3,
       "prev": "ezopovy_bajky_006.html",
       "next": "ezopovy_bajky_008.html",
       "toc": [
@@ -159,7 +99,7 @@
       "chars": 715,
       "ideas": 9,
       "role": "chapter",
-      "order": 7,
+      "order": 4,
       "prev": "ezopovy_bajky_007.html",
       "next": "ezopovy_bajky_009.html",
       "toc": [
@@ -179,7 +119,7 @@
       "chars": 925,
       "ideas": 10,
       "role": "chapter",
-      "order": 8,
+      "order": 5,
       "prev": "ezopovy_bajky_008.html",
       "next": "ezopovy_bajky_010.html",
       "toc": [
@@ -199,7 +139,7 @@
       "chars": 1061,
       "ideas": 11,
       "role": "chapter",
-      "order": 9,
+      "order": 6,
       "prev": "ezopovy_bajky_009.html",
       "next": "ezopovy_bajky_011.html",
       "toc": [
@@ -219,7 +159,7 @@
       "chars": 610,
       "ideas": 6,
       "role": "chapter",
-      "order": 10,
+      "order": 7,
       "prev": "ezopovy_bajky_010.html",
       "next": "ezopovy_bajky_012.html",
       "toc": [
@@ -239,7 +179,7 @@
       "chars": 895,
       "ideas": 9,
       "role": "chapter",
-      "order": 11,
+      "order": 8,
       "prev": "ezopovy_bajky_011.html",
       "next": "ezopovy_bajky_013.html",
       "toc": [
@@ -259,7 +199,7 @@
       "chars": 1229,
       "ideas": 11,
       "role": "chapter",
-      "order": 12,
+      "order": 9,
       "prev": "ezopovy_bajky_012.html",
       "next": "ezopovy_bajky_014.html",
       "toc": [
@@ -279,7 +219,7 @@
       "chars": 730,
       "ideas": 12,
       "role": "chapter",
-      "order": 13,
+      "order": 10,
       "prev": "ezopovy_bajky_013.html",
       "next": "ezopovy_bajky_015.html",
       "toc": [
@@ -299,7 +239,7 @@
       "chars": 617,
       "ideas": 7,
       "role": "chapter",
-      "order": 14,
+      "order": 11,
       "prev": "ezopovy_bajky_014.html",
       "next": "ezopovy_bajky_016.html",
       "toc": [
@@ -319,7 +259,7 @@
       "chars": 835,
       "ideas": 11,
       "role": "chapter",
-      "order": 15,
+      "order": 12,
       "prev": "ezopovy_bajky_015.html",
       "next": "ezopovy_bajky_017.html",
       "toc": [
@@ -339,7 +279,7 @@
       "chars": 1179,
       "ideas": 11,
       "role": "chapter",
-      "order": 16,
+      "order": 13,
       "prev": "ezopovy_bajky_016.html",
       "next": "ezopovy_bajky_018.html",
       "toc": [
@@ -359,7 +299,7 @@
       "chars": 590,
       "ideas": 6,
       "role": "chapter",
-      "order": 17,
+      "order": 14,
       "prev": "ezopovy_bajky_017.html",
       "next": "ezopovy_bajky_019.html",
       "toc": [
@@ -379,7 +319,7 @@
       "chars": 680,
       "ideas": 9,
       "role": "chapter",
-      "order": 18,
+      "order": 15,
       "prev": "ezopovy_bajky_018.html",
       "next": "ezopovy_bajky_020.html",
       "toc": [
@@ -399,7 +339,7 @@
       "chars": 1098,
       "ideas": 13,
       "role": "chapter",
-      "order": 19,
+      "order": 16,
       "prev": "ezopovy_bajky_019.html",
       "next": "ezopovy_bajky_021.html",
       "toc": [
@@ -419,7 +359,7 @@
       "chars": 945,
       "ideas": 12,
       "role": "chapter",
-      "order": 20,
+      "order": 17,
       "prev": "ezopovy_bajky_020.html",
       "next": "ezopovy_bajky_022.html",
       "toc": [
@@ -439,7 +379,7 @@
       "chars": 803,
       "ideas": 12,
       "role": "chapter",
-      "order": 21,
+      "order": 18,
       "prev": "ezopovy_bajky_021.html",
       "next": "ezopovy_bajky_023.html",
       "toc": [
@@ -459,7 +399,7 @@
       "chars": 985,
       "ideas": 12,
       "role": "chapter",
-      "order": 22,
+      "order": 19,
       "prev": "ezopovy_bajky_022.html",
       "next": "ezopovy_bajky_024.html",
       "toc": [
@@ -479,7 +419,7 @@
       "chars": 1032,
       "ideas": 12,
       "role": "chapter",
-      "order": 23,
+      "order": 20,
       "prev": "ezopovy_bajky_023.html",
       "next": "ezopovy_bajky_025.html",
       "toc": [
@@ -499,7 +439,7 @@
       "chars": 901,
       "ideas": 10,
       "role": "chapter",
-      "order": 24,
+      "order": 21,
       "prev": "ezopovy_bajky_024.html",
       "next": "ezopovy_bajky_026.html",
       "toc": [
@@ -519,7 +459,7 @@
       "chars": 1073,
       "ideas": 11,
       "role": "chapter",
-      "order": 25,
+      "order": 22,
       "prev": "ezopovy_bajky_025.html",
       "next": "ezopovy_bajky_027.html",
       "toc": [
@@ -539,7 +479,7 @@
       "chars": 558,
       "ideas": 11,
       "role": "chapter",
-      "order": 26,
+      "order": 23,
       "prev": "ezopovy_bajky_026.html",
       "next": "ezopovy_bajky_028.html",
       "toc": [
@@ -559,7 +499,7 @@
       "chars": 842,
       "ideas": 11,
       "role": "chapter",
-      "order": 27,
+      "order": 24,
       "prev": "ezopovy_bajky_027.html",
       "next": "ezopovy_bajky_029.html",
       "toc": [
@@ -579,7 +519,7 @@
       "chars": 820,
       "ideas": 9,
       "role": "chapter",
-      "order": 28,
+      "order": 25,
       "prev": "ezopovy_bajky_028.html",
       "next": "ezopovy_bajky_030.html",
       "toc": [
@@ -599,7 +539,7 @@
       "chars": 966,
       "ideas": 9,
       "role": "chapter",
-      "order": 29,
+      "order": 26,
       "prev": "ezopovy_bajky_029.html",
       "next": "ezopovy_bajky_031.html",
       "toc": [
@@ -619,7 +559,7 @@
       "chars": 796,
       "ideas": 10,
       "role": "chapter",
-      "order": 30,
+      "order": 27,
       "prev": "ezopovy_bajky_030.html",
       "next": "ezopovy_bajky_032.html",
       "toc": [
@@ -639,7 +579,7 @@
       "chars": 1149,
       "ideas": 9,
       "role": "chapter",
-      "order": 31,
+      "order": 28,
       "prev": "ezopovy_bajky_031.html",
       "next": "ezopovy_bajky_033.html",
       "toc": [
@@ -659,7 +599,7 @@
       "chars": 1049,
       "ideas": 11,
       "role": "chapter",
-      "order": 32,
+      "order": 29,
       "prev": "ezopovy_bajky_032.html",
       "next": "ezopovy_bajky_034.html",
       "toc": [
@@ -679,7 +619,7 @@
       "chars": 985,
       "ideas": 10,
       "role": "chapter",
-      "order": 33,
+      "order": 30,
       "prev": "ezopovy_bajky_033.html",
       "next": "ezopovy_bajky_035.html",
       "toc": [
@@ -699,7 +639,7 @@
       "chars": 1188,
       "ideas": 11,
       "role": "chapter",
-      "order": 34,
+      "order": 31,
       "prev": "ezopovy_bajky_034.html",
       "next": "ezopovy_bajky_036.html",
       "toc": [
@@ -719,7 +659,7 @@
       "chars": 919,
       "ideas": 10,
       "role": "chapter",
-      "order": 35,
+      "order": 32,
       "prev": "ezopovy_bajky_035.html",
       "next": "ezopovy_bajky_037.html",
       "toc": [
@@ -739,7 +679,7 @@
       "chars": 1070,
       "ideas": 9,
       "role": "chapter",
-      "order": 36,
+      "order": 33,
       "prev": "ezopovy_bajky_036.html",
       "next": "ezopovy_bajky_038.html",
       "toc": [
@@ -759,7 +699,7 @@
       "chars": 849,
       "ideas": 10,
       "role": "chapter",
-      "order": 37,
+      "order": 34,
       "prev": "ezopovy_bajky_037.html",
       "next": "ezopovy_bajky_039.html",
       "toc": [
@@ -779,7 +719,7 @@
       "chars": 1088,
       "ideas": 9,
       "role": "chapter",
-      "order": 38,
+      "order": 35,
       "prev": "ezopovy_bajky_038.html",
       "next": "ezopovy_bajky_040.html",
       "toc": [
@@ -799,7 +739,7 @@
       "chars": 1140,
       "ideas": 11,
       "role": "chapter",
-      "order": 39,
+      "order": 36,
       "prev": "ezopovy_bajky_039.html",
       "next": "ezopovy_bajky_041.html",
       "toc": [
@@ -819,7 +759,7 @@
       "chars": 1120,
       "ideas": 12,
       "role": "chapter",
-      "order": 40,
+      "order": 37,
       "prev": "ezopovy_bajky_040.html",
       "next": "ezopovy_bajky_042.html",
       "toc": [
@@ -839,7 +779,7 @@
       "chars": 733,
       "ideas": 11,
       "role": "chapter",
-      "order": 41,
+      "order": 38,
       "prev": "ezopovy_bajky_041.html",
       "next": "ezopovy_bajky_043.html",
       "toc": [
@@ -859,7 +799,7 @@
       "chars": 668,
       "ideas": 9,
       "role": "chapter",
-      "order": 42,
+      "order": 39,
       "prev": "ezopovy_bajky_042.html",
       "next": "ezopovy_bajky_044.html",
       "toc": [
@@ -879,7 +819,7 @@
       "chars": 838,
       "ideas": 9,
       "role": "chapter",
-      "order": 43,
+      "order": 40,
       "prev": "ezopovy_bajky_043.html",
       "next": "ezopovy_bajky_045.html",
       "toc": [
@@ -899,7 +839,7 @@
       "chars": 837,
       "ideas": 8,
       "role": "chapter",
-      "order": 44,
+      "order": 41,
       "prev": "ezopovy_bajky_044.html",
       "next": "ezopovy_bajky_046.html",
       "toc": [
@@ -919,7 +859,7 @@
       "chars": 866,
       "ideas": 10,
       "role": "chapter",
-      "order": 45,
+      "order": 42,
       "prev": "ezopovy_bajky_045.html",
       "next": "ezopovy_bajky_047.html",
       "toc": [
@@ -939,7 +879,7 @@
       "chars": 557,
       "ideas": 9,
       "role": "chapter",
-      "order": 46,
+      "order": 43,
       "prev": "ezopovy_bajky_046.html",
       "next": "ezopovy_bajky_048.html",
       "toc": [
@@ -959,7 +899,7 @@
       "chars": 810,
       "ideas": 10,
       "role": "chapter",
-      "order": 47,
+      "order": 44,
       "prev": "ezopovy_bajky_047.html",
       "next": "ezopovy_bajky_049.html",
       "toc": [
@@ -979,7 +919,7 @@
       "chars": 1193,
       "ideas": 9,
       "role": "chapter",
-      "order": 48,
+      "order": 45,
       "prev": "ezopovy_bajky_048.html",
       "next": "ezopovy_bajky_050.html",
       "toc": [
@@ -999,7 +939,7 @@
       "chars": 1126,
       "ideas": 15,
       "role": "chapter",
-      "order": 49,
+      "order": 46,
       "prev": "ezopovy_bajky_049.html",
       "next": "ezopovy_bajky_051.html",
       "toc": [
@@ -1019,7 +959,7 @@
       "chars": 1067,
       "ideas": 10,
       "role": "chapter",
-      "order": 50,
+      "order": 47,
       "prev": "ezopovy_bajky_050.html",
       "next": "ezopovy_bajky_052.html",
       "toc": [
@@ -1039,7 +979,7 @@
       "chars": 1005,
       "ideas": 12,
       "role": "chapter",
-      "order": 51,
+      "order": 48,
       "prev": "ezopovy_bajky_051.html",
       "next": "ezopovy_bajky_053.html",
       "toc": [
@@ -1059,7 +999,7 @@
       "chars": 1331,
       "ideas": 12,
       "role": "chapter",
-      "order": 52,
+      "order": 49,
       "prev": "ezopovy_bajky_052.html",
       "next": "ezopovy_bajky_054.html",
       "toc": [
@@ -1079,7 +1019,7 @@
       "chars": 1004,
       "ideas": 11,
       "role": "chapter",
-      "order": 53,
+      "order": 50,
       "prev": "ezopovy_bajky_053.html",
       "next": "ezopovy_bajky_055.html",
       "toc": [
@@ -1099,7 +1039,7 @@
       "chars": 924,
       "ideas": 8,
       "role": "chapter",
-      "order": 54,
+      "order": 51,
       "prev": "ezopovy_bajky_054.html",
       "next": "ezopovy_bajky_056.html",
       "toc": [
@@ -1119,7 +1059,7 @@
       "chars": 1021,
       "ideas": 22,
       "role": "chapter",
-      "order": 55,
+      "order": 52,
       "prev": "ezopovy_bajky_055.html",
       "next": "ezopovy_bajky_057.html",
       "toc": [
@@ -1139,7 +1079,7 @@
       "chars": 954,
       "ideas": 9,
       "role": "chapter",
-      "order": 56,
+      "order": 53,
       "prev": "ezopovy_bajky_056.html",
       "next": "ezopovy_bajky_058.html",
       "toc": [
@@ -1159,7 +1099,7 @@
       "chars": 1071,
       "ideas": 12,
       "role": "chapter",
-      "order": 57,
+      "order": 54,
       "prev": "ezopovy_bajky_057.html",
       "next": "ezopovy_bajky_059.html",
       "toc": [
@@ -1179,7 +1119,7 @@
       "chars": 911,
       "ideas": 10,
       "role": "chapter",
-      "order": 58,
+      "order": 55,
       "prev": "ezopovy_bajky_058.html",
       "next": "ezopovy_bajky_060.html",
       "toc": [
@@ -1199,7 +1139,7 @@
       "chars": 1040,
       "ideas": 11,
       "role": "chapter",
-      "order": 59,
+      "order": 56,
       "prev": "ezopovy_bajky_059.html",
       "next": "ezopovy_bajky_061.html",
       "toc": [
@@ -1219,7 +1159,7 @@
       "chars": 598,
       "ideas": 6,
       "role": "chapter",
-      "order": 60,
+      "order": 57,
       "prev": "ezopovy_bajky_060.html",
       "next": "ezopovy_bajky_062.html",
       "toc": [
@@ -1239,7 +1179,7 @@
       "chars": 1026,
       "ideas": 12,
       "role": "chapter",
-      "order": 61,
+      "order": 58,
       "prev": "ezopovy_bajky_061.html",
       "next": "ezopovy_bajky_063.html",
       "toc": [
@@ -1259,7 +1199,7 @@
       "chars": 1155,
       "ideas": 13,
       "role": "chapter",
-      "order": 62,
+      "order": 59,
       "prev": "ezopovy_bajky_062.html",
       "next": "ezopovy_bajky_064.html",
       "toc": [
@@ -1279,7 +1219,7 @@
       "chars": 893,
       "ideas": 12,
       "role": "chapter",
-      "order": 63,
+      "order": 60,
       "prev": "ezopovy_bajky_063.html",
       "next": "ezopovy_bajky_065.html",
       "toc": [
@@ -1299,7 +1239,7 @@
       "chars": 701,
       "ideas": 9,
       "role": "chapter",
-      "order": 64,
+      "order": 61,
       "prev": "ezopovy_bajky_064.html",
       "next": "ezopovy_bajky_066.html",
       "toc": [
@@ -1319,7 +1259,7 @@
       "chars": 816,
       "ideas": 9,
       "role": "chapter",
-      "order": 65,
+      "order": 62,
       "prev": "ezopovy_bajky_065.html",
       "next": "ezopovy_bajky_067.html",
       "toc": [
@@ -1339,7 +1279,7 @@
       "chars": 655,
       "ideas": 11,
       "role": "chapter",
-      "order": 66,
+      "order": 63,
       "prev": "ezopovy_bajky_066.html",
       "next": "ezopovy_bajky_068.html",
       "toc": [
@@ -1359,7 +1299,7 @@
       "chars": 1256,
       "ideas": 9,
       "role": "chapter",
-      "order": 67,
+      "order": 64,
       "prev": "ezopovy_bajky_067.html",
       "next": "ezopovy_bajky_069.html",
       "toc": [
@@ -1379,7 +1319,7 @@
       "chars": 776,
       "ideas": 11,
       "role": "chapter",
-      "order": 68,
+      "order": 65,
       "prev": "ezopovy_bajky_068.html",
       "next": "ezopovy_bajky_070.html",
       "toc": [
@@ -1399,7 +1339,7 @@
       "chars": 1299,
       "ideas": 9,
       "role": "chapter",
-      "order": 69,
+      "order": 66,
       "prev": "ezopovy_bajky_069.html",
       "next": "ezopovy_bajky_071.html",
       "toc": [
@@ -1419,7 +1359,7 @@
       "chars": 904,
       "ideas": 10,
       "role": "chapter",
-      "order": 70,
+      "order": 67,
       "prev": "ezopovy_bajky_070.html",
       "next": "ezopovy_bajky_072.html",
       "toc": [
@@ -1439,7 +1379,7 @@
       "chars": 1074,
       "ideas": 11,
       "role": "chapter",
-      "order": 71,
+      "order": 68,
       "prev": "ezopovy_bajky_071.html",
       "next": "ezopovy_bajky_073.html",
       "toc": [
@@ -1459,7 +1399,7 @@
       "chars": 980,
       "ideas": 10,
       "role": "chapter",
-      "order": 72,
+      "order": 69,
       "prev": "ezopovy_bajky_072.html",
       "next": "ezopovy_bajky_074.html",
       "toc": [
@@ -1479,7 +1419,7 @@
       "chars": 1153,
       "ideas": 14,
       "role": "chapter",
-      "order": 73,
+      "order": 70,
       "prev": "ezopovy_bajky_073.html",
       "next": "ezopovy_bajky_075.html",
       "toc": [
@@ -1499,7 +1439,7 @@
       "chars": 942,
       "ideas": 11,
       "role": "chapter",
-      "order": 74,
+      "order": 71,
       "prev": "ezopovy_bajky_074.html",
       "next": "ezopovy_bajky_076.html",
       "toc": [
@@ -1519,7 +1459,7 @@
       "chars": 912,
       "ideas": 10,
       "role": "chapter",
-      "order": 75,
+      "order": 72,
       "prev": "ezopovy_bajky_075.html",
       "next": "ezopovy_bajky_077.html",
       "toc": [
@@ -1539,7 +1479,7 @@
       "chars": 1142,
       "ideas": 11,
       "role": "chapter",
-      "order": 76,
+      "order": 73,
       "prev": "ezopovy_bajky_076.html",
       "next": "ezopovy_bajky_078.html",
       "toc": [
@@ -1559,7 +1499,7 @@
       "chars": 754,
       "ideas": 9,
       "role": "chapter",
-      "order": 77,
+      "order": 74,
       "prev": "ezopovy_bajky_077.html",
       "next": "ezopovy_bajky_079.html",
       "toc": [
@@ -1579,7 +1519,7 @@
       "chars": 975,
       "ideas": 12,
       "role": "chapter",
-      "order": 78,
+      "order": 75,
       "prev": "ezopovy_bajky_078.html",
       "next": "ezopovy_bajky_080.html",
       "toc": [
@@ -1599,7 +1539,7 @@
       "chars": 1089,
       "ideas": 11,
       "role": "chapter",
-      "order": 79,
+      "order": 76,
       "prev": "ezopovy_bajky_079.html",
       "next": "ezopovy_bajky_081.html",
       "toc": [
@@ -1619,7 +1559,7 @@
       "chars": 1235,
       "ideas": 9,
       "role": "chapter",
-      "order": 80,
+      "order": 77,
       "prev": "ezopovy_bajky_080.html",
       "next": "ezopovy_bajky_082.html",
       "toc": [
@@ -1639,7 +1579,7 @@
       "chars": 935,
       "ideas": 13,
       "role": "chapter",
-      "order": 81,
+      "order": 78,
       "prev": "ezopovy_bajky_081.html",
       "next": "ezopovy_bajky_083.html",
       "toc": [
@@ -1659,7 +1599,7 @@
       "chars": 1064,
       "ideas": 14,
       "role": "chapter",
-      "order": 82,
+      "order": 79,
       "prev": "ezopovy_bajky_082.html",
       "next": "ezopovy_bajky_084.html",
       "toc": [
@@ -1679,7 +1619,7 @@
       "chars": 929,
       "ideas": 9,
       "role": "chapter",
-      "order": 83,
+      "order": 80,
       "prev": "ezopovy_bajky_083.html",
       "next": "ezopovy_bajky_085.html",
       "toc": [
@@ -1699,7 +1639,7 @@
       "chars": 1071,
       "ideas": 12,
       "role": "chapter",
-      "order": 84,
+      "order": 81,
       "prev": "ezopovy_bajky_084.html",
       "next": "ezopovy_bajky_086.html",
       "toc": [
@@ -1719,7 +1659,7 @@
       "chars": 1172,
       "ideas": 11,
       "role": "chapter",
-      "order": 85,
+      "order": 82,
       "prev": "ezopovy_bajky_085.html",
       "next": "ezopovy_bajky_087.html",
       "toc": [
@@ -1739,7 +1679,7 @@
       "chars": 1110,
       "ideas": 11,
       "role": "chapter",
-      "order": 86,
+      "order": 83,
       "prev": "ezopovy_bajky_086.html",
       "next": "ezopovy_bajky_088.html",
       "toc": [
@@ -1759,7 +1699,7 @@
       "chars": 1280,
       "ideas": 11,
       "role": "chapter",
-      "order": 87,
+      "order": 84,
       "prev": "ezopovy_bajky_087.html",
       "next": "ezopovy_bajky_089.html",
       "toc": [
@@ -1779,7 +1719,7 @@
       "chars": 1031,
       "ideas": 8,
       "role": "chapter",
-      "order": 88,
+      "order": 85,
       "prev": "ezopovy_bajky_088.html",
       "next": "ezopovy_bajky_090.html",
       "toc": [
@@ -1799,7 +1739,7 @@
       "chars": 795,
       "ideas": 13,
       "role": "chapter",
-      "order": 89,
+      "order": 86,
       "prev": "ezopovy_bajky_089.html",
       "next": "ezopovy_bajky_091.html",
       "toc": [
@@ -1819,7 +1759,7 @@
       "chars": 1028,
       "ideas": 10,
       "role": "chapter",
-      "order": 90,
+      "order": 87,
       "prev": "ezopovy_bajky_090.html",
       "next": "ezopovy_bajky_092.html",
       "toc": [
@@ -1839,7 +1779,7 @@
       "chars": 1316,
       "ideas": 17,
       "role": "chapter",
-      "order": 91,
+      "order": 88,
       "prev": "ezopovy_bajky_091.html",
       "next": "ezopovy_bajky_093.html",
       "toc": [
@@ -1859,7 +1799,7 @@
       "chars": 1362,
       "ideas": 15,
       "role": "chapter",
-      "order": 92,
+      "order": 89,
       "prev": "ezopovy_bajky_092.html",
       "next": "ezopovy_bajky_094.html",
       "toc": [
@@ -1879,7 +1819,7 @@
       "chars": 815,
       "ideas": 9,
       "role": "chapter",
-      "order": 93,
+      "order": 90,
       "prev": "ezopovy_bajky_093.html",
       "next": "ezopovy_bajky_095.html",
       "toc": [
@@ -1899,7 +1839,7 @@
       "chars": 987,
       "ideas": 10,
       "role": "chapter",
-      "order": 94,
+      "order": 91,
       "prev": "ezopovy_bajky_094.html",
       "next": "ezopovy_bajky_096.html",
       "toc": [
@@ -1919,7 +1859,7 @@
       "chars": 976,
       "ideas": 11,
       "role": "chapter",
-      "order": 95,
+      "order": 92,
       "prev": "ezopovy_bajky_095.html",
       "next": "ezopovy_bajky_097.html",
       "toc": [
@@ -1939,7 +1879,7 @@
       "chars": 1364,
       "ideas": 11,
       "role": "chapter",
-      "order": 96,
+      "order": 93,
       "prev": "ezopovy_bajky_096.html",
       "next": "ezopovy_bajky_098.html",
       "toc": [
@@ -1959,7 +1899,7 @@
       "chars": 1293,
       "ideas": 13,
       "role": "chapter",
-      "order": 97,
+      "order": 94,
       "prev": "ezopovy_bajky_097.html",
       "next": "ezopovy_bajky_099.html",
       "toc": [
@@ -1979,7 +1919,7 @@
       "chars": 1064,
       "ideas": 9,
       "role": "chapter",
-      "order": 98,
+      "order": 95,
       "prev": "ezopovy_bajky_098.html",
       "next": "ezopovy_bajky_100.html",
       "toc": [
@@ -1999,7 +1939,7 @@
       "chars": 885,
       "ideas": 12,
       "role": "chapter",
-      "order": 99,
+      "order": 96,
       "prev": "ezopovy_bajky_099.html",
       "next": "ezopovy_bajky_101.html",
       "toc": [
@@ -2019,7 +1959,7 @@
       "chars": 852,
       "ideas": 9,
       "role": "chapter",
-      "order": 100,
+      "order": 97,
       "prev": "ezopovy_bajky_100.html",
       "next": "ezopovy_bajky_102.html",
       "toc": [
@@ -2039,9 +1979,9 @@
       "chars": 744,
       "ideas": 9,
       "role": "chapter",
-      "order": 101,
+      "order": 98,
       "prev": "ezopovy_bajky_101.html",
-      "next": "ezopovy_bajky_103.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -2053,20 +1993,20 @@
       ]
     },
     {
-      "title": "Ezopovy bajky",
-      "file": "ezopovy_bajky_103.html",
-      "words": 41,
-      "chars": 278,
-      "ideas": 11,
-      "role": "chapter",
-      "order": 102,
+      "title": "Tiráž • Ezopovy bajky",
+      "file": "colophon.html",
+      "words": 136,
+      "chars": 895,
+      "ideas": 21,
+      "role": "colophon",
+      "order": null,
       "prev": "ezopovy_bajky_102.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -2080,9 +2020,9 @@
       "ideas": 1063
     },
     "chapters": {
-      "words": 17086,
-      "chars": 96161,
-      "ideas": 1058
+      "words": 16951,
+      "chars": 95271,
+      "ideas": 1038
     }
   }
 }

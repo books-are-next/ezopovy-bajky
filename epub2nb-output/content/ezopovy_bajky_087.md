@@ -2,6 +2,8 @@
 title: Liška bez ocasu
 ---
 
+  
+
 Jedna liška přišla v pasti o ocas. Protože dřív bývala na svůj ohon nesmírně pyšná, trápila se nad ztrátou té ozdoby tak, že zprvu ani nechtěla vycházet z nory.
 
 Pak ji hlad vyhnal na lov. Měla štěstí, protože ulovila hned tři zajíce. A tehdy dostala nápad. Rozhodla se, že lišky přemluví, aby se také zbavily ocasu. Tím její hanba zmizí a bude si mezi ostatními připadat stejně krásná jako dřív.
@@ -14,7 +16,7 @@ Jen jedna stará liška se ozvala: „Mluvíš hezky, ale jen proto, že chceš 
 
 Byla to rozumná odpověď a všechny lišky přesvědčila.
 
-Protože u rozumného nepochodí ten,  
-kdo mu radí a myslí  
-přitom jenom na svůj  
-vlastní prospěch.
+> Protože u rozumného nepochodí ten,  
+> kdo mu radí a myslí  
+> přitom jenom na svůj  
+> vlastní prospěch.

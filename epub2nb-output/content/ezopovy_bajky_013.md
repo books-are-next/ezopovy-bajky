@@ -2,6 +2,8 @@
 title: "Netopýr, šípkový keř a\_potápka"
 ---
 
+  
+
 Byly časy, kdy netopýr ve dne lítal a v noci spal jako většina ostatních tvorů. Šípkový keř vyháněl růžové květy a neměl trny. A potápka se vyhýbala vodě a žila v lesích jako jiní ptáci.
 
 Jednou se ale netopýr, šípek a potápka spřátelili a slíbili si věrnost. „O všechno se rozdělíme a pustíme se společně do obchodu!“ řekli si.
@@ -18,5 +20,5 @@ Netopýr se pak musel ukrývat před věřiteli, kterým nemohl vrátit vypůjč
 
 A potápka? Ta se vrátila nad moře a hledá svůj ztracený měděný poklad. Co chvíli se ponoří do hlubin, ale na povrch vynese nanejvýš mrňavou rybku.
 
-Tak každý hledá, co v životě ztratil  
-a co je nenávratně pryč.
+> Tak každý hledá, co v životě ztratil  
+> a co je nenávratně pryč.

@@ -19,12 +19,12 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "",
+      "brBefore": "MLP-text-bez1radku MLP-text-bez1radku--0-12 MLP-text-bez1radku--12-0 ",
       "brAfter": "",
-      "blockquote": "",
-      "figure": "",
+      "blockquote": "MLP-dopis-bez1radku--I ",
+      "figure": "MLP-obrazky ",
       "em": "",
-      "strong": "",
+      "strong": "MLP-tiraz-autor-a-nazev ",
       "remove": "",
       "ignore": ""
     },
@@ -32,12 +32,13 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "ezopovy_bajky_001.md",
             "xhtml": "ezopovy_bajky_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
@@ -49,7 +50,7 @@
             "id": 1,
             "role": "chapter",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -57,7 +58,7 @@
             "filename": "ezopovy_bajky_003.md",
             "xhtml": "ezopovy_bajky_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
@@ -67,7 +68,7 @@
             "filename": "ezopovy_bajky_004.md",
             "xhtml": "ezopovy_bajky_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
@@ -81,7 +82,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Volba krále zvířat"
           },
           {
             "filename": "ezopovy_bajky_006.md",
@@ -91,7 +93,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Orel a chrobák"
           },
           {
             "filename": "ezopovy_bajky_007.md",
@@ -101,7 +104,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Orel a liška"
           },
           {
             "filename": "ezopovy_bajky_008.md",
@@ -111,7 +115,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Sele a ovce"
           },
           {
             "filename": "ezopovy_bajky_009.md",
@@ -121,7 +126,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Havran a liška"
           },
           {
             "filename": "ezopovy_bajky_010.md",
@@ -131,7 +137,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Divoké kozy a pastýř"
           },
           {
             "filename": "ezopovy_bajky_011.md",
@@ -141,7 +148,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Cestující v bouři"
           },
           {
             "filename": "ezopovy_bajky_012.md",
@@ -151,7 +159,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Rybář a píšťala"
           },
           {
             "filename": "ezopovy_bajky_013.md",
@@ -161,7 +170,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Netopýr, šípkový keř a potápka"
           },
           {
             "filename": "ezopovy_bajky_014.md",
@@ -171,7 +181,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Lasička a kohout"
           },
           {
             "filename": "ezopovy_bajky_015.md",
@@ -181,7 +192,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Lasička a slepice"
           },
           {
             "filename": "ezopovy_bajky_016.md",
@@ -191,7 +203,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Netopýr a lasičky"
           },
           {
             "filename": "ezopovy_bajky_017.md",
@@ -201,7 +214,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Chytrák a truhla zlatých mincí"
           },
           {
             "filename": "ezopovy_bajky_018.md",
@@ -211,7 +225,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Vinař a jeho synové"
           },
           {
             "filename": "ezopovy_bajky_019.md",
@@ -221,7 +236,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kočka a bohyně Afrodite"
           },
           {
             "filename": "ezopovy_bajky_020.md",
@@ -231,7 +247,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Lev, vlk a liška"
           },
           {
             "filename": "ezopovy_bajky_021.md",
@@ -241,7 +258,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Lev a myš"
           },
           {
             "filename": "ezopovy_bajky_022.md",
@@ -251,7 +269,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Osel, liška a lev"
           },
           {
             "filename": "ezopovy_bajky_023.md",
@@ -261,7 +280,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Lev a osel"
           },
           {
             "filename": "ezopovy_bajky_024.md",
@@ -271,7 +291,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Myši a kočky"
           },
           {
             "filename": "ezopovy_bajky_025.md",
@@ -281,7 +302,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kavka a holubi"
           },
           {
             "filename": "ezopovy_bajky_026.md",
@@ -291,7 +313,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Orel, kavka a pastýř"
           },
           {
             "filename": "ezopovy_bajky_027.md",
@@ -301,7 +324,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Mravenec a Zeus"
           },
           {
             "filename": "ezopovy_bajky_028.md",
@@ -311,7 +335,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Zeus a želva"
           },
           {
             "filename": "ezopovy_bajky_029.md",
@@ -321,7 +346,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Vlci a ovce"
           },
           {
             "filename": "ezopovy_bajky_030.md",
@@ -331,7 +357,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Osel a cikády"
           },
           {
             "filename": "ezopovy_bajky_031.md",
@@ -341,7 +368,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Vlk a volavka"
           },
           {
             "filename": "ezopovy_bajky_032.md",
@@ -351,7 +379,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Vlk a psi"
           },
           {
             "filename": "ezopovy_bajky_033.md",
@@ -361,7 +390,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Osel a vlk"
           },
           {
             "filename": "ezopovy_bajky_034.md",
@@ -371,7 +401,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Pastýř a vlčata"
           },
           {
             "filename": "ezopovy_bajky_035.md",
@@ -381,7 +412,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Osel a zahradník"
           },
           {
             "filename": "ezopovy_bajky_036.md",
@@ -391,7 +423,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Hvězdář a žába"
           },
           {
             "filename": "ezopovy_bajky_037.md",
@@ -401,7 +434,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kupec a moře"
           },
           {
             "filename": "ezopovy_bajky_038.md",
@@ -411,7 +445,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Zajíci a žáby"
           },
           {
             "filename": "ezopovy_bajky_039.md",
@@ -421,7 +456,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Poutník a Hermes"
           },
           {
             "filename": "ezopovy_bajky_040.md",
@@ -431,7 +467,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Otec a dcery"
           },
           {
             "filename": "ezopovy_bajky_041.md",
@@ -441,7 +478,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Vlk a pastýř"
           },
           {
             "filename": "ezopovy_bajky_042.md",
@@ -451,7 +489,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Lev, osel a liška"
           },
           {
             "filename": "ezopovy_bajky_043.md",
@@ -461,7 +500,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Lev za vraty"
           },
           {
             "filename": "ezopovy_bajky_044.md",
@@ -471,7 +511,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Lev a pastýř"
           },
           {
             "filename": "ezopovy_bajky_045.md",
@@ -481,7 +522,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Poutníci a platan"
           },
           {
             "filename": "ezopovy_bajky_046.md",
@@ -491,7 +533,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Poutníci a medvěd"
           },
           {
             "filename": "ezopovy_bajky_047.md",
@@ -501,7 +544,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Opice a rybáři"
           },
           {
             "filename": "ezopovy_bajky_048.md",
@@ -511,7 +555,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Včely a Zeus"
           },
           {
             "filename": "ezopovy_bajky_049.md",
@@ -521,7 +566,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Pastýř vtipálek"
           },
           {
             "filename": "ezopovy_bajky_050.md",
@@ -531,7 +577,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Vlk a pes"
           },
           {
             "filename": "ezopovy_bajky_051.md",
@@ -541,7 +588,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Hospodář kupující osla"
           },
           {
             "filename": "ezopovy_bajky_052.md",
@@ -551,7 +599,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Osel a kůň"
           },
           {
             "filename": "ezopovy_bajky_053.md",
@@ -561,7 +610,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Dřevorubec a bůh Hermes"
           },
           {
             "filename": "ezopovy_bajky_054.md",
@@ -571,7 +621,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Stařena a lékař"
           },
           {
             "filename": "ezopovy_bajky_055.md",
@@ -581,7 +632,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Slunce a severák"
           },
           {
             "filename": "ezopovy_bajky_056.md",
@@ -591,7 +643,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Nemocný a lékař"
           },
           {
             "filename": "ezopovy_bajky_057.md",
@@ -601,7 +654,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Vlaštovka a soudce"
           },
           {
             "filename": "ezopovy_bajky_058.md",
@@ -611,7 +665,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Věštec"
           },
           {
             "filename": "ezopovy_bajky_059.md",
@@ -621,7 +676,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Osel a mezek"
           },
           {
             "filename": "ezopovy_bajky_060.md",
@@ -631,7 +687,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Osel s nákladem soli"
           },
           {
             "filename": "ezopovy_bajky_061.md",
@@ -641,7 +698,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Pes a slepice"
           },
           {
             "filename": "ezopovy_bajky_062.md",
@@ -651,7 +709,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Pes na hostině"
           },
           {
             "filename": "ezopovy_bajky_063.md",
@@ -661,7 +720,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Sněm zvířat"
           },
           {
             "filename": "ezopovy_bajky_064.md",
@@ -671,7 +731,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Jelen a lev"
           },
           {
             "filename": "ezopovy_bajky_065.md",
@@ -681,7 +742,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Liška a dřevorubec"
           },
           {
             "filename": "ezopovy_bajky_066.md",
@@ -691,7 +753,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Osel, mezek a lupiči"
           },
           {
             "filename": "ezopovy_bajky_067.md",
@@ -701,7 +764,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Přátelé a sekera"
           },
           {
             "filename": "ezopovy_bajky_068.md",
@@ -711,7 +775,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Komár, lev a pavouk"
           },
           {
             "filename": "ezopovy_bajky_069.md",
@@ -721,7 +786,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Mravenec a cikáda"
           },
           {
             "filename": "ezopovy_bajky_070.md",
@@ -731,7 +797,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kavka a cizí peří"
           },
           {
             "filename": "ezopovy_bajky_071.md",
@@ -741,7 +808,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Člověk a lev"
           },
           {
             "filename": "ezopovy_bajky_072.md",
@@ -751,7 +819,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Labutí píseň"
           },
           {
             "filename": "ezopovy_bajky_073.md",
@@ -761,7 +830,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Labuť a husa"
           },
           {
             "filename": "ezopovy_bajky_074.md",
@@ -771,7 +841,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Želva a orel"
           },
           {
             "filename": "ezopovy_bajky_075.md",
@@ -781,7 +852,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Had, lasička a myši"
           },
           {
             "filename": "ezopovy_bajky_076.md",
@@ -791,7 +863,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Žížala a velký had"
           },
           {
             "filename": "ezopovy_bajky_077.md",
@@ -801,7 +874,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Liška a čáp"
           },
           {
             "filename": "ezopovy_bajky_078.md",
@@ -811,7 +885,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Dva kohouti"
           },
           {
             "filename": "ezopovy_bajky_079.md",
@@ -821,7 +896,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Pes, liška a kohout"
           },
           {
             "filename": "ezopovy_bajky_080.md",
@@ -831,7 +907,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Člověk, který rozbil sochu"
           },
           {
             "filename": "ezopovy_bajky_081.md",
@@ -841,7 +918,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Lakomec"
           },
           {
             "filename": "ezopovy_bajky_082.md",
@@ -851,7 +929,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Opilec a jeho žena"
           },
           {
             "filename": "ezopovy_bajky_083.md",
@@ -861,7 +940,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Ptáčník a koroptev"
           },
           {
             "filename": "ezopovy_bajky_084.md",
@@ -871,7 +951,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Jedle a šípkový keř"
           },
           {
             "filename": "ezopovy_bajky_085.md",
@@ -881,7 +962,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Vlaštovka a jmelí"
           },
           {
             "filename": "ezopovy_bajky_086.md",
@@ -891,7 +973,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Orlice, kočka a divoká svině"
           },
           {
             "filename": "ezopovy_bajky_087.md",
@@ -901,7 +984,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Liška bez ocasu"
           },
           {
             "filename": "ezopovy_bajky_088.md",
@@ -911,7 +995,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kanec a kůň"
           },
           {
             "filename": "ezopovy_bajky_089.md",
@@ -921,7 +1006,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Skopci a řezník"
           },
           {
             "filename": "ezopovy_bajky_090.md",
@@ -931,7 +1017,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Včely a trubci před soudem"
           },
           {
             "filename": "ezopovy_bajky_091.md",
@@ -941,7 +1028,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Vosy, špačci, mezek a starý sedlák"
           },
           {
             "filename": "ezopovy_bajky_092.md",
@@ -951,7 +1039,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Člověk a paní Přísaha"
           },
           {
             "filename": "ezopovy_bajky_093.md",
@@ -961,7 +1050,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Zloděj a hostinský"
           },
           {
             "filename": "ezopovy_bajky_094.md",
@@ -971,7 +1061,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Slepice a zlaté vejce"
           },
           {
             "filename": "ezopovy_bajky_095.md",
@@ -981,7 +1072,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Myš a žába"
           },
           {
             "filename": "ezopovy_bajky_096.md",
@@ -991,7 +1083,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Orel, had a lovec"
           },
           {
             "filename": "ezopovy_bajky_097.md",
@@ -1001,7 +1094,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Chlapec zloděj a jeho matka"
           },
           {
             "filename": "ezopovy_bajky_098.md",
@@ -1011,7 +1105,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Šašek a sedlák"
           },
           {
             "filename": "ezopovy_bajky_099.md",
@@ -1021,7 +1116,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Chlapec a namalovaný lev"
           },
           {
             "filename": "ezopovy_bajky_100.md",
@@ -1031,7 +1127,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Člověk a satyr"
           },
           {
             "filename": "ezopovy_bajky_101.md",
@@ -1041,7 +1138,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Trubač"
           },
           {
             "filename": "ezopovy_bajky_102.md",
@@ -1051,13 +1149,14 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Dvě tašky"
           },
           {
             "filename": "ezopovy_bajky_103.md",
             "xhtml": "ezopovy_bajky_103.xhtml",
             "id": 102,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
@@ -1073,7 +1172,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Pavel Šrut",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-02-11T12:14:36.544Z"
+      "modified": "2022-02-11T12:22:05.498Z"
     },
     "chapters": [
       {
@@ -1753,6 +1852,6 @@
       "user": "books-are-next",
       "repo": "ezopovy-bajky"
     },
-    "generatedAt": 1644581677079
+    "generatedAt": 1644582126086
   }
 }

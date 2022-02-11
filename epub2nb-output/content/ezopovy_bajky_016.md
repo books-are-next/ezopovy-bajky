@@ -2,6 +2,8 @@
 title: "Netopýr a\_lasičky"
 ---
 
+  
+
 Netopýr v letu zavadil o větev a pochroumal si křídlo. Spadl na zem, a než se vzpamatoval, přismykla se k němu lasička. Měla hlad a chuť na nějakého ptáčka. A hned to také dala netopýrovi najevo.
 
 „Ale já nejsem pták!“ bránil se netopýr. „Dobře si mě, lasičko, prohlídni. Já jsem přece myš!“
@@ -18,5 +20,5 @@ Za nějaký čas netopýr zase zavadil křídlem o větev a spadl na zem. Kole
 
 A rozpřáhl křídla a uletěl.
 
-Tak si netopýr, nebo člověk, může v nebezpečí  
-trochou chytráctví zachránit zdravou kůži.
+> Tak si netopýr, nebo člověk, může v nebezpečí  
+> trochou chytráctví zachránit zdravou kůži.

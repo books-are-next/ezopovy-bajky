@@ -2,6 +2,8 @@
 title: Osel a zahradník
 ---
 
+  
+
 Osel sloužil u zahradníka. Tahal na hřbetě náklady zeleniny a ovoce, ale sám dostával jen trávu a nějaké padavky. Jednou si na svůj úděl stěžoval u vládce Olympu.
 
 Zeus si myslel své. Věděl, že oslí život je život slouhovský a těžko najít pána, který bude oslovi podstrojovat. Ale nakonec mu vyhověl.
@@ -18,5 +20,5 @@ Když osel poznal, čím se jeho pán živí, dostal strach. „Zachraň mne!“
 
 Ale Zeus mu neodpověděl. Jen se hrozivě zamračil. A osel smutně šlapal zpátky k svému pánovi koželuhovi.
 
-Tak i člověk, který si stále na něco stěžuje,  
-pozná, že stará příkoří nebyla tak zlá jako ta nová.
+> Tak i člověk, který si stále na něco stěžuje,  
+> pozná, že stará příkoří nebyla tak zlá jako ta nová.

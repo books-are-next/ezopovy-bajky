@@ -2,6 +2,8 @@
 title: "Myši a\_kočky"
 ---
 
+  
+
 Kočky a myši žily na válečné noze. Válka se vedla od nepaměti. A kam paměť sahá, měla vždycky stejný konec. Kočky pár myší pochytaly a ostatní rozehnaly.
 
 Proto se jednou na poli sešel myší sněm.
@@ -20,5 +22,5 @@ Jenže kočky se myší s býčími rohy nepolekaly. Bitva začala a skončila
 
 Malé myšky našly útočiště v dírách a skrýškách. Ale generál a velitelé dopadli zle. Chtěli se sice také schovat, ale vchod do jejich doupátek byl příliš úzký. Kvůli rohům se tam nevešli. Kočky všechny myší velitele i s jejich generálem snadno pochytaly.
 
-Tak ješitnost a hloupost  
-znovu dostaly za vyučenou.
+> Tak ješitnost a hloupost  
+> znovu dostaly za vyučenou.

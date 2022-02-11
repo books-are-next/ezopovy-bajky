@@ -2,6 +2,8 @@
 title: "Liška a\_dřevorubec"
 ---
 
+  
+
 Liška hledala pomoc před lovci u dřevorubce. Znali se z lesa a nikdy si neublížili.
 
 Dřevorubec zavřel zrzavou kamarádku v komoře. Ale zanedlouho lovci vtrhli do chatrče a hartusili: „Viděli jsme sem vběhnout lišku! Kde je?“
@@ -14,5 +16,5 @@ Ale liška slyšela a viděla oboje. Když ji pak dřevorubec pustil z komory 
 
 Dřevorubec jí vyčítal nevděk, ale liška si myslela své. Odešla z lesa a víckrát už se nepotkali.
 
-A kdo byl v právu,  
-to si pomyslete sami.
+> A kdo byl v právu,  
+> to si pomyslete sami.

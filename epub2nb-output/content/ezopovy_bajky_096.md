@@ -2,6 +2,8 @@
 title: "Orel, had a\_lovec"
 ---
 
+  
+
 V zemi velkých hadů a skalních orlů právě had a orel žili na jedné skále.
 
 Had chtěl být vládcem všech skal, po kterých se plazil, a orlovi milostivě přenechal oblohu.
@@ -18,5 +20,5 @@ Orlovi to neušlo. Spustil se z oblohy jako blesk a zobanem vytrhl pohár své
 
 Víckrát už se nepotkali, ale věděli oba, že…
 
-… kdo činí dobro,  
-dočká se vděčnosti.
+> … kdo činí dobro,  
+> dočká se vděčnosti.
