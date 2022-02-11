@@ -30,6 +30,6 @@ A před hořícím domem stála paní Přísaha.
 
 „Nevrátila bych se,“ odpověděla paní Přísaha, „kdybys mne tak rychle nepřivolal zpátky. Když mě někdo křivou přísahou urazí, jsem na místě hned.“
 
-> Ano, špatný čin sám na sebe si přivolává trest.  
+> _Ano, špatný čin sám na sebe si přivolává trest.  
 > A špatný člověk nesmí doufat,  
-> že se mu trest vyhne či že snad bude otálet.
+> že se mu trest vyhne či že snad bude otálet._

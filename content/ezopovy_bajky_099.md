@@ -16,5 +16,5 @@ Jednou v zoufalství se na namalovaného lva vrhl, aby ho seškrábal ze stěny
 
 Tak lev hocha zahubil, i když byl jenom namalovaný.
 
-> Je to pohádka, anebo není?  
-> Ten, kdo nám osud píše, nerad své slovo mění.
+> _Je to pohádka, anebo není?  
+> Ten, kdo nám osud píše, nerad své slovo mění._

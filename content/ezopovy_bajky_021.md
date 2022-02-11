@@ -20,6 +20,6 @@ Myška všechno viděla. Sotva lovci zmizeli za kopcem, přiběhla ke stromu a 
 
 „To abys věděl, že i mrňavá myš ví, co je vděk,“ řekla.
 
-> A král zvířat poznal,  
+> _A král zvířat poznal,  
 > že ani ten nejmenší tvor  
-> neběhá po světě nadarmo.
+> neběhá po světě nadarmo._

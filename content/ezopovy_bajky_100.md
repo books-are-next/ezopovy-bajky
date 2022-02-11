@@ -22,5 +22,5 @@ A satyr zesmutněl a řekl: „Odcházím od tebe, člověče. Nemůžeme být
 
 Třeba se to stalo, třeba ne. Jisté je, že satyr a člověk se spolu nepřátelí a že…
 
-> … i člověk by se měl vyhýbat příteli,  
-> jehož smýšlení je obojaké.
+> _… i člověk by se měl vyhýbat příteli,  
+> jehož smýšlení je obojaké._

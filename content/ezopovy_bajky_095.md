@@ -16,6 +16,6 @@ Co se stalo? Třetí den se utopená myš ve vodě nafoukla a vyplula na hladin
 
 Sjel z oblohy, myš v letu vylovil – a s ní i žábu. Vždyť byly stále motouzem přivázané k sobě! A tak luňák sežral myš i žábu, protože luňák bývá pořád hladový a cizími příběhy si hlavu neláme.
 
-> Ale vy se nad tím příběhem zamyslete.  
+> _Ale vy se nad tím příběhem zamyslete.  
 > Kdo uvede druhého svou bezstarostností do nebezpečí,  
-> sám na sebe si nebezpečí přivolá.
+> sám na sebe si nebezpečí přivolá._

@@ -20,5 +20,5 @@ Orel nakonec musel prosit o pomoc až na Olympu. Sám Zeus, mocný bůh, orla v
 
 Ale chrobák se ani tehdy nevzdal. Uválel kuličku trusu, vznesl se s ní nad pána Olympu a upustil mu ji do klína. Zeus s hrozivým zaklením vyskočil a smetl trus i s orlím vejcem ze svého klína. A jak jinak, vejce se rozbilo o skálu…
 
-> Vidíte – i ten nejmenší a nejpohrdanější  
-> má svou odvahu a čest.
+> _Vidíte – i ten nejmenší a nejpohrdanější  
+> má svou odvahu a čest._

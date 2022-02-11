@@ -20,6 +20,6 @@ Liška se zaradovala, že narazila na hlupáka, a bezstarostně vklouzla do dut
 
 Zato kohout a pes se domů vesele vrátili.
 
-> Tak rozum a přátelství  
+> _Tak rozum a přátelství  
 > vyhrály  
-> nad zlobou a lstí.
+> nad zlobou a lstí._

@@ -20,5 +20,5 @@ Netopýr se pak musel ukrývat před věřiteli, kterým nemohl vrátit vypůjč
 
 A potápka? Ta se vrátila nad moře a hledá svůj ztracený měděný poklad. Co chvíli se ponoří do hlubin, ale na povrch vynese nanejvýš mrňavou rybku.
 
-> Tak každý hledá, co v životě ztratil  
-> a co je nenávratně pryč.
+> _Tak každý hledá, co v životě ztratil  
+> a co je nenávratně pryč._

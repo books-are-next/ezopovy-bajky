@@ -22,6 +22,6 @@ Chvíli se prospala, ale ještě před rozbřeskem se na hřbitov vrátila a za
 
 „A tak to mi žádné jídlo nenos!“ zvolal muž z rakve. „K čemu je mrtvému jídlo? Radši mi přines kořaličku!“
 
-> Tu máš, čerte, kropáč!  
+> _Tu máš, čerte, kropáč!  
 > Když se člověka chytne špatný návyk,  
-> drží se ho někdy až do hrobu.
+> drží se ho někdy až do hrobu._

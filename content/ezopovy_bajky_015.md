@@ -12,5 +12,5 @@ Lasička dlouho obcházela kolem statku, kde chovali slepice. Jenže dvůr byl z
 
 „Dobře. A ještě líp nám bude, když odejdeš,“ odpověděly slepice a vrata přibouchly a zavřely na závoru.
 
-> Kdepak, špatný úmysl  
-> se za žádné přestrojení neschová.
+> _Kdepak, špatný úmysl  
+> se za žádné přestrojení neschová._

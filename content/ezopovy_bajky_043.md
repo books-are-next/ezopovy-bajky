@@ -14,6 +14,6 @@ Lev sedláka ušetřil, vyběhl ze vrat a vrátil se do svých lovišť.
 
 Chudák hospodář padl na kolena a naříkal nad zkázou svých stád. Ale manželka ho ještě pokárala. „Co se stalo, stalo se z tvé vlastní hlouposti. Příště nezavírej ve svém domě nepřítele! Raději se ho snaž dostat zase rychle za vrata!“
 
-> A co sedlák ženě odpověděl?  
+> _A co sedlák ženě odpověděl?  
 > Nic. Mlčel a mlčky dal  
-> jejímu zdravému rozumu za pravdu.
+> jejímu zdravému rozumu za pravdu._

@@ -20,5 +20,5 @@ To vlka zarazilo. „Ty osle,“ povídá, „tak jako tak tě sežeru, ale pov�
 
 Osel nastavil kopyto, a jak vlk pěkně zblízka hledal třísku, zatmělo se mu najednou před očima. Osel totiž pořádně vykopl a vyrazil vlkovi všechny zuby. A povídá: „Teď mi, vlku, pověz, kdo z nás dvou je větší osel? Ty jsi přece od přírody řezník, tak proč si hraješ na lékaře?“
 
-> A takhle to dopadne často i s lidmi,  
-> kteří se hrnou do věcí, které jim nepřísluší.
+> _A takhle to dopadne často i s lidmi,  
+> kteří se hrnou do věcí, které jim nepřísluší._

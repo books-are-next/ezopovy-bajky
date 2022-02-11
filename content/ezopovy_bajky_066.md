@@ -14,6 +14,6 @@ Zato osel našlapoval zvysoka jako hejsek a natřásal se tak, že zlaťáky v�
 
 A ten líbezný zvuk přilákal z lesa lupiče. Vyskočili z houští u cesty a vrhli se rovnou na osla. Koš se zlaťáky mu vzali, ještě ho nožem pobodali. Mezka si ani nevšimli a s lupem zmizeli v lese.
 
-> Tak bohatství a vychloubačnost  
+> _Tak bohatství a vychloubačnost  
 > míří často do neštěstí, zatímco chudoba  
-> a trpělivost si jdou svou cestou pokojně.
+> a trpělivost si jdou svou cestou pokojně._

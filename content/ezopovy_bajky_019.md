@@ -14,6 +14,6 @@ Myslíte, že se mladá paní vylekala? Kdepak! Vyskočila z lože a myš zako
 
 Afrodite raději zase vrátila dívce její dřívější podobu.
 
-> Protože změnit zevnějšek člověka  
+> _Protože změnit zevnějšek člověka  
 > je mnohem snazší,  
-> než změnit jeho povahu a zvyky.
+> než změnit jeho povahu a zvyky._

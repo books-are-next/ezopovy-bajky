@@ -18,5 +18,5 @@ To labuť zpívala svou píseň smrti. To labuť zpívala, protože si ji sluha 
 
 A ta píseň jí zachránila život. Sluha poznal svůj omyl a pánovi přinesl na pekáči, co na pekáč patří.
 
-> A kdo chce věřit, uvěří,  
-> že hudba a krása zahánějí smrt.
+> _A kdo chce věřit, uvěří,  
+> že hudba a krása zahánějí smrt._

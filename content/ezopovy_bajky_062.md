@@ -22,5 +22,5 @@ A právě ten cizí psí ocas uviděl kuchař, který nosil na stůl. Položil 
 
 To se ví, že mu hafan nevěřil ani slovo.
 
-> A nevyplácí se věřit ani těm,  
-> kteří nám slibují dobrodiní na cizí útraty.
+> _A nevyplácí se věřit ani těm,  
+> kteří nám slibují dobrodiní na cizí útraty._

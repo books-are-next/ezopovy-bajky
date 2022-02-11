@@ -16,6 +16,6 @@ Jednou si nevšiml nezakryté studně a spadl do ní. Volal o pomoc, ale jeho 
 
 Přeli se ještě dlouho – hvězdář ve studni a žába v kaluži. Ale řeč nikam nevedla. Každý si vedl svou a oba zůstali tam, kde byli.
 
-> Tak to bývá, když si někdo  
+> _Tak to bývá, když si někdo  
 > krátkozrace trvá na svém  
-> a nevidí za práh svého domu.
+> a nevidí za práh svého domu._

@@ -38,7 +38,7 @@ Sotva lékař odešel, přišli příbuzní a ptali se, jak se vede.
 
 „Lékař říká, že dobře,“ sdělil jim slabým hlasem nemocný. „A toho dobrého už je tolik, že od toho umřu!“
 
-> Třeba se teď usmíváte,  
+> _Třeba se teď usmíváte,  
 > ale člověk, který svého bližního  
 > v nouzi jen s úsměvem odbývá,  
-> by si zasloužil vaši zlost.
+> by si zasloužil vaši zlost._

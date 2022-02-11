@@ -22,6 +22,6 @@ A přesto lidé na rynku šaškovi tleskali a sedláka vypískali. „Ty jsi j
 
 A tak se někteří zahanbili a někteří rozzlobili.
 
-> Tak už to chodí mezi lidmi,  
+> _Tak už to chodí mezi lidmi,  
 > kteří jen neradi odvolávají svou přízeň  
-> a přiznávají vlastní omyl.
+> a přiznávají vlastní omyl._

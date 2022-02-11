@@ -16,5 +16,5 @@ Ale léto bylo dlouhé. Uběhlo pár dní a pastýři otrnulo. Zase dostal chu�
 
 A pak se stalo, co se muselo stát. Pastýřovo stádo napadl vlk. Co vlk, byla jich celá smečka! Mladík volal o pomoc přes hory a doly a lidé ve vsi si jen zaťukali na čelo a šli po svých. Pastýř přišel o všechny své ovečky a zbylo mu jen trpké poučení, že…
 
-> … lháři nikdo neuvěří,  
-> ani když náhodou mluví pravdu.
+> _… lháři nikdo neuvěří,  
+> ani když náhodou mluví pravdu._

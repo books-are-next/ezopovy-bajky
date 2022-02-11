@@ -16,5 +16,5 @@ Moře mlčelo, ale nad hladinou se zjevila ryba, která promluvila.
 
 „Ničemu nerozumíš,“ řekla ta ryba kupci. „Moře je přece od počátku světa laskavé a klidné. Za to, co se ti stalo, může zlý vichr, který zvedl vlny a rozpoutal mořskou bouři!“
 
-> A jako kupec, tak se někdy mýlíme i my,  
-> když hledáme viníka tam, kde není.
+> _A jako kupec, tak se někdy mýlíme i my,  
+> když hledáme viníka tam, kde není._

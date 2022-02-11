@@ -20,5 +20,5 @@ Za nějaký čas netopýr zase zavadil křídlem o větev a spadl na zem. Kole
 
 A rozpřáhl křídla a uletěl.
 
-> Tak si netopýr, nebo člověk, může v nebezpečí  
-> trochou chytráctví zachránit zdravou kůži.
+> _Tak si netopýr, nebo člověk, může v nebezpečí  
+> trochou chytráctví zachránit zdravou kůži._

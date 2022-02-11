@@ -16,5 +16,5 @@ Ale liška slyšela a viděla oboje. Když ji pak dřevorubec pustil z komory 
 
 Dřevorubec jí vyčítal nevděk, ale liška si myslela své. Odešla z lesa a víckrát už se nepotkali.
 
-> A kdo byl v právu,  
-> to si pomyslete sami.
+> _A kdo byl v právu,  
+> to si pomyslete sami._

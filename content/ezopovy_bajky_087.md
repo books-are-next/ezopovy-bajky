@@ -16,7 +16,7 @@ Jen jedna stará liška se ozvala: „Mluvíš hezky, ale jen proto, že chceš 
 
 Byla to rozumná odpověď a všechny lišky přesvědčila.
 
-> Protože u rozumného nepochodí ten,  
+> _Protože u rozumného nepochodí ten,  
 > kdo mu radí a myslí  
 > přitom jenom na svůj  
-> vlastní prospěch.
+> vlastní prospěch._

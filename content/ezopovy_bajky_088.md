@@ -20,5 +20,5 @@ Ale na statku sedlák popadl ohlávku a uvázal divokého koně ke žlabu.
 
 Se svobodou byl konec. Koni už nepatřili šťavnaté louky a lesy plné buků a dubů. Vodu dostával do džberu a uvadlou trávu do žlabu, ve dne tahal pluh a v noci nespal pod hvězdami, nýbrž pod černou střechou stáje. Pozdě naříkal…
 
-> … jako každý, kdo se chce vyhnout blátu  
-> a spadne do louže.
+> _… jako každý, kdo se chce vyhnout blátu  
+> a spadne do louže._

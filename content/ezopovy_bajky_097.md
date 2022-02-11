@@ -20,5 +20,5 @@ Matčin nářek se změnil v hněv. „Vidíte toho bezbožníka!“ volala. �
 
 Ale syn ji přerušil a smutně odpověděl: „Kdybys mi byla nařezala už ten první den, kdy jsem přinesl domů ukradenou školní tabulku, nevedli mě teď na popravu! Tak kdo z nás dvou je větší bezbožník?“
 
-> Je to smutný příběh a smutná pravda,  
-> smutné poučení.
+> _Je to smutný příběh a smutná pravda,  
+> smutné poučení._

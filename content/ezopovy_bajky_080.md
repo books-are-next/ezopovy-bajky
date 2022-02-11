@@ -18,6 +18,6 @@ Chudák sbíral zlaťáčky ze země, radoval se, to ano, ale právě tak se div
 
 „Co je v tom za rozum a spravedlnost?“ říkal rozbité soše boha hojnosti. „Když jsem tě uctíval a pokorně jsem se k tobě modlil, mlčel jsi a pranic jsi mi nepomohl. Ale sotva mne popadla zlost a já tě udeřil, odplatil ses mi kupou zlaťáků! A navíc jsi mi dal do života i dobré poučení…“
 
-> Jaké poučení? Takovéhle:  
+> _Jaké poučení? Takovéhle:  
 > špatného člověka nikdy neuctívej,  
-> víc ti prospěje, když mu nabiješ.
+> víc ti prospěje, když mu nabiješ._

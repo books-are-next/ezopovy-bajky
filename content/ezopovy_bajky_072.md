@@ -18,6 +18,6 @@ Za čas ho probudil krásný smutný zpěv. To labuť umírala a smut­nou pís
 
 „Byl jsem to ale hlupák,“ pomyslel si cizinec. „Kdybych ji místo proseb pohrozil tehdy nožem, určitě by mým hostům zazpívala!“
 
-> Ať už měl pravdu, nebo neměl, jisté je,  
+> _Ať už měl pravdu, nebo neměl, jisté je,  
 > že někteří lidé udělají ochotně po zlém to,  
-> co nechtějí udělat po dobrém.
+> co nechtějí udělat po dobrém._

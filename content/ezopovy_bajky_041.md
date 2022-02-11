@@ -20,6 +20,6 @@ Pastýř se vrátil před večerem. Spatřil tu pohromu, kterou vlk po sobě zan
 
 „Patří mi to,“ přiznal si smutně. „Jak jsem jen mohl důvěřovat vlkovi, který se chová jako ovčácký pes!“
 
-> A to je rada pro každého důvěřivce,  
+> _A to je rada pro každého důvěřivce,  
 > který se potká s chamtivcem  
-> a svěří mu svůj majetek do úschovy.
+> a svěří mu svůj majetek do úschovy._

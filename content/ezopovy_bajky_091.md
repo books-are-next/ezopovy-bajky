@@ -16,6 +16,6 @@ Ale sedlák zavrtěl hlavou. „Když bylo vody dost, nikdy jste za mnou nepři�
 
 A pak špačky zaplašil a vosy rozehnal a o vodu se rozdělil se svým věrným mezkem.
 
-> Protože věděl,  
+> _Protože věděl,  
 > jakou cenu mají sliby  
-> lhářů a nevítaných pomocníků.
+> lhářů a nevítaných pomocníků._

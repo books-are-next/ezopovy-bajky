@@ -16,5 +16,5 @@ A naše vlaštovka jim odpověděla: „Vždyť já snad nenaříkám ani tak n
 
 Nu nevím, zda jí vlaštovky rozuměly, ale člověk ví…
 
-> … že křivda bolí víc, jestliže k ní dojde tam,  
-> kde by se to nejmíň čekalo.
+> _… že křivda bolí víc, jestliže k ní dojde tam,  
+> kde by se to nejmíň čekalo._

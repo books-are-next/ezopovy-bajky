@@ -22,5 +22,5 @@ Jenže kočky se myší s býčími rohy nepolekaly. Bitva začala a skončila
 
 Malé myšky našly útočiště v dírách a skrýškách. Ale generál a velitelé dopadli zle. Chtěli se sice také schovat, ale vchod do jejich doupátek byl příliš úzký. Kvůli rohům se tam nevešli. Kočky všechny myší velitele i s jejich generálem snadno pochytaly.
 
-> Tak ješitnost a hloupost  
-> znovu dostaly za vyučenou.
+> _Tak ješitnost a hloupost  
+> znovu dostaly za vyučenou._

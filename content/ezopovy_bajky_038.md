@@ -16,6 +16,6 @@ Na skále, která strměla nad jezírkem, seděly žáby. Seděly, ležely, ale 
 
 To se ví, že zajíci poslechli. Šli a cestou dupali a tráva jim zase chutnala a těšil je svět.
 
-> A jako oni, každý ať se rozhlédne kolem.  
+> _A jako oni, každý ať se rozhlédne kolem.  
 > Když je mu zle, jistě potká někoho,  
-> komu je ještě hůř.
+> komu je ještě hůř._

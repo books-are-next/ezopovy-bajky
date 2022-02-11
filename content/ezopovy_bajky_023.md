@@ -22,5 +22,5 @@ Osel vyšel z jeskyně a tuze se holedbal. „Neříkal jsem ti, že mám siln
 
 Osla chlubivost hned přešla. Začal hýkat silným hlasem o pomoc, ale nikoho nepřivolal.
 
-> Skončil tak jako každý,  
-> kdo ztratí soudnost a dá se do spolku s nepřítelem.
+> _Skončil tak jako každý,  
+> kdo ztratí soudnost a dá se do spolku s nepřítelem._

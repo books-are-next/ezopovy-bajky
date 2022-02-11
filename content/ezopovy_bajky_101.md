@@ -14,6 +14,6 @@ Dostal se ale do zajetí a podle válečného práva měl být zastřelen. Avš
 
 A pak byl trest na trubači vykonán. Pro výstrahu a poučení…
 
-> … těm, kteří ještě nevědí,  
+> _… těm, kteří ještě nevědí,  
 > že kdo podněcuje ke zlu a násilí,  
-> je vinen víc než násilník.
+> je vinen víc než násilník._

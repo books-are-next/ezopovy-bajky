@@ -16,5 +16,5 @@ Vystoupal na skálu, vak s peckami a slupkami složil na kamenný oltář a z
 
 Bylo to mazaně vymyšleno, ale bozi nemají filuty v lásce. Hermes se rozhněval a shodil podvodníka ze skály.
 
-> Proč? Za trest a pro výstrahu  
-> všem taškářům a podvodníkům.
+> _Proč? Za trest a pro výstrahu  
+> všem taškářům a podvodníkům._

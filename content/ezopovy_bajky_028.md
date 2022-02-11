@@ -18,6 +18,6 @@ Zeus strnul nad takovou troufalostí. A přikázal: „Abych tě potrestal, bud
 
 Jak přikázal, tak se stalo.
 
-> Ale jak velký trest to byl,  
+> _Ale jak velký trest to byl,  
 > ať posoudí ten, kdo raději žije skrovně  
-> ve svém než přepychově v cizím příbytku.
+> ve svém než přepychově v cizím příbytku._

@@ -10,10 +10,10 @@ Dnešní mravenec býval kdysi člověkem. Bůh Zeus mu dal kousek země, aby si
 
 Zeus se zhrozil nad takovou hrabivostí a hned také človíčka ztrestal. Proměnil ho v mravence!
 
-> Ale nemyslete si,  
+> _Ale nemyslete si,  
 > že s takovou proměnou  
 > se změnila i jeho povaha.  
 > Kdepak.  
 > I jako mravenec dbal  
 > jenom o svůj dům  
-> a sklízel z cizího pole.
+> a sklízel z cizího pole._

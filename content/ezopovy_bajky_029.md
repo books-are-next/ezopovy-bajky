@@ -14,6 +14,6 @@ Ovečky utekly od svých psů pod ochranu vlků.
 
 Ale klidné pastvy si neužily. Vlci část stáda pochytali a zadávili. A ovce, které utekly a rozběhly se po krajině, ty se staly kořistí jiné vlčí smečky.
 
-> Takový osud potká i lidské stádo,  
+> _Takový osud potká i lidské stádo,  
 > když se zbaví svých dobrých vůdců  
-> a uvěří licoměrným slibům nepřátel.
+> a uvěří licoměrným slibům nepřátel._

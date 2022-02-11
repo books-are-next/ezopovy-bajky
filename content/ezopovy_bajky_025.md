@@ -18,5 +18,5 @@ Holubi hned nechali hádky mezi sebou a vrhli se na vetřelkyni. Vyštípali ji
 
 Nic jí nepomohlo, že křičela jako kavka. Barva ji prozradila. Byla bílá mezi černými kavkami. A tak musela z hejna ven.
 
-> A podobně může skončit každý,  
-> kdo není doma spokojen.
+> _A podobně může skončit každý,  
+> kdo není doma spokojen._

@@ -20,5 +20,5 @@ Ušli jen pár kroků, když z houští vyběhl rozlícený dřevorubec. „Kde
 
 A šel dál svou cestou.
 
-> Protože přítel, který se neumí podělit o štěstí,  
-> nezaslouží si účast ani v neštěstí.
+> _Protože přítel, který se neumí podělit o štěstí,  
+> nezaslouží si účast ani v neštěstí._

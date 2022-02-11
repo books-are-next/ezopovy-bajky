@@ -16,6 +16,6 @@ Jeden ležel u smokvoně a spal. Nebyl nijak zvlášť dlouhý, ale co naplat,
 
 A tak se položila vedle hada a začala se natahovat. Natahovala se a napínala a nepřestala a nepřestala – dokud se nepřetrhla.
 
-> A něco podobného se může stát i lidem,  
+> _A něco podobného se může stát i lidem,  
 > kteří by se třeba i přetrhli,  
-> jen aby se podobali těm větším a mocnějším.
+> jen aby se podobali těm větším a mocnějším._

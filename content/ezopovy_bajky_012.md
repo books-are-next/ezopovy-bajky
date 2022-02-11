@@ -16,5 +16,5 @@ A považte – ryby sebou na břehu mrskaly a poskakovaly… Nu právě tak j
 
 Rybář měl dobrý úlovek a přece se zlobil, že ryby netančily, když jim pískal, a teď, když píšťalu kvůli nim zahodil, utančily by se k smrti.
 
-> Ale zbytečně se zlobil. Vždyť všechno  
-> se musí dělat na pravém místě a v pravý čas.
+> _Ale zbytečně se zlobil. Vždyť všechno  
+> se musí dělat na pravém místě a v pravý čas._

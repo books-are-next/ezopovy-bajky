@@ -16,6 +16,6 @@ Když nebezpečí pominulo, slezl přítel ze stromu a podivil se: „Co ti, ka
 
 A pak dal příteli sbohem a pokračoval v cestě raději sám.
 
-> Protože je lepší jít světem sám  
+> _Protože je lepší jít světem sám  
 > než s přítelem, který v nouzi myslí  
-> jen na svou vlastní kůži.
+> jen na svou vlastní kůži._

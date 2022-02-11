@@ -16,6 +16,6 @@ A tehdy se mezek, který teď nesl celý náklad, ohlédl na osla a povídá: 
 
 A osel žádnou odpověď, ani chytrou, ani oslovskou, na tahle slova nenašel.
 
-> Ale my můžeme najít poučení:  
+> _Ale my můžeme najít poučení:  
 > Neposuzuj člověka ani osla podle začátku,  
-> nýbrž podle konce.
+> nýbrž podle konce._
