@@ -1,0 +1,849 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Ezopovy bajky",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Pavel Šrut",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2022-02-11T11:35:01.840Z",
+    "subject": "subject",
+    "generator": "Adobe InDesign",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_045.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_046.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_047.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_048.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_049.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_050.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_051.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_052.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_053.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_054.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_055.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_056.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_057.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_058.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_059.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_060.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_061.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_062.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_063.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_064.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_065.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_066.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_067.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_068.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_069.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_070.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_071.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_072.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_073.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_074.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_075.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_076.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_077.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_078.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_079.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_080.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_081.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_082.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_083.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_084.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_085.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_086.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_087.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_088.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_089.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_090.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_091.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_092.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_093.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_094.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_095.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_096.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_097.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_098.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_099.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_100.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_101.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_102.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/ezopovy_bajky_103.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/ezopovy_ba_idstyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_ezopovy_bajky_fmt.jpeg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy_fmt.jpeg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Volba krále zvířat",
+      "href": "OEBPS/Text/ezopovy_bajky_005.xhtml#toc_marker-1"
+    },
+    {
+      "title": "Orel a chrobák",
+      "href": "OEBPS/Text/ezopovy_bajky_006.xhtml#toc_marker-2"
+    },
+    {
+      "title": "Orel a liška",
+      "href": "OEBPS/Text/ezopovy_bajky_007.xhtml#toc_marker-3"
+    },
+    {
+      "title": "Sele a ovce",
+      "href": "OEBPS/Text/ezopovy_bajky_008.xhtml#toc_marker-4"
+    },
+    {
+      "title": "Havran a liška",
+      "href": "OEBPS/Text/ezopovy_bajky_009.xhtml#toc_marker-5"
+    },
+    {
+      "title": "Divoké kozy a pastýř",
+      "href": "OEBPS/Text/ezopovy_bajky_010.xhtml#toc_marker-6"
+    },
+    {
+      "title": "Cestující v bouři",
+      "href": "OEBPS/Text/ezopovy_bajky_011.xhtml#toc_marker-7"
+    },
+    {
+      "title": "Rybář a píšťala",
+      "href": "OEBPS/Text/ezopovy_bajky_012.xhtml#toc_marker-8"
+    },
+    {
+      "title": "Netopýr, šípkový keř a potápka",
+      "href": "OEBPS/Text/ezopovy_bajky_013.xhtml#toc_marker-9"
+    },
+    {
+      "title": "Lasička a kohout",
+      "href": "OEBPS/Text/ezopovy_bajky_014.xhtml#toc_marker-10"
+    },
+    {
+      "title": "Lasička a slepice",
+      "href": "OEBPS/Text/ezopovy_bajky_015.xhtml#toc_marker-11"
+    },
+    {
+      "title": "Netopýr a lasičky",
+      "href": "OEBPS/Text/ezopovy_bajky_016.xhtml#toc_marker-12"
+    },
+    {
+      "title": "Chytrák a truhla zlatých mincí",
+      "href": "OEBPS/Text/ezopovy_bajky_017.xhtml#toc_marker-13"
+    },
+    {
+      "title": "Vinař a jeho synové",
+      "href": "OEBPS/Text/ezopovy_bajky_018.xhtml#toc_marker-14"
+    },
+    {
+      "title": "Kočka a bohyně Afrodite",
+      "href": "OEBPS/Text/ezopovy_bajky_019.xhtml#toc_marker-15"
+    },
+    {
+      "title": "Lev, vlk a liška",
+      "href": "OEBPS/Text/ezopovy_bajky_020.xhtml#toc_marker-16"
+    },
+    {
+      "title": "Lev a myš",
+      "href": "OEBPS/Text/ezopovy_bajky_021.xhtml#toc_marker-17"
+    },
+    {
+      "title": "Osel, liška a lev",
+      "href": "OEBPS/Text/ezopovy_bajky_022.xhtml#toc_marker-18"
+    },
+    {
+      "title": "Lev a osel",
+      "href": "OEBPS/Text/ezopovy_bajky_023.xhtml#toc_marker-19"
+    },
+    {
+      "title": "Myši a kočky",
+      "href": "OEBPS/Text/ezopovy_bajky_024.xhtml#toc_marker-20"
+    },
+    {
+      "title": "Kavka a holubi",
+      "href": "OEBPS/Text/ezopovy_bajky_025.xhtml#toc_marker-21"
+    },
+    {
+      "title": "Orel, kavka a pastýř",
+      "href": "OEBPS/Text/ezopovy_bajky_026.xhtml#toc_marker-22"
+    },
+    {
+      "title": "Mravenec a Zeus",
+      "href": "OEBPS/Text/ezopovy_bajky_027.xhtml#toc_marker-23"
+    },
+    {
+      "title": "Zeus a želva",
+      "href": "OEBPS/Text/ezopovy_bajky_028.xhtml#toc_marker-24"
+    },
+    {
+      "title": "Vlci a ovce",
+      "href": "OEBPS/Text/ezopovy_bajky_029.xhtml#toc_marker-25"
+    },
+    {
+      "title": "Osel a cikády",
+      "href": "OEBPS/Text/ezopovy_bajky_030.xhtml#toc_marker-26"
+    },
+    {
+      "title": "Vlk a volavka",
+      "href": "OEBPS/Text/ezopovy_bajky_031.xhtml#toc_marker-27"
+    },
+    {
+      "title": "Vlk a psi",
+      "href": "OEBPS/Text/ezopovy_bajky_032.xhtml#toc_marker-28"
+    },
+    {
+      "title": "Osel a vlk",
+      "href": "OEBPS/Text/ezopovy_bajky_033.xhtml#toc_marker-29"
+    },
+    {
+      "title": "Pastýř a vlčata",
+      "href": "OEBPS/Text/ezopovy_bajky_034.xhtml#toc_marker-30"
+    },
+    {
+      "title": "Osel a zahradník",
+      "href": "OEBPS/Text/ezopovy_bajky_035.xhtml#toc_marker-31"
+    },
+    {
+      "title": "Hvězdář a žába",
+      "href": "OEBPS/Text/ezopovy_bajky_036.xhtml#toc_marker-32"
+    },
+    {
+      "title": "Kupec a moře",
+      "href": "OEBPS/Text/ezopovy_bajky_037.xhtml#toc_marker-33"
+    },
+    {
+      "title": "Zajíci a žáby",
+      "href": "OEBPS/Text/ezopovy_bajky_038.xhtml#toc_marker-34"
+    },
+    {
+      "title": "Poutník a Hermes",
+      "href": "OEBPS/Text/ezopovy_bajky_039.xhtml#toc_marker-35"
+    },
+    {
+      "title": "Otec a dcery",
+      "href": "OEBPS/Text/ezopovy_bajky_040.xhtml#toc_marker-36"
+    },
+    {
+      "title": "Vlk a pastýř",
+      "href": "OEBPS/Text/ezopovy_bajky_041.xhtml#toc_marker-37"
+    },
+    {
+      "title": "Lev, osel a liška",
+      "href": "OEBPS/Text/ezopovy_bajky_042.xhtml#toc_marker-38"
+    },
+    {
+      "title": "Lev za vraty",
+      "href": "OEBPS/Text/ezopovy_bajky_043.xhtml#toc_marker-39"
+    },
+    {
+      "title": "Lev a pastýř",
+      "href": "OEBPS/Text/ezopovy_bajky_044.xhtml#toc_marker-40"
+    },
+    {
+      "title": "Poutníci a platan",
+      "href": "OEBPS/Text/ezopovy_bajky_045.xhtml#toc_marker-41"
+    },
+    {
+      "title": "Poutníci a medvěd",
+      "href": "OEBPS/Text/ezopovy_bajky_046.xhtml#toc_marker-42"
+    },
+    {
+      "title": "Opice a rybáři",
+      "href": "OEBPS/Text/ezopovy_bajky_047.xhtml#toc_marker-43"
+    },
+    {
+      "title": "Včely a Zeus",
+      "href": "OEBPS/Text/ezopovy_bajky_048.xhtml#toc_marker-44"
+    },
+    {
+      "title": "Pastýř vtipálek",
+      "href": "OEBPS/Text/ezopovy_bajky_049.xhtml#toc_marker-45"
+    },
+    {
+      "title": "Vlk a pes",
+      "href": "OEBPS/Text/ezopovy_bajky_050.xhtml#toc_marker-46"
+    },
+    {
+      "title": "Hospodář kupující osla",
+      "href": "OEBPS/Text/ezopovy_bajky_051.xhtml#toc_marker-47"
+    },
+    {
+      "title": "Osel a kůň",
+      "href": "OEBPS/Text/ezopovy_bajky_052.xhtml#toc_marker-48"
+    },
+    {
+      "title": "Dřevorubec a bůh Hermes",
+      "href": "OEBPS/Text/ezopovy_bajky_053.xhtml#toc_marker-49"
+    },
+    {
+      "title": "Stařena a lékař",
+      "href": "OEBPS/Text/ezopovy_bajky_054.xhtml#toc_marker-50"
+    },
+    {
+      "title": "Slunce a severák",
+      "href": "OEBPS/Text/ezopovy_bajky_055.xhtml#toc_marker-51"
+    },
+    {
+      "title": "Nemocný a lékař",
+      "href": "OEBPS/Text/ezopovy_bajky_056.xhtml#toc_marker-52"
+    },
+    {
+      "title": "Vlaštovka a soudce",
+      "href": "OEBPS/Text/ezopovy_bajky_057.xhtml#toc_marker-53"
+    },
+    {
+      "title": "Věštec",
+      "href": "OEBPS/Text/ezopovy_bajky_058.xhtml#toc_marker-54"
+    },
+    {
+      "title": "Osel a mezek",
+      "href": "OEBPS/Text/ezopovy_bajky_059.xhtml#toc_marker-55"
+    },
+    {
+      "title": "Osel s nákladem soli",
+      "href": "OEBPS/Text/ezopovy_bajky_060.xhtml#toc_marker-56"
+    },
+    {
+      "title": "Pes a slepice",
+      "href": "OEBPS/Text/ezopovy_bajky_061.xhtml#toc_marker-57"
+    },
+    {
+      "title": "Pes na hostině",
+      "href": "OEBPS/Text/ezopovy_bajky_062.xhtml#toc_marker-58"
+    },
+    {
+      "title": "Sněm zvířat",
+      "href": "OEBPS/Text/ezopovy_bajky_063.xhtml#toc_marker-59"
+    },
+    {
+      "title": "Jelen a lev",
+      "href": "OEBPS/Text/ezopovy_bajky_064.xhtml#toc_marker-60"
+    },
+    {
+      "title": "Liška a dřevorubec",
+      "href": "OEBPS/Text/ezopovy_bajky_065.xhtml#toc_marker-61"
+    },
+    {
+      "title": "Osel, mezek a lupiči",
+      "href": "OEBPS/Text/ezopovy_bajky_066.xhtml#toc_marker-62"
+    },
+    {
+      "title": "Přátelé a sekera",
+      "href": "OEBPS/Text/ezopovy_bajky_067.xhtml#toc_marker-63"
+    },
+    {
+      "title": "Komár, lev a pavouk",
+      "href": "OEBPS/Text/ezopovy_bajky_068.xhtml#toc_marker-64"
+    },
+    {
+      "title": "Mravenec a cikáda",
+      "href": "OEBPS/Text/ezopovy_bajky_069.xhtml#toc_marker-65"
+    },
+    {
+      "title": "Kavka a cizí peří",
+      "href": "OEBPS/Text/ezopovy_bajky_070.xhtml#toc_marker-66"
+    },
+    {
+      "title": "Člověk a lev",
+      "href": "OEBPS/Text/ezopovy_bajky_071.xhtml#toc_marker-67"
+    },
+    {
+      "title": "Labutí píseň",
+      "href": "OEBPS/Text/ezopovy_bajky_072.xhtml#toc_marker-68"
+    },
+    {
+      "title": "Labuť a husa",
+      "href": "OEBPS/Text/ezopovy_bajky_073.xhtml#toc_marker-69"
+    },
+    {
+      "title": "Želva a orel",
+      "href": "OEBPS/Text/ezopovy_bajky_074.xhtml#toc_marker-70"
+    },
+    {
+      "title": "Had, lasička a myši",
+      "href": "OEBPS/Text/ezopovy_bajky_075.xhtml#toc_marker-71"
+    },
+    {
+      "title": "Žížala a velký had",
+      "href": "OEBPS/Text/ezopovy_bajky_076.xhtml#toc_marker-72"
+    },
+    {
+      "title": "Liška a čáp",
+      "href": "OEBPS/Text/ezopovy_bajky_077.xhtml#toc_marker-73"
+    },
+    {
+      "title": "Dva kohouti",
+      "href": "OEBPS/Text/ezopovy_bajky_078.xhtml#toc_marker-74"
+    },
+    {
+      "title": "Pes, liška a kohout",
+      "href": "OEBPS/Text/ezopovy_bajky_079.xhtml#toc_marker-75"
+    },
+    {
+      "title": "Člověk, který rozbil sochu",
+      "href": "OEBPS/Text/ezopovy_bajky_080.xhtml#toc_marker-76"
+    },
+    {
+      "title": "Lakomec",
+      "href": "OEBPS/Text/ezopovy_bajky_081.xhtml#toc_marker-77"
+    },
+    {
+      "title": "Opilec a jeho žena",
+      "href": "OEBPS/Text/ezopovy_bajky_082.xhtml#toc_marker-78"
+    },
+    {
+      "title": "Ptáčník a koroptev",
+      "href": "OEBPS/Text/ezopovy_bajky_083.xhtml#toc_marker-79"
+    },
+    {
+      "title": "Jedle a šípkový keř",
+      "href": "OEBPS/Text/ezopovy_bajky_084.xhtml#toc_marker-80"
+    },
+    {
+      "title": "Vlaštovka a jmelí",
+      "href": "OEBPS/Text/ezopovy_bajky_085.xhtml#toc_marker-81"
+    },
+    {
+      "title": "Orlice, kočka a divoká svině",
+      "href": "OEBPS/Text/ezopovy_bajky_086.xhtml#toc_marker-82"
+    },
+    {
+      "title": "Liška bez ocasu",
+      "href": "OEBPS/Text/ezopovy_bajky_087.xhtml#toc_marker-83"
+    },
+    {
+      "title": "Kanec a kůň",
+      "href": "OEBPS/Text/ezopovy_bajky_088.xhtml#toc_marker-84"
+    },
+    {
+      "title": "Skopci a řezník",
+      "href": "OEBPS/Text/ezopovy_bajky_089.xhtml#toc_marker-85"
+    },
+    {
+      "title": "Včely a trubci před soudem",
+      "href": "OEBPS/Text/ezopovy_bajky_090.xhtml#toc_marker-86"
+    },
+    {
+      "title": "Vosy, špačci, mezek a starý sedlák",
+      "href": "OEBPS/Text/ezopovy_bajky_091.xhtml#toc_marker-87"
+    },
+    {
+      "title": "Člověk a paní Přísaha",
+      "href": "OEBPS/Text/ezopovy_bajky_092.xhtml#toc_marker-88"
+    },
+    {
+      "title": "Zloděj a hostinský",
+      "href": "OEBPS/Text/ezopovy_bajky_093.xhtml#toc_marker-89"
+    },
+    {
+      "title": "Slepice a zlaté vejce",
+      "href": "OEBPS/Text/ezopovy_bajky_094.xhtml#toc_marker-90"
+    },
+    {
+      "title": "Myš a žába",
+      "href": "OEBPS/Text/ezopovy_bajky_095.xhtml#toc_marker-91"
+    },
+    {
+      "title": "Orel, had a lovec",
+      "href": "OEBPS/Text/ezopovy_bajky_096.xhtml#toc_marker-92"
+    },
+    {
+      "title": "Chlapec zloděj a jeho matka",
+      "href": "OEBPS/Text/ezopovy_bajky_097.xhtml#toc_marker-93"
+    },
+    {
+      "title": "Šašek a sedlák",
+      "href": "OEBPS/Text/ezopovy_bajky_098.xhtml#toc_marker-94"
+    },
+    {
+      "title": "Chlapec a namalovaný lev",
+      "href": "OEBPS/Text/ezopovy_bajky_099.xhtml#toc_marker-95"
+    },
+    {
+      "title": "Člověk a satyr",
+      "href": "OEBPS/Text/ezopovy_bajky_100.xhtml#toc_marker-96"
+    },
+    {
+      "title": "Trubač",
+      "href": "OEBPS/Text/ezopovy_bajky_101.xhtml#toc_marker-97"
+    },
+    {
+      "title": "Dvě tašky",
+      "href": "OEBPS/Text/ezopovy_bajky_102.xhtml#toc_marker-98"
+    }
+  ]
+}

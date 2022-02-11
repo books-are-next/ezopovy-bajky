@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Ezopovy bajky</text>
+  </docTitle>
+  <docAuthor>
+    <text>Pavel Šrut</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>Volba krále zvířat</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_005.xhtml#toc_marker-1"/>
+    </navPoint>
+    <navPoint id="navpoint2" playOrder="2">
+      <navLabel>
+        <text>Orel a chrobák</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_006.xhtml#toc_marker-2"/>
+    </navPoint>
+    <navPoint id="navpoint3" playOrder="3">
+      <navLabel>
+        <text>Orel a liška</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_007.xhtml#toc_marker-3"/>
+    </navPoint>
+    <navPoint id="navpoint4" playOrder="4">
+      <navLabel>
+        <text>Sele a ovce</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_008.xhtml#toc_marker-4"/>
+    </navPoint>
+    <navPoint id="navpoint5" playOrder="5">
+      <navLabel>
+        <text>Havran a liška</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_009.xhtml#toc_marker-5"/>
+    </navPoint>
+    <navPoint id="navpoint6" playOrder="6">
+      <navLabel>
+        <text>Divoké kozy a pastýř</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_010.xhtml#toc_marker-6"/>
+    </navPoint>
+    <navPoint id="navpoint7" playOrder="7">
+      <navLabel>
+        <text>Cestující v bouři</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_011.xhtml#toc_marker-7"/>
+    </navPoint>
+    <navPoint id="navpoint8" playOrder="8">
+      <navLabel>
+        <text>Rybář a píšťala</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_012.xhtml#toc_marker-8"/>
+    </navPoint>
+    <navPoint id="navpoint9" playOrder="9">
+      <navLabel>
+        <text>Netopýr, šípkový keř a potápka</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_013.xhtml#toc_marker-9"/>
+    </navPoint>
+    <navPoint id="navpoint10" playOrder="10">
+      <navLabel>
+        <text>Lasička a kohout</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_014.xhtml#toc_marker-10"/>
+    </navPoint>
+    <navPoint id="navpoint11" playOrder="11">
+      <navLabel>
+        <text>Lasička a slepice</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_015.xhtml#toc_marker-11"/>
+    </navPoint>
+    <navPoint id="navpoint12" playOrder="12">
+      <navLabel>
+        <text>Netopýr a lasičky</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_016.xhtml#toc_marker-12"/>
+    </navPoint>
+    <navPoint id="navpoint13" playOrder="13">
+      <navLabel>
+        <text>Chytrák a truhla zlatých mincí</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_017.xhtml#toc_marker-13"/>
+    </navPoint>
+    <navPoint id="navpoint14" playOrder="14">
+      <navLabel>
+        <text>Vinař a jeho synové</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_018.xhtml#toc_marker-14"/>
+    </navPoint>
+    <navPoint id="navpoint15" playOrder="15">
+      <navLabel>
+        <text>Kočka a bohyně Afrodite</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_019.xhtml#toc_marker-15"/>
+    </navPoint>
+    <navPoint id="navpoint16" playOrder="16">
+      <navLabel>
+        <text>Lev, vlk a liška</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_020.xhtml#toc_marker-16"/>
+    </navPoint>
+    <navPoint id="navpoint17" playOrder="17">
+      <navLabel>
+        <text>Lev a myš</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_021.xhtml#toc_marker-17"/>
+    </navPoint>
+    <navPoint id="navpoint18" playOrder="18">
+      <navLabel>
+        <text>Osel, liška a lev</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_022.xhtml#toc_marker-18"/>
+    </navPoint>
+    <navPoint id="navpoint19" playOrder="19">
+      <navLabel>
+        <text>Lev a osel</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_023.xhtml#toc_marker-19"/>
+    </navPoint>
+    <navPoint id="navpoint20" playOrder="20">
+      <navLabel>
+        <text>Myši a kočky</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_024.xhtml#toc_marker-20"/>
+    </navPoint>
+    <navPoint id="navpoint21" playOrder="21">
+      <navLabel>
+        <text>Kavka a holubi</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_025.xhtml#toc_marker-21"/>
+    </navPoint>
+    <navPoint id="navpoint22" playOrder="22">
+      <navLabel>
+        <text>Orel, kavka a pastýř</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_026.xhtml#toc_marker-22"/>
+    </navPoint>
+    <navPoint id="navpoint23" playOrder="23">
+      <navLabel>
+        <text>Mravenec a Zeus</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_027.xhtml#toc_marker-23"/>
+    </navPoint>
+    <navPoint id="navpoint24" playOrder="24">
+      <navLabel>
+        <text>Zeus a želva</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_028.xhtml#toc_marker-24"/>
+    </navPoint>
+    <navPoint id="navpoint25" playOrder="25">
+      <navLabel>
+        <text>Vlci a ovce</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_029.xhtml#toc_marker-25"/>
+    </navPoint>
+    <navPoint id="navpoint26" playOrder="26">
+      <navLabel>
+        <text>Osel a cikády</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_030.xhtml#toc_marker-26"/>
+    </navPoint>
+    <navPoint id="navpoint27" playOrder="27">
+      <navLabel>
+        <text>Vlk a volavka</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_031.xhtml#toc_marker-27"/>
+    </navPoint>
+    <navPoint id="navpoint28" playOrder="28">
+      <navLabel>
+        <text>Vlk a psi</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_032.xhtml#toc_marker-28"/>
+    </navPoint>
+    <navPoint id="navpoint29" playOrder="29">
+      <navLabel>
+        <text>Osel a vlk</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_033.xhtml#toc_marker-29"/>
+    </navPoint>
+    <navPoint id="navpoint30" playOrder="30">
+      <navLabel>
+        <text>Pastýř a vlčata</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_034.xhtml#toc_marker-30"/>
+    </navPoint>
+    <navPoint id="navpoint31" playOrder="31">
+      <navLabel>
+        <text>Osel a zahradník</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_035.xhtml#toc_marker-31"/>
+    </navPoint>
+    <navPoint id="navpoint32" playOrder="32">
+      <navLabel>
+        <text>Hvězdář a žába</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_036.xhtml#toc_marker-32"/>
+    </navPoint>
+    <navPoint id="navpoint33" playOrder="33">
+      <navLabel>
+        <text>Kupec a moře</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_037.xhtml#toc_marker-33"/>
+    </navPoint>
+    <navPoint id="navpoint34" playOrder="34">
+      <navLabel>
+        <text>Zajíci a žáby</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_038.xhtml#toc_marker-34"/>
+    </navPoint>
+    <navPoint id="navpoint35" playOrder="35">
+      <navLabel>
+        <text>Poutník a Hermes</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_039.xhtml#toc_marker-35"/>
+    </navPoint>
+    <navPoint id="navpoint36" playOrder="36">
+      <navLabel>
+        <text>Otec a dcery</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_040.xhtml#toc_marker-36"/>
+    </navPoint>
+    <navPoint id="navpoint37" playOrder="37">
+      <navLabel>
+        <text>Vlk a pastýř</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_041.xhtml#toc_marker-37"/>
+    </navPoint>
+    <navPoint id="navpoint38" playOrder="38">
+      <navLabel>
+        <text>Lev, osel a liška</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_042.xhtml#toc_marker-38"/>
+    </navPoint>
+    <navPoint id="navpoint39" playOrder="39">
+      <navLabel>
+        <text>Lev za vraty</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_043.xhtml#toc_marker-39"/>
+    </navPoint>
+    <navPoint id="navpoint40" playOrder="40">
+      <navLabel>
+        <text>Lev a pastýř</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_044.xhtml#toc_marker-40"/>
+    </navPoint>
+    <navPoint id="navpoint41" playOrder="41">
+      <navLabel>
+        <text>Poutníci a platan</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_045.xhtml#toc_marker-41"/>
+    </navPoint>
+    <navPoint id="navpoint42" playOrder="42">
+      <navLabel>
+        <text>Poutníci a medvěd</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_046.xhtml#toc_marker-42"/>
+    </navPoint>
+    <navPoint id="navpoint43" playOrder="43">
+      <navLabel>
+        <text>Opice a rybáři</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_047.xhtml#toc_marker-43"/>
+    </navPoint>
+    <navPoint id="navpoint44" playOrder="44">
+      <navLabel>
+        <text>Včely a Zeus</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_048.xhtml#toc_marker-44"/>
+    </navPoint>
+    <navPoint id="navpoint45" playOrder="45">
+      <navLabel>
+        <text>Pastýř vtipálek</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_049.xhtml#toc_marker-45"/>
+    </navPoint>
+    <navPoint id="navpoint46" playOrder="46">
+      <navLabel>
+        <text>Vlk a pes</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_050.xhtml#toc_marker-46"/>
+    </navPoint>
+    <navPoint id="navpoint47" playOrder="47">
+      <navLabel>
+        <text>Hospodář kupující osla</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_051.xhtml#toc_marker-47"/>
+    </navPoint>
+    <navPoint id="navpoint48" playOrder="48">
+      <navLabel>
+        <text>Osel a kůň</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_052.xhtml#toc_marker-48"/>
+    </navPoint>
+    <navPoint id="navpoint49" playOrder="49">
+      <navLabel>
+        <text>Dřevorubec a bůh Hermes</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_053.xhtml#toc_marker-49"/>
+    </navPoint>
+    <navPoint id="navpoint50" playOrder="50">
+      <navLabel>
+        <text>Stařena a lékař</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_054.xhtml#toc_marker-50"/>
+    </navPoint>
+    <navPoint id="navpoint51" playOrder="51">
+      <navLabel>
+        <text>Slunce a severák</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_055.xhtml#toc_marker-51"/>
+    </navPoint>
+    <navPoint id="navpoint52" playOrder="52">
+      <navLabel>
+        <text>Nemocný a lékař</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_056.xhtml#toc_marker-52"/>
+    </navPoint>
+    <navPoint id="navpoint53" playOrder="53">
+      <navLabel>
+        <text>Vlaštovka a soudce</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_057.xhtml#toc_marker-53"/>
+    </navPoint>
+    <navPoint id="navpoint54" playOrder="54">
+      <navLabel>
+        <text>Věštec</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_058.xhtml#toc_marker-54"/>
+    </navPoint>
+    <navPoint id="navpoint55" playOrder="55">
+      <navLabel>
+        <text>Osel a mezek</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_059.xhtml#toc_marker-55"/>
+    </navPoint>
+    <navPoint id="navpoint56" playOrder="56">
+      <navLabel>
+        <text>Osel s nákladem soli</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_060.xhtml#toc_marker-56"/>
+    </navPoint>
+    <navPoint id="navpoint57" playOrder="57">
+      <navLabel>
+        <text>Pes a slepice</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_061.xhtml#toc_marker-57"/>
+    </navPoint>
+    <navPoint id="navpoint58" playOrder="58">
+      <navLabel>
+        <text>Pes na hostině</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_062.xhtml#toc_marker-58"/>
+    </navPoint>
+    <navPoint id="navpoint59" playOrder="59">
+      <navLabel>
+        <text>Sněm zvířat</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_063.xhtml#toc_marker-59"/>
+    </navPoint>
+    <navPoint id="navpoint60" playOrder="60">
+      <navLabel>
+        <text>Jelen a lev</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_064.xhtml#toc_marker-60"/>
+    </navPoint>
+    <navPoint id="navpoint61" playOrder="61">
+      <navLabel>
+        <text>Liška a dřevorubec</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_065.xhtml#toc_marker-61"/>
+    </navPoint>
+    <navPoint id="navpoint62" playOrder="62">
+      <navLabel>
+        <text>Osel, mezek a lupiči</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_066.xhtml#toc_marker-62"/>
+    </navPoint>
+    <navPoint id="navpoint63" playOrder="63">
+      <navLabel>
+        <text>Přátelé a sekera</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_067.xhtml#toc_marker-63"/>
+    </navPoint>
+    <navPoint id="navpoint64" playOrder="64">
+      <navLabel>
+        <text>Komár, lev a pavouk</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_068.xhtml#toc_marker-64"/>
+    </navPoint>
+    <navPoint id="navpoint65" playOrder="65">
+      <navLabel>
+        <text>Mravenec a cikáda</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_069.xhtml#toc_marker-65"/>
+    </navPoint>
+    <navPoint id="navpoint66" playOrder="66">
+      <navLabel>
+        <text>Kavka a cizí peří</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_070.xhtml#toc_marker-66"/>
+    </navPoint>
+    <navPoint id="navpoint67" playOrder="67">
+      <navLabel>
+        <text>Člověk a lev</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_071.xhtml#toc_marker-67"/>
+    </navPoint>
+    <navPoint id="navpoint68" playOrder="68">
+      <navLabel>
+        <text>Labutí píseň</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_072.xhtml#toc_marker-68"/>
+    </navPoint>
+    <navPoint id="navpoint69" playOrder="69">
+      <navLabel>
+        <text>Labuť a husa</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_073.xhtml#toc_marker-69"/>
+    </navPoint>
+    <navPoint id="navpoint70" playOrder="70">
+      <navLabel>
+        <text>Želva a orel</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_074.xhtml#toc_marker-70"/>
+    </navPoint>
+    <navPoint id="navpoint71" playOrder="71">
+      <navLabel>
+        <text>Had, lasička a myši</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_075.xhtml#toc_marker-71"/>
+    </navPoint>
+    <navPoint id="navpoint72" playOrder="72">
+      <navLabel>
+        <text>Žížala a velký had</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_076.xhtml#toc_marker-72"/>
+    </navPoint>
+    <navPoint id="navpoint73" playOrder="73">
+      <navLabel>
+        <text>Liška a čáp</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_077.xhtml#toc_marker-73"/>
+    </navPoint>
+    <navPoint id="navpoint74" playOrder="74">
+      <navLabel>
+        <text>Dva kohouti</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_078.xhtml#toc_marker-74"/>
+    </navPoint>
+    <navPoint id="navpoint75" playOrder="75">
+      <navLabel>
+        <text>Pes, liška a kohout</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_079.xhtml#toc_marker-75"/>
+    </navPoint>
+    <navPoint id="navpoint76" playOrder="76">
+      <navLabel>
+        <text>Člověk, který rozbil sochu</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_080.xhtml#toc_marker-76"/>
+    </navPoint>
+    <navPoint id="navpoint77" playOrder="77">
+      <navLabel>
+        <text>Lakomec</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_081.xhtml#toc_marker-77"/>
+    </navPoint>
+    <navPoint id="navpoint78" playOrder="78">
+      <navLabel>
+        <text>Opilec a jeho žena</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_082.xhtml#toc_marker-78"/>
+    </navPoint>
+    <navPoint id="navpoint79" playOrder="79">
+      <navLabel>
+        <text>Ptáčník a koroptev</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_083.xhtml#toc_marker-79"/>
+    </navPoint>
+    <navPoint id="navpoint80" playOrder="80">
+      <navLabel>
+        <text>Jedle a šípkový keř</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_084.xhtml#toc_marker-80"/>
+    </navPoint>
+    <navPoint id="navpoint81" playOrder="81">
+      <navLabel>
+        <text>Vlaštovka a jmelí</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_085.xhtml#toc_marker-81"/>
+    </navPoint>
+    <navPoint id="navpoint82" playOrder="82">
+      <navLabel>
+        <text>Orlice, kočka a divoká svině</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_086.xhtml#toc_marker-82"/>
+    </navPoint>
+    <navPoint id="navpoint83" playOrder="83">
+      <navLabel>
+        <text>Liška bez ocasu</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_087.xhtml#toc_marker-83"/>
+    </navPoint>
+    <navPoint id="navpoint84" playOrder="84">
+      <navLabel>
+        <text>Kanec a kůň</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_088.xhtml#toc_marker-84"/>
+    </navPoint>
+    <navPoint id="navpoint85" playOrder="85">
+      <navLabel>
+        <text>Skopci a řezník</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_089.xhtml#toc_marker-85"/>
+    </navPoint>
+    <navPoint id="navpoint86" playOrder="86">
+      <navLabel>
+        <text>Včely a trubci před soudem</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_090.xhtml#toc_marker-86"/>
+    </navPoint>
+    <navPoint id="navpoint87" playOrder="87">
+      <navLabel>
+        <text>Vosy, špačci, mezek a starý sedlák</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_091.xhtml#toc_marker-87"/>
+    </navPoint>
+    <navPoint id="navpoint88" playOrder="88">
+      <navLabel>
+        <text>Člověk a paní Přísaha</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_092.xhtml#toc_marker-88"/>
+    </navPoint>
+    <navPoint id="navpoint89" playOrder="89">
+      <navLabel>
+        <text>Zloděj a hostinský</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_093.xhtml#toc_marker-89"/>
+    </navPoint>
+    <navPoint id="navpoint90" playOrder="90">
+      <navLabel>
+        <text>Slepice a zlaté vejce</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_094.xhtml#toc_marker-90"/>
+    </navPoint>
+    <navPoint id="navpoint91" playOrder="91">
+      <navLabel>
+        <text>Myš a žába</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_095.xhtml#toc_marker-91"/>
+    </navPoint>
+    <navPoint id="navpoint92" playOrder="92">
+      <navLabel>
+        <text>Orel, had a lovec</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_096.xhtml#toc_marker-92"/>
+    </navPoint>
+    <navPoint id="navpoint93" playOrder="93">
+      <navLabel>
+        <text>Chlapec zloděj a jeho matka</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_097.xhtml#toc_marker-93"/>
+    </navPoint>
+    <navPoint id="navpoint94" playOrder="94">
+      <navLabel>
+        <text>Šašek a sedlák</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_098.xhtml#toc_marker-94"/>
+    </navPoint>
+    <navPoint id="navpoint95" playOrder="95">
+      <navLabel>
+        <text>Chlapec a namalovaný lev</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_099.xhtml#toc_marker-95"/>
+    </navPoint>
+    <navPoint id="navpoint96" playOrder="96">
+      <navLabel>
+        <text>Člověk a satyr</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_100.xhtml#toc_marker-96"/>
+    </navPoint>
+    <navPoint id="navpoint97" playOrder="97">
+      <navLabel>
+        <text>Trubač</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_101.xhtml#toc_marker-97"/>
+    </navPoint>
+    <navPoint id="navpoint98" playOrder="98">
+      <navLabel>
+        <text>Dvě tašky</text>
+      </navLabel>
+      <content src="Text/ezopovy_bajky_102.xhtml#toc_marker-98"/>
+    </navPoint>
+  </navMap>
+</ncx>

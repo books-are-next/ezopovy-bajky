@@ -1,0 +1,690 @@
+{
+  "epub": {
+    "metadata": {
+      "title": "Ezopovy bajky",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Pavel Šrut",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-02-11T11:35:01.840Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_001.md",
+        "xhtml": "ezopovy_bajky_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_002.md",
+        "xhtml": "ezopovy_bajky_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_003.md",
+        "xhtml": "ezopovy_bajky_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_004.md",
+        "xhtml": "ezopovy_bajky_004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_005.md",
+        "xhtml": "ezopovy_bajky_005.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_006.md",
+        "xhtml": "ezopovy_bajky_006.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_007.md",
+        "xhtml": "ezopovy_bajky_007.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_008.md",
+        "xhtml": "ezopovy_bajky_008.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_009.md",
+        "xhtml": "ezopovy_bajky_009.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_010.md",
+        "xhtml": "ezopovy_bajky_010.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_011.md",
+        "xhtml": "ezopovy_bajky_011.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_012.md",
+        "xhtml": "ezopovy_bajky_012.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_013.md",
+        "xhtml": "ezopovy_bajky_013.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_014.md",
+        "xhtml": "ezopovy_bajky_014.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_015.md",
+        "xhtml": "ezopovy_bajky_015.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_016.md",
+        "xhtml": "ezopovy_bajky_016.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_017.md",
+        "xhtml": "ezopovy_bajky_017.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_018.md",
+        "xhtml": "ezopovy_bajky_018.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_019.md",
+        "xhtml": "ezopovy_bajky_019.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_020.md",
+        "xhtml": "ezopovy_bajky_020.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_021.md",
+        "xhtml": "ezopovy_bajky_021.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_022.md",
+        "xhtml": "ezopovy_bajky_022.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_023.md",
+        "xhtml": "ezopovy_bajky_023.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_024.md",
+        "xhtml": "ezopovy_bajky_024.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_025.md",
+        "xhtml": "ezopovy_bajky_025.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_026.md",
+        "xhtml": "ezopovy_bajky_026.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_027.md",
+        "xhtml": "ezopovy_bajky_027.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_028.md",
+        "xhtml": "ezopovy_bajky_028.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_029.md",
+        "xhtml": "ezopovy_bajky_029.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_030.md",
+        "xhtml": "ezopovy_bajky_030.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_031.md",
+        "xhtml": "ezopovy_bajky_031.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_032.md",
+        "xhtml": "ezopovy_bajky_032.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_033.md",
+        "xhtml": "ezopovy_bajky_033.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_034.md",
+        "xhtml": "ezopovy_bajky_034.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_035.md",
+        "xhtml": "ezopovy_bajky_035.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_036.md",
+        "xhtml": "ezopovy_bajky_036.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_037.md",
+        "xhtml": "ezopovy_bajky_037.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_038.md",
+        "xhtml": "ezopovy_bajky_038.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_039.md",
+        "xhtml": "ezopovy_bajky_039.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_040.md",
+        "xhtml": "ezopovy_bajky_040.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_041.md",
+        "xhtml": "ezopovy_bajky_041.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_042.md",
+        "xhtml": "ezopovy_bajky_042.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_043.md",
+        "xhtml": "ezopovy_bajky_043.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_044.md",
+        "xhtml": "ezopovy_bajky_044.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_045.md",
+        "xhtml": "ezopovy_bajky_045.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_046.md",
+        "xhtml": "ezopovy_bajky_046.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_047.md",
+        "xhtml": "ezopovy_bajky_047.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_048.md",
+        "xhtml": "ezopovy_bajky_048.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_049.md",
+        "xhtml": "ezopovy_bajky_049.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_050.md",
+        "xhtml": "ezopovy_bajky_050.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_051.md",
+        "xhtml": "ezopovy_bajky_051.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_052.md",
+        "xhtml": "ezopovy_bajky_052.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_053.md",
+        "xhtml": "ezopovy_bajky_053.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_054.md",
+        "xhtml": "ezopovy_bajky_054.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_055.md",
+        "xhtml": "ezopovy_bajky_055.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_056.md",
+        "xhtml": "ezopovy_bajky_056.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_057.md",
+        "xhtml": "ezopovy_bajky_057.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_058.md",
+        "xhtml": "ezopovy_bajky_058.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_059.md",
+        "xhtml": "ezopovy_bajky_059.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_060.md",
+        "xhtml": "ezopovy_bajky_060.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_061.md",
+        "xhtml": "ezopovy_bajky_061.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_062.md",
+        "xhtml": "ezopovy_bajky_062.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_063.md",
+        "xhtml": "ezopovy_bajky_063.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_064.md",
+        "xhtml": "ezopovy_bajky_064.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_065.md",
+        "xhtml": "ezopovy_bajky_065.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_066.md",
+        "xhtml": "ezopovy_bajky_066.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_067.md",
+        "xhtml": "ezopovy_bajky_067.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_068.md",
+        "xhtml": "ezopovy_bajky_068.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_069.md",
+        "xhtml": "ezopovy_bajky_069.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_070.md",
+        "xhtml": "ezopovy_bajky_070.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_071.md",
+        "xhtml": "ezopovy_bajky_071.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_072.md",
+        "xhtml": "ezopovy_bajky_072.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_073.md",
+        "xhtml": "ezopovy_bajky_073.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_074.md",
+        "xhtml": "ezopovy_bajky_074.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_075.md",
+        "xhtml": "ezopovy_bajky_075.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_076.md",
+        "xhtml": "ezopovy_bajky_076.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_077.md",
+        "xhtml": "ezopovy_bajky_077.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_078.md",
+        "xhtml": "ezopovy_bajky_078.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_079.md",
+        "xhtml": "ezopovy_bajky_079.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_080.md",
+        "xhtml": "ezopovy_bajky_080.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_081.md",
+        "xhtml": "ezopovy_bajky_081.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_082.md",
+        "xhtml": "ezopovy_bajky_082.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_083.md",
+        "xhtml": "ezopovy_bajky_083.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_084.md",
+        "xhtml": "ezopovy_bajky_084.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_085.md",
+        "xhtml": "ezopovy_bajky_085.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_086.md",
+        "xhtml": "ezopovy_bajky_086.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_087.md",
+        "xhtml": "ezopovy_bajky_087.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_088.md",
+        "xhtml": "ezopovy_bajky_088.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_089.md",
+        "xhtml": "ezopovy_bajky_089.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_090.md",
+        "xhtml": "ezopovy_bajky_090.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_091.md",
+        "xhtml": "ezopovy_bajky_091.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_092.md",
+        "xhtml": "ezopovy_bajky_092.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_093.md",
+        "xhtml": "ezopovy_bajky_093.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_094.md",
+        "xhtml": "ezopovy_bajky_094.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_095.md",
+        "xhtml": "ezopovy_bajky_095.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_096.md",
+        "xhtml": "ezopovy_bajky_096.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_097.md",
+        "xhtml": "ezopovy_bajky_097.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_098.md",
+        "xhtml": "ezopovy_bajky_098.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_099.md",
+        "xhtml": "ezopovy_bajky_099.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_100.md",
+        "xhtml": "ezopovy_bajky_100.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_101.md",
+        "xhtml": "ezopovy_bajky_101.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_102.md",
+        "xhtml": "ezopovy_bajky_102.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ezopovy_bajky_103.md",
+        "xhtml": "ezopovy_bajky_103.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/ezopovy_ba_idstyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001_fmt.jpeg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002_fmt.jpeg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_ezopovy_bajky_fmt.jpeg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy_fmt.jpeg"
+      }
+    ],
+    "classes": [
+      "Hyperlink",
+      "MLP-citacni-str-rozdeleni",
+      "MLP-dopis-bez1radku--I",
+      "MLP-licence-hypertext",
+      "MLP-licence-obrazek",
+      "MLP-licence-paragraf",
+      "MLP-licence-text",
+      "MLP-obrazky",
+      "MLP-text",
+      "MLP-text--0-12",
+      "MLP-text-bez1radku",
+      "MLP-text-bez1radku--0-12",
+      "MLP-text-bez1radku--12-0",
+      "MLP-tiraz-autor-a-nazev",
+      "MLP-titulka-autor",
+      "MLP-titulka-nazev",
+      "MLP-uroven2-kapitola",
+      "Normal",
+      "char-style-override-1",
+      "frame-1",
+      "frame-2",
+      "frame-3",
+      "para-style-override-1",
+      "para-style-override-2",
+      "para-style-override-3",
+      "para-style-override-4"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "ezopovy-bajky"
+    },
+    "generatedAt": 1644579302381
+  }
+}
