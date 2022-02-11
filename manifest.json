@@ -1,0 +1,2088 @@
+{
+  "author": "Pavel Šrut",
+  "edition": "beletrie",
+  "identifier": "srut-ezopovy-bajky-38c02fa",
+  "modified": "2022-02-11T11:35:01.840Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Ezopovy bajky",
+  "revision": "38c02fa",
+  "generatedAt": {
+    "date": "Fri Feb 11 2022 12:15:27 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1644581727379
+  },
+  "documents": [
+    {
+      "title": "Ezopovy bajky",
+      "file": "ezopovy_bajky_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "ezopovy_bajky_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ezopovy bajky",
+      "file": "ezopovy_bajky_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "ezopovy_bajky_001.html",
+      "next": "ezopovy_bajky_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ezopovy bajky",
+      "file": "ezopovy_bajky_003.html",
+      "words": 4,
+      "chars": 23,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 2,
+      "prev": "ezopovy_bajky_002.html",
+      "next": "ezopovy_bajky_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ezopovy bajky",
+      "file": "ezopovy_bajky_004.html",
+      "words": 90,
+      "chars": 589,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "ezopovy_bajky_003.html",
+      "next": "ezopovy_bajky_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Volba krále zvířat • Ezopovy bajky",
+      "file": "ezopovy_bajky_005.html",
+      "words": 223,
+      "chars": 1277,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 4,
+      "prev": "ezopovy_bajky_004.html",
+      "next": "ezopovy_bajky_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Volba krále zvířat",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Orel a chrobák • Ezopovy bajky",
+      "file": "ezopovy_bajky_006.html",
+      "words": 204,
+      "chars": 1140,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 5,
+      "prev": "ezopovy_bajky_005.html",
+      "next": "ezopovy_bajky_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Orel a chrobák",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Orel a liška • Ezopovy bajky",
+      "file": "ezopovy_bajky_007.html",
+      "words": 189,
+      "chars": 1048,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 6,
+      "prev": "ezopovy_bajky_006.html",
+      "next": "ezopovy_bajky_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Orel a liška",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sele a ovce • Ezopovy bajky",
+      "file": "ezopovy_bajky_008.html",
+      "words": 133,
+      "chars": 715,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 7,
+      "prev": "ezopovy_bajky_007.html",
+      "next": "ezopovy_bajky_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sele a ovce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Havran a liška • Ezopovy bajky",
+      "file": "ezopovy_bajky_009.html",
+      "words": 157,
+      "chars": 925,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 8,
+      "prev": "ezopovy_bajky_008.html",
+      "next": "ezopovy_bajky_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Havran a liška",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Divoké kozy a pastýř • Ezopovy bajky",
+      "file": "ezopovy_bajky_010.html",
+      "words": 185,
+      "chars": 1061,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 9,
+      "prev": "ezopovy_bajky_009.html",
+      "next": "ezopovy_bajky_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Divoké kozy a pastýř",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cestující v bouři • Ezopovy bajky",
+      "file": "ezopovy_bajky_011.html",
+      "words": 102,
+      "chars": 610,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 10,
+      "prev": "ezopovy_bajky_010.html",
+      "next": "ezopovy_bajky_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Cestující v bouři",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rybář a píšťala • Ezopovy bajky",
+      "file": "ezopovy_bajky_012.html",
+      "words": 165,
+      "chars": 895,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 11,
+      "prev": "ezopovy_bajky_011.html",
+      "next": "ezopovy_bajky_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rybář a píšťala",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Netopýr, šípkový keř a potápka • Ezopovy bajky",
+      "file": "ezopovy_bajky_013.html",
+      "words": 219,
+      "chars": 1229,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 12,
+      "prev": "ezopovy_bajky_012.html",
+      "next": "ezopovy_bajky_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Netopýr, šípkový keř a potápka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lasička a kohout • Ezopovy bajky",
+      "file": "ezopovy_bajky_014.html",
+      "words": 121,
+      "chars": 730,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 13,
+      "prev": "ezopovy_bajky_013.html",
+      "next": "ezopovy_bajky_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lasička a kohout",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lasička a slepice • Ezopovy bajky",
+      "file": "ezopovy_bajky_015.html",
+      "words": 101,
+      "chars": 617,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 14,
+      "prev": "ezopovy_bajky_014.html",
+      "next": "ezopovy_bajky_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lasička a slepice",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Netopýr a lasičky • Ezopovy bajky",
+      "file": "ezopovy_bajky_016.html",
+      "words": 146,
+      "chars": 835,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 15,
+      "prev": "ezopovy_bajky_015.html",
+      "next": "ezopovy_bajky_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Netopýr a lasičky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chytrák a truhla zlatých mincí • Ezopovy bajky",
+      "file": "ezopovy_bajky_017.html",
+      "words": 215,
+      "chars": 1179,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 16,
+      "prev": "ezopovy_bajky_016.html",
+      "next": "ezopovy_bajky_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Chytrák a truhla zlatých mincí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vinař a jeho synové • Ezopovy bajky",
+      "file": "ezopovy_bajky_018.html",
+      "words": 99,
+      "chars": 590,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 17,
+      "prev": "ezopovy_bajky_017.html",
+      "next": "ezopovy_bajky_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vinař a jeho synové",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kočka a bohyně Afrodite • Ezopovy bajky",
+      "file": "ezopovy_bajky_019.html",
+      "words": 116,
+      "chars": 680,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 18,
+      "prev": "ezopovy_bajky_018.html",
+      "next": "ezopovy_bajky_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kočka a bohyně Afrodite",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lev, vlk a liška • Ezopovy bajky",
+      "file": "ezopovy_bajky_020.html",
+      "words": 193,
+      "chars": 1098,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 19,
+      "prev": "ezopovy_bajky_019.html",
+      "next": "ezopovy_bajky_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lev, vlk a liška",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lev a myš • Ezopovy bajky",
+      "file": "ezopovy_bajky_021.html",
+      "words": 176,
+      "chars": 945,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 20,
+      "prev": "ezopovy_bajky_020.html",
+      "next": "ezopovy_bajky_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lev a myš",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Osel, liška a lev • Ezopovy bajky",
+      "file": "ezopovy_bajky_022.html",
+      "words": 153,
+      "chars": 803,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 21,
+      "prev": "ezopovy_bajky_021.html",
+      "next": "ezopovy_bajky_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Osel, liška a lev",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lev a osel • Ezopovy bajky",
+      "file": "ezopovy_bajky_023.html",
+      "words": 178,
+      "chars": 985,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 22,
+      "prev": "ezopovy_bajky_022.html",
+      "next": "ezopovy_bajky_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lev a osel",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Myši a kočky • Ezopovy bajky",
+      "file": "ezopovy_bajky_024.html",
+      "words": 174,
+      "chars": 1032,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 23,
+      "prev": "ezopovy_bajky_023.html",
+      "next": "ezopovy_bajky_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Myši a kočky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kavka a holubi • Ezopovy bajky",
+      "file": "ezopovy_bajky_025.html",
+      "words": 160,
+      "chars": 901,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 24,
+      "prev": "ezopovy_bajky_024.html",
+      "next": "ezopovy_bajky_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kavka a holubi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Orel, kavka a pastýř • Ezopovy bajky",
+      "file": "ezopovy_bajky_026.html",
+      "words": 198,
+      "chars": 1073,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 25,
+      "prev": "ezopovy_bajky_025.html",
+      "next": "ezopovy_bajky_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Orel, kavka a pastýř",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mravenec a Zeus • Ezopovy bajky",
+      "file": "ezopovy_bajky_027.html",
+      "words": 100,
+      "chars": 558,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 26,
+      "prev": "ezopovy_bajky_026.html",
+      "next": "ezopovy_bajky_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mravenec a Zeus",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zeus a želva • Ezopovy bajky",
+      "file": "ezopovy_bajky_028.html",
+      "words": 146,
+      "chars": 842,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 27,
+      "prev": "ezopovy_bajky_027.html",
+      "next": "ezopovy_bajky_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zeus a želva",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vlci a ovce • Ezopovy bajky",
+      "file": "ezopovy_bajky_029.html",
+      "words": 148,
+      "chars": 820,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 28,
+      "prev": "ezopovy_bajky_028.html",
+      "next": "ezopovy_bajky_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vlci a ovce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Osel a cikády • Ezopovy bajky",
+      "file": "ezopovy_bajky_030.html",
+      "words": 175,
+      "chars": 966,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 29,
+      "prev": "ezopovy_bajky_029.html",
+      "next": "ezopovy_bajky_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Osel a cikády",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vlk a volavka • Ezopovy bajky",
+      "file": "ezopovy_bajky_031.html",
+      "words": 144,
+      "chars": 796,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 30,
+      "prev": "ezopovy_bajky_030.html",
+      "next": "ezopovy_bajky_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vlk a volavka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vlk a psi • Ezopovy bajky",
+      "file": "ezopovy_bajky_032.html",
+      "words": 207,
+      "chars": 1149,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 31,
+      "prev": "ezopovy_bajky_031.html",
+      "next": "ezopovy_bajky_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vlk a psi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Osel a vlk • Ezopovy bajky",
+      "file": "ezopovy_bajky_033.html",
+      "words": 197,
+      "chars": 1049,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 32,
+      "prev": "ezopovy_bajky_032.html",
+      "next": "ezopovy_bajky_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Osel a vlk",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pastýř a vlčata • Ezopovy bajky",
+      "file": "ezopovy_bajky_034.html",
+      "words": 176,
+      "chars": 985,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 33,
+      "prev": "ezopovy_bajky_033.html",
+      "next": "ezopovy_bajky_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pastýř a vlčata",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Osel a zahradník • Ezopovy bajky",
+      "file": "ezopovy_bajky_035.html",
+      "words": 205,
+      "chars": 1188,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 34,
+      "prev": "ezopovy_bajky_034.html",
+      "next": "ezopovy_bajky_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Osel a zahradník",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hvězdář a žába • Ezopovy bajky",
+      "file": "ezopovy_bajky_036.html",
+      "words": 174,
+      "chars": 919,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 35,
+      "prev": "ezopovy_bajky_035.html",
+      "next": "ezopovy_bajky_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hvězdář a žába",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kupec a moře • Ezopovy bajky",
+      "file": "ezopovy_bajky_037.html",
+      "words": 189,
+      "chars": 1070,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 36,
+      "prev": "ezopovy_bajky_036.html",
+      "next": "ezopovy_bajky_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kupec a moře",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zajíci a žáby • Ezopovy bajky",
+      "file": "ezopovy_bajky_038.html",
+      "words": 144,
+      "chars": 849,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 37,
+      "prev": "ezopovy_bajky_037.html",
+      "next": "ezopovy_bajky_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zajíci a žáby",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poutník a Hermes • Ezopovy bajky",
+      "file": "ezopovy_bajky_039.html",
+      "words": 199,
+      "chars": 1088,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 38,
+      "prev": "ezopovy_bajky_038.html",
+      "next": "ezopovy_bajky_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poutník a Hermes",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Otec a dcery • Ezopovy bajky",
+      "file": "ezopovy_bajky_040.html",
+      "words": 201,
+      "chars": 1140,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 39,
+      "prev": "ezopovy_bajky_039.html",
+      "next": "ezopovy_bajky_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Otec a dcery",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vlk a pastýř • Ezopovy bajky",
+      "file": "ezopovy_bajky_041.html",
+      "words": 202,
+      "chars": 1120,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 40,
+      "prev": "ezopovy_bajky_040.html",
+      "next": "ezopovy_bajky_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vlk a pastýř",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lev, osel a liška • Ezopovy bajky",
+      "file": "ezopovy_bajky_042.html",
+      "words": 132,
+      "chars": 733,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 41,
+      "prev": "ezopovy_bajky_041.html",
+      "next": "ezopovy_bajky_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lev, osel a liška",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lev za vraty • Ezopovy bajky",
+      "file": "ezopovy_bajky_043.html",
+      "words": 123,
+      "chars": 668,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 42,
+      "prev": "ezopovy_bajky_042.html",
+      "next": "ezopovy_bajky_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lev za vraty",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lev a pastýř • Ezopovy bajky",
+      "file": "ezopovy_bajky_044.html",
+      "words": 145,
+      "chars": 838,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 43,
+      "prev": "ezopovy_bajky_043.html",
+      "next": "ezopovy_bajky_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lev a pastýř",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poutníci a platan • Ezopovy bajky",
+      "file": "ezopovy_bajky_045.html",
+      "words": 141,
+      "chars": 837,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 44,
+      "prev": "ezopovy_bajky_044.html",
+      "next": "ezopovy_bajky_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poutníci a platan",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poutníci a medvěd • Ezopovy bajky",
+      "file": "ezopovy_bajky_046.html",
+      "words": 153,
+      "chars": 866,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 45,
+      "prev": "ezopovy_bajky_045.html",
+      "next": "ezopovy_bajky_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poutníci a medvěd",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Opice a rybáři • Ezopovy bajky",
+      "file": "ezopovy_bajky_047.html",
+      "words": 102,
+      "chars": 557,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 46,
+      "prev": "ezopovy_bajky_046.html",
+      "next": "ezopovy_bajky_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Opice a rybáři",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Včely a Zeus • Ezopovy bajky",
+      "file": "ezopovy_bajky_048.html",
+      "words": 142,
+      "chars": 810,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 47,
+      "prev": "ezopovy_bajky_047.html",
+      "next": "ezopovy_bajky_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Včely a Zeus",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pastýř vtipálek • Ezopovy bajky",
+      "file": "ezopovy_bajky_049.html",
+      "words": 224,
+      "chars": 1193,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 48,
+      "prev": "ezopovy_bajky_048.html",
+      "next": "ezopovy_bajky_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pastýř vtipálek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vlk a pes • Ezopovy bajky",
+      "file": "ezopovy_bajky_050.html",
+      "words": 214,
+      "chars": 1126,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 49,
+      "prev": "ezopovy_bajky_049.html",
+      "next": "ezopovy_bajky_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vlk a pes",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hospodář kupující osla • Ezopovy bajky",
+      "file": "ezopovy_bajky_051.html",
+      "words": 185,
+      "chars": 1067,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 50,
+      "prev": "ezopovy_bajky_050.html",
+      "next": "ezopovy_bajky_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hospodář kupující osla",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Osel a kůň • Ezopovy bajky",
+      "file": "ezopovy_bajky_052.html",
+      "words": 181,
+      "chars": 1005,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 51,
+      "prev": "ezopovy_bajky_051.html",
+      "next": "ezopovy_bajky_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Osel a kůň",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dřevorubec a bůh Hermes • Ezopovy bajky",
+      "file": "ezopovy_bajky_053.html",
+      "words": 228,
+      "chars": 1331,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 52,
+      "prev": "ezopovy_bajky_052.html",
+      "next": "ezopovy_bajky_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dřevorubec a bůh Hermes",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Stařena a lékař • Ezopovy bajky",
+      "file": "ezopovy_bajky_054.html",
+      "words": 160,
+      "chars": 1004,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 53,
+      "prev": "ezopovy_bajky_053.html",
+      "next": "ezopovy_bajky_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Stařena a lékař",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Slunce a severák • Ezopovy bajky",
+      "file": "ezopovy_bajky_055.html",
+      "words": 170,
+      "chars": 924,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 54,
+      "prev": "ezopovy_bajky_054.html",
+      "next": "ezopovy_bajky_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Slunce a severák",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nemocný a lékař • Ezopovy bajky",
+      "file": "ezopovy_bajky_056.html",
+      "words": 177,
+      "chars": 1021,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 55,
+      "prev": "ezopovy_bajky_055.html",
+      "next": "ezopovy_bajky_057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nemocný a lékař",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vlaštovka a soudce • Ezopovy bajky",
+      "file": "ezopovy_bajky_057.html",
+      "words": 168,
+      "chars": 954,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 56,
+      "prev": "ezopovy_bajky_056.html",
+      "next": "ezopovy_bajky_058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vlaštovka a soudce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Věštec • Ezopovy bajky",
+      "file": "ezopovy_bajky_058.html",
+      "words": 178,
+      "chars": 1071,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 57,
+      "prev": "ezopovy_bajky_057.html",
+      "next": "ezopovy_bajky_059.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Věštec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Osel a mezek • Ezopovy bajky",
+      "file": "ezopovy_bajky_059.html",
+      "words": 161,
+      "chars": 911,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 58,
+      "prev": "ezopovy_bajky_058.html",
+      "next": "ezopovy_bajky_060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Osel a mezek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Osel s nákladem soli • Ezopovy bajky",
+      "file": "ezopovy_bajky_060.html",
+      "words": 195,
+      "chars": 1040,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 59,
+      "prev": "ezopovy_bajky_059.html",
+      "next": "ezopovy_bajky_061.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Osel s nákladem soli",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pes a slepice • Ezopovy bajky",
+      "file": "ezopovy_bajky_061.html",
+      "words": 109,
+      "chars": 598,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 60,
+      "prev": "ezopovy_bajky_060.html",
+      "next": "ezopovy_bajky_062.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pes a slepice",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pes na hostině • Ezopovy bajky",
+      "file": "ezopovy_bajky_062.html",
+      "words": 186,
+      "chars": 1026,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 61,
+      "prev": "ezopovy_bajky_061.html",
+      "next": "ezopovy_bajky_063.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pes na hostině",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sněm zvířat • Ezopovy bajky",
+      "file": "ezopovy_bajky_063.html",
+      "words": 190,
+      "chars": 1155,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 62,
+      "prev": "ezopovy_bajky_062.html",
+      "next": "ezopovy_bajky_064.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sněm zvířat",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jelen a lev • Ezopovy bajky",
+      "file": "ezopovy_bajky_064.html",
+      "words": 158,
+      "chars": 893,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 63,
+      "prev": "ezopovy_bajky_063.html",
+      "next": "ezopovy_bajky_065.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jelen a lev",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Liška a dřevorubec • Ezopovy bajky",
+      "file": "ezopovy_bajky_065.html",
+      "words": 122,
+      "chars": 701,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 64,
+      "prev": "ezopovy_bajky_064.html",
+      "next": "ezopovy_bajky_066.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Liška a dřevorubec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Osel, mezek a lupiči • Ezopovy bajky",
+      "file": "ezopovy_bajky_066.html",
+      "words": 148,
+      "chars": 816,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 65,
+      "prev": "ezopovy_bajky_065.html",
+      "next": "ezopovy_bajky_067.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Osel, mezek a lupiči",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Přátelé a sekera • Ezopovy bajky",
+      "file": "ezopovy_bajky_067.html",
+      "words": 118,
+      "chars": 655,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 66,
+      "prev": "ezopovy_bajky_066.html",
+      "next": "ezopovy_bajky_068.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Přátelé a sekera",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Komár, lev a pavouk • Ezopovy bajky",
+      "file": "ezopovy_bajky_068.html",
+      "words": 227,
+      "chars": 1256,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 67,
+      "prev": "ezopovy_bajky_067.html",
+      "next": "ezopovy_bajky_069.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Komár, lev a pavouk",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mravenec a cikáda • Ezopovy bajky",
+      "file": "ezopovy_bajky_069.html",
+      "words": 140,
+      "chars": 776,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 68,
+      "prev": "ezopovy_bajky_068.html",
+      "next": "ezopovy_bajky_070.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mravenec a cikáda",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kavka a cizí peří • Ezopovy bajky",
+      "file": "ezopovy_bajky_070.html",
+      "words": 225,
+      "chars": 1299,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 69,
+      "prev": "ezopovy_bajky_069.html",
+      "next": "ezopovy_bajky_071.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kavka a cizí peří",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Člověk a lev • Ezopovy bajky",
+      "file": "ezopovy_bajky_071.html",
+      "words": 154,
+      "chars": 904,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 70,
+      "prev": "ezopovy_bajky_070.html",
+      "next": "ezopovy_bajky_072.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Člověk a lev",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Labutí píseň • Ezopovy bajky",
+      "file": "ezopovy_bajky_072.html",
+      "words": 186,
+      "chars": 1074,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 71,
+      "prev": "ezopovy_bajky_071.html",
+      "next": "ezopovy_bajky_073.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Labutí píseň",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Labuť a husa • Ezopovy bajky",
+      "file": "ezopovy_bajky_073.html",
+      "words": 186,
+      "chars": 980,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 72,
+      "prev": "ezopovy_bajky_072.html",
+      "next": "ezopovy_bajky_074.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Labuť a husa",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Želva a orel • Ezopovy bajky",
+      "file": "ezopovy_bajky_074.html",
+      "words": 221,
+      "chars": 1153,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 73,
+      "prev": "ezopovy_bajky_073.html",
+      "next": "ezopovy_bajky_075.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Želva a orel",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Had, lasička a myši • Ezopovy bajky",
+      "file": "ezopovy_bajky_075.html",
+      "words": 176,
+      "chars": 942,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 74,
+      "prev": "ezopovy_bajky_074.html",
+      "next": "ezopovy_bajky_076.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Had, lasička a myši",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Žížala a velký had • Ezopovy bajky",
+      "file": "ezopovy_bajky_076.html",
+      "words": 164,
+      "chars": 912,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 75,
+      "prev": "ezopovy_bajky_075.html",
+      "next": "ezopovy_bajky_077.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Žížala a velký had",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Liška a čáp • Ezopovy bajky",
+      "file": "ezopovy_bajky_077.html",
+      "words": 198,
+      "chars": 1142,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 76,
+      "prev": "ezopovy_bajky_076.html",
+      "next": "ezopovy_bajky_078.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Liška a čáp",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dva kohouti • Ezopovy bajky",
+      "file": "ezopovy_bajky_078.html",
+      "words": 130,
+      "chars": 754,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 77,
+      "prev": "ezopovy_bajky_077.html",
+      "next": "ezopovy_bajky_079.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dva kohouti",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pes, liška a kohout • Ezopovy bajky",
+      "file": "ezopovy_bajky_079.html",
+      "words": 175,
+      "chars": 975,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 78,
+      "prev": "ezopovy_bajky_078.html",
+      "next": "ezopovy_bajky_080.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pes, liška a kohout",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Člověk, který rozbil sochu • Ezopovy bajky",
+      "file": "ezopovy_bajky_080.html",
+      "words": 199,
+      "chars": 1089,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 79,
+      "prev": "ezopovy_bajky_079.html",
+      "next": "ezopovy_bajky_081.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Člověk, který rozbil sochu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lakomec • Ezopovy bajky",
+      "file": "ezopovy_bajky_081.html",
+      "words": 218,
+      "chars": 1235,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 80,
+      "prev": "ezopovy_bajky_080.html",
+      "next": "ezopovy_bajky_082.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lakomec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Opilec a jeho žena • Ezopovy bajky",
+      "file": "ezopovy_bajky_082.html",
+      "words": 164,
+      "chars": 935,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 81,
+      "prev": "ezopovy_bajky_081.html",
+      "next": "ezopovy_bajky_083.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Opilec a jeho žena",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ptáčník a koroptev • Ezopovy bajky",
+      "file": "ezopovy_bajky_083.html",
+      "words": 186,
+      "chars": 1064,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 82,
+      "prev": "ezopovy_bajky_082.html",
+      "next": "ezopovy_bajky_084.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ptáčník a koroptev",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jedle a šípkový keř • Ezopovy bajky",
+      "file": "ezopovy_bajky_084.html",
+      "words": 165,
+      "chars": 929,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 83,
+      "prev": "ezopovy_bajky_083.html",
+      "next": "ezopovy_bajky_085.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jedle a šípkový keř",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vlaštovka a jmelí • Ezopovy bajky",
+      "file": "ezopovy_bajky_085.html",
+      "words": 186,
+      "chars": 1071,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 84,
+      "prev": "ezopovy_bajky_084.html",
+      "next": "ezopovy_bajky_086.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vlaštovka a jmelí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Orlice, kočka a divoká svině • Ezopovy bajky",
+      "file": "ezopovy_bajky_086.html",
+      "words": 206,
+      "chars": 1172,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 85,
+      "prev": "ezopovy_bajky_085.html",
+      "next": "ezopovy_bajky_087.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Orlice, kočka a divoká svině",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Liška bez ocasu • Ezopovy bajky",
+      "file": "ezopovy_bajky_087.html",
+      "words": 202,
+      "chars": 1110,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 86,
+      "prev": "ezopovy_bajky_086.html",
+      "next": "ezopovy_bajky_088.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Liška bez ocasu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kanec a kůň • Ezopovy bajky",
+      "file": "ezopovy_bajky_088.html",
+      "words": 232,
+      "chars": 1280,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 87,
+      "prev": "ezopovy_bajky_087.html",
+      "next": "ezopovy_bajky_089.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kanec a kůň",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Skopci a řezník • Ezopovy bajky",
+      "file": "ezopovy_bajky_089.html",
+      "words": 185,
+      "chars": 1031,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 88,
+      "prev": "ezopovy_bajky_088.html",
+      "next": "ezopovy_bajky_090.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Skopci a řezník",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Včely a trubci před soudem • Ezopovy bajky",
+      "file": "ezopovy_bajky_090.html",
+      "words": 140,
+      "chars": 795,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 89,
+      "prev": "ezopovy_bajky_089.html",
+      "next": "ezopovy_bajky_091.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Včely a trubci před soudem",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vosy, špačci, mezek a starý sedlák • Ezopovy bajky",
+      "file": "ezopovy_bajky_091.html",
+      "words": 182,
+      "chars": 1028,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 90,
+      "prev": "ezopovy_bajky_090.html",
+      "next": "ezopovy_bajky_092.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vosy, špačci, mezek a starý sedlák",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Člověk a paní Přísaha • Ezopovy bajky",
+      "file": "ezopovy_bajky_092.html",
+      "words": 218,
+      "chars": 1316,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 91,
+      "prev": "ezopovy_bajky_091.html",
+      "next": "ezopovy_bajky_093.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Člověk a paní Přísaha",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zloděj a hostinský • Ezopovy bajky",
+      "file": "ezopovy_bajky_093.html",
+      "words": 235,
+      "chars": 1362,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 92,
+      "prev": "ezopovy_bajky_092.html",
+      "next": "ezopovy_bajky_094.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zloděj a hostinský",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Slepice a zlaté vejce • Ezopovy bajky",
+      "file": "ezopovy_bajky_094.html",
+      "words": 146,
+      "chars": 815,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 93,
+      "prev": "ezopovy_bajky_093.html",
+      "next": "ezopovy_bajky_095.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Slepice a zlaté vejce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Myš a žába • Ezopovy bajky",
+      "file": "ezopovy_bajky_095.html",
+      "words": 185,
+      "chars": 987,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 94,
+      "prev": "ezopovy_bajky_094.html",
+      "next": "ezopovy_bajky_096.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Myš a žába",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Orel, had a lovec • Ezopovy bajky",
+      "file": "ezopovy_bajky_096.html",
+      "words": 180,
+      "chars": 976,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 95,
+      "prev": "ezopovy_bajky_095.html",
+      "next": "ezopovy_bajky_097.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Orel, had a lovec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chlapec zloděj a jeho matka • Ezopovy bajky",
+      "file": "ezopovy_bajky_097.html",
+      "words": 235,
+      "chars": 1364,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 96,
+      "prev": "ezopovy_bajky_096.html",
+      "next": "ezopovy_bajky_098.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Chlapec zloděj a jeho matka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Šašek a sedlák • Ezopovy bajky",
+      "file": "ezopovy_bajky_098.html",
+      "words": 232,
+      "chars": 1293,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 97,
+      "prev": "ezopovy_bajky_097.html",
+      "next": "ezopovy_bajky_099.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Šašek a sedlák",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Chlapec a namalovaný lev • Ezopovy bajky",
+      "file": "ezopovy_bajky_099.html",
+      "words": 189,
+      "chars": 1064,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 98,
+      "prev": "ezopovy_bajky_098.html",
+      "next": "ezopovy_bajky_100.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Chlapec a namalovaný lev",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Člověk a satyr • Ezopovy bajky",
+      "file": "ezopovy_bajky_100.html",
+      "words": 169,
+      "chars": 885,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 99,
+      "prev": "ezopovy_bajky_099.html",
+      "next": "ezopovy_bajky_101.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Člověk a satyr",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Trubač • Ezopovy bajky",
+      "file": "ezopovy_bajky_101.html",
+      "words": 147,
+      "chars": 852,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 100,
+      "prev": "ezopovy_bajky_100.html",
+      "next": "ezopovy_bajky_102.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Trubač",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dvě tašky • Ezopovy bajky",
+      "file": "ezopovy_bajky_102.html",
+      "words": 144,
+      "chars": 744,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 101,
+      "prev": "ezopovy_bajky_101.html",
+      "next": "ezopovy_bajky_103.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dvě tašky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ezopovy bajky",
+      "file": "ezopovy_bajky_103.html",
+      "words": 41,
+      "chars": 278,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 102,
+      "prev": "ezopovy_bajky_102.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 17093,
+      "chars": 96200,
+      "ideas": 1063
+    },
+    "chapters": {
+      "words": 17086,
+      "chars": 96161,
+      "ideas": 1058
+    }
+  }
+}
