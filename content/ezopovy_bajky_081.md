@@ -1,5 +1,6 @@
 ---
 title: Lakomec
+contentType: prose
 ---
 
   

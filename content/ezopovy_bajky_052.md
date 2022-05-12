@@ -1,5 +1,6 @@
 ---
 title: Osel a kůň
+contentType: prose
 ---
 
   

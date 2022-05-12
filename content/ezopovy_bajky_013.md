@@ -1,5 +1,6 @@
 ---
 title: "Netopýr, šípkový keř a\_potápka"
+contentType: prose
 ---
 
   

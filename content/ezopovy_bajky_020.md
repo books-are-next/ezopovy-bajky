@@ -1,5 +1,6 @@
 ---
 title: "Lev, vlk a\_liška"
+contentType: prose
 ---
 
   

@@ -1,5 +1,6 @@
 ---
 title: "Želva a\_orel"
+contentType: prose
 ---
 
   

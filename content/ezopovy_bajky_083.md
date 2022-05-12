@@ -1,5 +1,6 @@
 ---
 title: "Ptáčník a\_koroptev"
+contentType: prose
 ---
 
   

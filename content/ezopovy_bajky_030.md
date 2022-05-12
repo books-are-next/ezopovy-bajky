@@ -1,5 +1,6 @@
 ---
 title: Osel a cikády
+contentType: prose
 ---
 
   

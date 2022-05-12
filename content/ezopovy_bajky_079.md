@@ -1,5 +1,6 @@
 ---
 title: "Pes, liška a\_kohout"
+contentType: prose
 ---
 
   

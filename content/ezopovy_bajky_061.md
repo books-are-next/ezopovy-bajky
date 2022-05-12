@@ -1,5 +1,6 @@
 ---
 title: "Pes a\_slepice"
+contentType: prose
 ---
 
   

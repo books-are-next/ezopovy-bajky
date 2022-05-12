@@ -1,5 +1,6 @@
 ---
 title: Lasička a slepice
+contentType: prose
 ---
 
   

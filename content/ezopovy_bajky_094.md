@@ -1,5 +1,6 @@
 ---
 title: Slepice a zlaté vejce
+contentType: prose
 ---
 
   

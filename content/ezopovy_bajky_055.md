@@ -1,5 +1,6 @@
 ---
 title: "Slunce a\_severák"
+contentType: prose
 ---
 
   

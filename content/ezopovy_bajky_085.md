@@ -1,5 +1,6 @@
 ---
 title: "Vlaštovka a\_jmelí"
+contentType: prose
 ---
 
   

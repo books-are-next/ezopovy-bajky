@@ -1,5 +1,6 @@
 ---
 title: "Kanec a\_kůň"
+contentType: prose
 ---
 
   

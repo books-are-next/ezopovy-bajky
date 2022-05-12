@@ -1,5 +1,6 @@
 ---
 title: "Zeus a\_želva"
+contentType: prose
 ---
 
   

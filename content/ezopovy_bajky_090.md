@@ -1,5 +1,6 @@
 ---
 title: "Včely a\_trubci před soudem"
+contentType: prose
 ---
 
   

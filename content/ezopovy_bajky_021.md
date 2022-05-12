@@ -1,5 +1,6 @@
 ---
 title: Lev a myš
+contentType: prose
 ---
 
   

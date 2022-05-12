@@ -1,5 +1,6 @@
 ---
 title: "Osel, mezek a\_lupiči"
+contentType: prose
 ---
 
   

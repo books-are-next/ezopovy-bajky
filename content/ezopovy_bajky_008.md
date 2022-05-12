@@ -1,5 +1,6 @@
 ---
 title: "Sele a\_ovce"
+contentType: prose
 ---
 
   

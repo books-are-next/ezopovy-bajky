@@ -1,5 +1,6 @@
 ---
 title: "Poutníci a\_platan"
+contentType: prose
 ---
 
   

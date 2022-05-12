@@ -1,6 +1,8 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
+languageCode: en
 meta:
   title: Ezopovy bajky
   identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
@@ -10,7 +12,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - ezopovy_bajky_002.html
+  - promo.html
   - ezopovy_bajky_005.html
   - ezopovy_bajky_006.html
   - ezopovy_bajky_007.html

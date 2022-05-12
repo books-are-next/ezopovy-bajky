@@ -1,5 +1,6 @@
 ---
 title: "Osel s\_nákladem soli"
+contentType: prose
 ---
 
   

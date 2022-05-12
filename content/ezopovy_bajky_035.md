@@ -1,5 +1,6 @@
 ---
 title: Osel a zahradník
+contentType: prose
 ---
 
   

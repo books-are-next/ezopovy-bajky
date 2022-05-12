@@ -1,5 +1,6 @@
 ---
 title: "Kavka a\_cizí peří"
+contentType: prose
 ---
 
   

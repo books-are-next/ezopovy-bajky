@@ -1,5 +1,6 @@
 ---
 title: "Skopci a\_řezník"
+contentType: prose
 ---
 
   

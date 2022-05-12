@@ -1,5 +1,6 @@
 ---
 title: "Vlci a\_ovce"
+contentType: prose
 ---
 
   

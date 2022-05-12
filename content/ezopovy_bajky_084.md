@@ -1,5 +1,6 @@
 ---
 title: "Jedle a\_šípkový keř"
+contentType: prose
 ---
 
   

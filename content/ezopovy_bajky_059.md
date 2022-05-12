@@ -1,5 +1,6 @@
 ---
 title: Osel a mezek
+contentType: prose
 ---
 
   

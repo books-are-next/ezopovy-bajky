@@ -1,5 +1,6 @@
 ---
 title: "Havran a\_liška"
+contentType: prose
 ---
 
   

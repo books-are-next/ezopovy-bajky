@@ -1,5 +1,6 @@
 ---
 title: Lev za vraty
+contentType: prose
 ---
 
   

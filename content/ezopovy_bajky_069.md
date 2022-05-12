@@ -1,5 +1,6 @@
 ---
 title: "Mravenec a\_cikáda"
+contentType: prose
 ---
 
   

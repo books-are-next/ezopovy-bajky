@@ -1,5 +1,6 @@
 ---
 title: "Stařena a\_lékař"
+contentType: prose
 ---
 
   

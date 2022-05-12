@@ -1,5 +1,6 @@
 ---
 title: "Komár, lev a\_pavouk"
+contentType: prose
 ---
 
   

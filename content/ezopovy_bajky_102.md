@@ -1,5 +1,6 @@
 ---
 title: Dvě tašky
+contentType: prose
 ---
 
   

@@ -1,5 +1,6 @@
 ---
 title: "Myš a\_žába"
+contentType: prose
 ---
 
   

@@ -1,5 +1,6 @@
 ---
 title: "Chytrák a\_truhla zlatých mincí"
+contentType: prose
 ---
 
   

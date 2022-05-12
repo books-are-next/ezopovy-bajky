@@ -1,5 +1,6 @@
 ---
 title: Kočka a bohyně Afrodite
+contentType: prose
 ---
 
   

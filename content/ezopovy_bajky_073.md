@@ -1,5 +1,6 @@
 ---
 title: "Labuť a\_husa"
+contentType: prose
 ---
 
   

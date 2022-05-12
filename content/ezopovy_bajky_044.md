@@ -1,5 +1,6 @@
 ---
 title: "Lev a\_pastýř"
+contentType: prose
 ---
 
   

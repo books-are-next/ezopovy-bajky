@@ -1,5 +1,6 @@
 ---
 title: "Poutník a\_Hermes"
+contentType: prose
 ---
 
   

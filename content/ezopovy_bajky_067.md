@@ -1,5 +1,6 @@
 ---
 title: "Přátelé a\_sekera"
+contentType: prose
 ---
 
   

@@ -1,5 +1,6 @@
 ---
 title: Orel a liška
+contentType: prose
 ---
 
   

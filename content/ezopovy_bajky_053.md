@@ -1,5 +1,6 @@
 ---
 title: "Dřevorubec a\_bůh Hermes"
+contentType: prose
 ---
 
   
