@@ -1,5 +1,6 @@
 ---
 title: Sněm zvířat
+contentType: prose
 ---
 
   

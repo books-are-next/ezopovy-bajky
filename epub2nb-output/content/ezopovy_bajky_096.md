@@ -1,5 +1,6 @@
 ---
 title: "Orel, had a\_lovec"
+contentType: prose
 ---
 
   

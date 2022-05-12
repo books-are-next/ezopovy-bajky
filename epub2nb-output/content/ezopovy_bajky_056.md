@@ -1,5 +1,6 @@
 ---
 title: "Nemocný a\_lékař"
+contentType: prose
 ---
 
   

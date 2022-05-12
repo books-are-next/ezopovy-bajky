@@ -1,5 +1,6 @@
 ---
 title: "Netopýr a\_lasičky"
+contentType: prose
 ---
 
   

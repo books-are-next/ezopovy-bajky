@@ -1,5 +1,6 @@
 ---
 title: "Pastýř a\_vlčata"
+contentType: prose
 ---
 
   

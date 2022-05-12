@@ -1,5 +1,6 @@
 ---
 title: "Cestující v\_bouři"
+contentType: prose
 ---
 
   

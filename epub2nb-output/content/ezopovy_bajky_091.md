@@ -1,5 +1,6 @@
 ---
 title: "Vosy, špačci, mezek a\_starý sedlák"
+contentType: prose
 ---
 
   

@@ -1,5 +1,6 @@
 ---
 title: "Zloděj a\_hostinský"
+contentType: prose
 ---
 
   

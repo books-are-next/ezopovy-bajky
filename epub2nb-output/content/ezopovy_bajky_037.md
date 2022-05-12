@@ -1,5 +1,6 @@
 ---
 title: "Kupec a\_moře"
+contentType: prose
 ---
 
   

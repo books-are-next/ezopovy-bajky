@@ -1,5 +1,6 @@
 ---
 title: "Orel, kavka a\_pastýř"
+contentType: prose
 ---
 
   

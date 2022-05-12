@@ -1,5 +1,6 @@
 ---
 title: "Opice a\_rybáři"
+contentType: prose
 ---
 
   

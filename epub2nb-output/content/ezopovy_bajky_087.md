@@ -1,5 +1,6 @@
 ---
 title: Liška bez ocasu
+contentType: prose
 ---
 
   

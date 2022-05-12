@@ -1,5 +1,6 @@
 ---
 title: "Včely a\_Zeus"
+contentType: prose
 ---
 
   

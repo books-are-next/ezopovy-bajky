@@ -1,5 +1,6 @@
 ---
 title: Pastýř vtipálek
+contentType: prose
 ---
 
   

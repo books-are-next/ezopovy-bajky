@@ -1,5 +1,6 @@
 ---
 title: Volba krále zvířat
+contentType: prose
 ---
 
   

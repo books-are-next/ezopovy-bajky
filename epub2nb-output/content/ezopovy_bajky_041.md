@@ -1,5 +1,6 @@
 ---
 title: Vlk a pastýř
+contentType: prose
 ---
 
   

@@ -48,7 +48,7 @@
             "filename": "ezopovy_bajky_002.md",
             "xhtml": "ezopovy_bajky_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hiddenTitle": false,
@@ -1172,7 +1172,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Pavel Šrut",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-02-11T12:28:07.029Z"
+      "modified": "2020-07-01T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -1852,6 +1852,6 @@
       "user": "books-are-next",
       "repo": "ezopovy-bajky"
     },
-    "generatedAt": 1644582487839
+    "generatedAt": 1652351433846
   }
 }

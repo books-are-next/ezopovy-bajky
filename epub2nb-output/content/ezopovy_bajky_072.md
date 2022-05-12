@@ -1,5 +1,6 @@
 ---
 title: Labutí píseň
+contentType: prose
 ---
 
   

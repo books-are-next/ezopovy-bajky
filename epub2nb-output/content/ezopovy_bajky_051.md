@@ -1,5 +1,6 @@
 ---
 title: Hospodář kupující osla
+contentType: prose
 ---
 
   

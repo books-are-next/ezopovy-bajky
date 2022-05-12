@@ -1,5 +1,6 @@
 ---
 title: Vlk a volavka
+contentType: prose
 ---
 
   

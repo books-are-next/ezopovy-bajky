@@ -1,5 +1,6 @@
 ---
 title: "Poutníci a\_medvěd"
+contentType: prose
 ---
 
   

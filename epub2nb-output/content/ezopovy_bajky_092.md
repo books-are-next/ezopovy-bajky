@@ -1,5 +1,6 @@
 ---
 title: "Člověk a\_paní Přísaha"
+contentType: prose
 ---
 
   

@@ -1,5 +1,6 @@
 ---
 title: "Had, lasička a\_myši"
+contentType: prose
 ---
 
   

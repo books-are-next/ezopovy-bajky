@@ -1,5 +1,6 @@
 ---
 title: "Šašek a\_sedlák"
+contentType: prose
 ---
 
   

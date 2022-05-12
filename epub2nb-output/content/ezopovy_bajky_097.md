@@ -1,5 +1,6 @@
 ---
 title: "Chlapec zloděj a\_jeho matka"
+contentType: prose
 ---
 
   

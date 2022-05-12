@@ -1,20 +1,125 @@
 {
-  "author": "Pavel Šrut",
-  "edition": "beletrie",
-  "identifier": "srut-ezopovy-bajky-9dbd5be",
-  "modified": "2022-02-11T11:35:01.840Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Ezopovy bajky",
-  "revision": "9dbd5be",
+  "author": "Pavel Šrut",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "en",
+  "root": "main",
+  "identifier": "srut-ezopovy-bajky-2935468",
+  "revision": "2935468",
+  "readingOrder": [
+    "promo.html",
+    "ezopovy_bajky_005.html",
+    "ezopovy_bajky_006.html",
+    "ezopovy_bajky_007.html",
+    "ezopovy_bajky_008.html",
+    "ezopovy_bajky_009.html",
+    "ezopovy_bajky_010.html",
+    "ezopovy_bajky_011.html",
+    "ezopovy_bajky_012.html",
+    "ezopovy_bajky_013.html",
+    "ezopovy_bajky_014.html",
+    "ezopovy_bajky_015.html",
+    "ezopovy_bajky_016.html",
+    "ezopovy_bajky_017.html",
+    "ezopovy_bajky_018.html",
+    "ezopovy_bajky_019.html",
+    "ezopovy_bajky_020.html",
+    "ezopovy_bajky_021.html",
+    "ezopovy_bajky_022.html",
+    "ezopovy_bajky_023.html",
+    "ezopovy_bajky_024.html",
+    "ezopovy_bajky_025.html",
+    "ezopovy_bajky_026.html",
+    "ezopovy_bajky_027.html",
+    "ezopovy_bajky_028.html",
+    "ezopovy_bajky_029.html",
+    "ezopovy_bajky_030.html",
+    "ezopovy_bajky_031.html",
+    "ezopovy_bajky_032.html",
+    "ezopovy_bajky_033.html",
+    "ezopovy_bajky_034.html",
+    "ezopovy_bajky_035.html",
+    "ezopovy_bajky_036.html",
+    "ezopovy_bajky_037.html",
+    "ezopovy_bajky_038.html",
+    "ezopovy_bajky_039.html",
+    "ezopovy_bajky_040.html",
+    "ezopovy_bajky_041.html",
+    "ezopovy_bajky_042.html",
+    "ezopovy_bajky_043.html",
+    "ezopovy_bajky_044.html",
+    "ezopovy_bajky_045.html",
+    "ezopovy_bajky_046.html",
+    "ezopovy_bajky_047.html",
+    "ezopovy_bajky_048.html",
+    "ezopovy_bajky_049.html",
+    "ezopovy_bajky_050.html",
+    "ezopovy_bajky_051.html",
+    "ezopovy_bajky_052.html",
+    "ezopovy_bajky_053.html",
+    "ezopovy_bajky_054.html",
+    "ezopovy_bajky_055.html",
+    "ezopovy_bajky_056.html",
+    "ezopovy_bajky_057.html",
+    "ezopovy_bajky_058.html",
+    "ezopovy_bajky_059.html",
+    "ezopovy_bajky_060.html",
+    "ezopovy_bajky_061.html",
+    "ezopovy_bajky_062.html",
+    "ezopovy_bajky_063.html",
+    "ezopovy_bajky_064.html",
+    "ezopovy_bajky_065.html",
+    "ezopovy_bajky_066.html",
+    "ezopovy_bajky_067.html",
+    "ezopovy_bajky_068.html",
+    "ezopovy_bajky_069.html",
+    "ezopovy_bajky_070.html",
+    "ezopovy_bajky_071.html",
+    "ezopovy_bajky_072.html",
+    "ezopovy_bajky_073.html",
+    "ezopovy_bajky_074.html",
+    "ezopovy_bajky_075.html",
+    "ezopovy_bajky_076.html",
+    "ezopovy_bajky_077.html",
+    "ezopovy_bajky_078.html",
+    "ezopovy_bajky_079.html",
+    "ezopovy_bajky_080.html",
+    "ezopovy_bajky_081.html",
+    "ezopovy_bajky_082.html",
+    "ezopovy_bajky_083.html",
+    "ezopovy_bajky_084.html",
+    "ezopovy_bajky_085.html",
+    "ezopovy_bajky_086.html",
+    "ezopovy_bajky_087.html",
+    "ezopovy_bajky_088.html",
+    "ezopovy_bajky_089.html",
+    "ezopovy_bajky_090.html",
+    "ezopovy_bajky_091.html",
+    "ezopovy_bajky_092.html",
+    "ezopovy_bajky_093.html",
+    "ezopovy_bajky_094.html",
+    "ezopovy_bajky_095.html",
+    "ezopovy_bajky_096.html",
+    "ezopovy_bajky_097.html",
+    "ezopovy_bajky_098.html",
+    "ezopovy_bajky_099.html",
+    "ezopovy_bajky_100.html",
+    "ezopovy_bajky_101.html",
+    "ezopovy_bajky_102.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Fri Feb 11 2022 12:29:03 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1644582543496
+    "date": "Thu May 12 2022 10:38:53 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351933623
   },
   "documents": [
     {
-      "title": "Ezopovy bajky",
-      "file": "ezopovy_bajky_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -22,25 +127,17 @@
       "order": 0,
       "prev": null,
       "next": "ezopovy_bajky_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "Volba krále zvířat • Ezopovy bajky",
+      "title": "Volba krále zvířat",
       "file": "ezopovy_bajky_005.html",
       "words": 223,
       "chars": 1277,
       "ideas": 10,
       "role": "chapter",
       "order": 1,
-      "prev": "ezopovy_bajky_002.html",
+      "prev": "promo.html",
       "next": "ezopovy_bajky_006.html",
       "toc": [
         {
@@ -53,7 +150,7 @@
       ]
     },
     {
-      "title": "Orel a chrobák • Ezopovy bajky",
+      "title": "Orel a chrobák",
       "file": "ezopovy_bajky_006.html",
       "words": 204,
       "chars": 1140,
@@ -73,7 +170,7 @@
       ]
     },
     {
-      "title": "Orel a liška • Ezopovy bajky",
+      "title": "Orel a liška",
       "file": "ezopovy_bajky_007.html",
       "words": 189,
       "chars": 1048,
@@ -93,7 +190,7 @@
       ]
     },
     {
-      "title": "Sele a ovce • Ezopovy bajky",
+      "title": "Sele a ovce",
       "file": "ezopovy_bajky_008.html",
       "words": 133,
       "chars": 715,
@@ -113,7 +210,7 @@
       ]
     },
     {
-      "title": "Havran a liška • Ezopovy bajky",
+      "title": "Havran a liška",
       "file": "ezopovy_bajky_009.html",
       "words": 157,
       "chars": 925,
@@ -133,7 +230,7 @@
       ]
     },
     {
-      "title": "Divoké kozy a pastýř • Ezopovy bajky",
+      "title": "Divoké kozy a pastýř",
       "file": "ezopovy_bajky_010.html",
       "words": 185,
       "chars": 1061,
@@ -153,7 +250,7 @@
       ]
     },
     {
-      "title": "Cestující v bouři • Ezopovy bajky",
+      "title": "Cestující v bouři",
       "file": "ezopovy_bajky_011.html",
       "words": 102,
       "chars": 610,
@@ -173,7 +270,7 @@
       ]
     },
     {
-      "title": "Rybář a píšťala • Ezopovy bajky",
+      "title": "Rybář a píšťala",
       "file": "ezopovy_bajky_012.html",
       "words": 165,
       "chars": 895,
@@ -193,7 +290,7 @@
       ]
     },
     {
-      "title": "Netopýr, šípkový keř a potápka • Ezopovy bajky",
+      "title": "Netopýr, šípkový keř a potápka",
       "file": "ezopovy_bajky_013.html",
       "words": 219,
       "chars": 1229,
@@ -213,7 +310,7 @@
       ]
     },
     {
-      "title": "Lasička a kohout • Ezopovy bajky",
+      "title": "Lasička a kohout",
       "file": "ezopovy_bajky_014.html",
       "words": 121,
       "chars": 730,
@@ -233,7 +330,7 @@
       ]
     },
     {
-      "title": "Lasička a slepice • Ezopovy bajky",
+      "title": "Lasička a slepice",
       "file": "ezopovy_bajky_015.html",
       "words": 101,
       "chars": 617,
@@ -253,7 +350,7 @@
       ]
     },
     {
-      "title": "Netopýr a lasičky • Ezopovy bajky",
+      "title": "Netopýr a lasičky",
       "file": "ezopovy_bajky_016.html",
       "words": 146,
       "chars": 835,
@@ -273,7 +370,7 @@
       ]
     },
     {
-      "title": "Chytrák a truhla zlatých mincí • Ezopovy bajky",
+      "title": "Chytrák a truhla zlatých mincí",
       "file": "ezopovy_bajky_017.html",
       "words": 215,
       "chars": 1179,
@@ -293,7 +390,7 @@
       ]
     },
     {
-      "title": "Vinař a jeho synové • Ezopovy bajky",
+      "title": "Vinař a jeho synové",
       "file": "ezopovy_bajky_018.html",
       "words": 99,
       "chars": 590,
@@ -313,7 +410,7 @@
       ]
     },
     {
-      "title": "Kočka a bohyně Afrodite • Ezopovy bajky",
+      "title": "Kočka a bohyně Afrodite",
       "file": "ezopovy_bajky_019.html",
       "words": 116,
       "chars": 680,
@@ -333,7 +430,7 @@
       ]
     },
     {
-      "title": "Lev, vlk a liška • Ezopovy bajky",
+      "title": "Lev, vlk a liška",
       "file": "ezopovy_bajky_020.html",
       "words": 193,
       "chars": 1098,
@@ -353,7 +450,7 @@
       ]
     },
     {
-      "title": "Lev a myš • Ezopovy bajky",
+      "title": "Lev a myš",
       "file": "ezopovy_bajky_021.html",
       "words": 176,
       "chars": 945,
@@ -373,7 +470,7 @@
       ]
     },
     {
-      "title": "Osel, liška a lev • Ezopovy bajky",
+      "title": "Osel, liška a lev",
       "file": "ezopovy_bajky_022.html",
       "words": 153,
       "chars": 803,
@@ -393,7 +490,7 @@
       ]
     },
     {
-      "title": "Lev a osel • Ezopovy bajky",
+      "title": "Lev a osel",
       "file": "ezopovy_bajky_023.html",
       "words": 178,
       "chars": 985,
@@ -413,7 +510,7 @@
       ]
     },
     {
-      "title": "Myši a kočky • Ezopovy bajky",
+      "title": "Myši a kočky",
       "file": "ezopovy_bajky_024.html",
       "words": 174,
       "chars": 1032,
@@ -433,7 +530,7 @@
       ]
     },
     {
-      "title": "Kavka a holubi • Ezopovy bajky",
+      "title": "Kavka a holubi",
       "file": "ezopovy_bajky_025.html",
       "words": 160,
       "chars": 901,
@@ -453,7 +550,7 @@
       ]
     },
     {
-      "title": "Orel, kavka a pastýř • Ezopovy bajky",
+      "title": "Orel, kavka a pastýř",
       "file": "ezopovy_bajky_026.html",
       "words": 198,
       "chars": 1073,
@@ -473,7 +570,7 @@
       ]
     },
     {
-      "title": "Mravenec a Zeus • Ezopovy bajky",
+      "title": "Mravenec a Zeus",
       "file": "ezopovy_bajky_027.html",
       "words": 100,
       "chars": 558,
@@ -493,7 +590,7 @@
       ]
     },
     {
-      "title": "Zeus a želva • Ezopovy bajky",
+      "title": "Zeus a želva",
       "file": "ezopovy_bajky_028.html",
       "words": 146,
       "chars": 842,
@@ -513,7 +610,7 @@
       ]
     },
     {
-      "title": "Vlci a ovce • Ezopovy bajky",
+      "title": "Vlci a ovce",
       "file": "ezopovy_bajky_029.html",
       "words": 148,
       "chars": 820,
@@ -533,7 +630,7 @@
       ]
     },
     {
-      "title": "Osel a cikády • Ezopovy bajky",
+      "title": "Osel a cikády",
       "file": "ezopovy_bajky_030.html",
       "words": 175,
       "chars": 966,
@@ -553,7 +650,7 @@
       ]
     },
     {
-      "title": "Vlk a volavka • Ezopovy bajky",
+      "title": "Vlk a volavka",
       "file": "ezopovy_bajky_031.html",
       "words": 144,
       "chars": 796,
@@ -573,7 +670,7 @@
       ]
     },
     {
-      "title": "Vlk a psi • Ezopovy bajky",
+      "title": "Vlk a psi",
       "file": "ezopovy_bajky_032.html",
       "words": 207,
       "chars": 1149,
@@ -593,7 +690,7 @@
       ]
     },
     {
-      "title": "Osel a vlk • Ezopovy bajky",
+      "title": "Osel a vlk",
       "file": "ezopovy_bajky_033.html",
       "words": 197,
       "chars": 1049,
@@ -613,7 +710,7 @@
       ]
     },
     {
-      "title": "Pastýř a vlčata • Ezopovy bajky",
+      "title": "Pastýř a vlčata",
       "file": "ezopovy_bajky_034.html",
       "words": 176,
       "chars": 985,
@@ -633,7 +730,7 @@
       ]
     },
     {
-      "title": "Osel a zahradník • Ezopovy bajky",
+      "title": "Osel a zahradník",
       "file": "ezopovy_bajky_035.html",
       "words": 205,
       "chars": 1188,
@@ -653,7 +750,7 @@
       ]
     },
     {
-      "title": "Hvězdář a žába • Ezopovy bajky",
+      "title": "Hvězdář a žába",
       "file": "ezopovy_bajky_036.html",
       "words": 174,
       "chars": 919,
@@ -673,7 +770,7 @@
       ]
     },
     {
-      "title": "Kupec a moře • Ezopovy bajky",
+      "title": "Kupec a moře",
       "file": "ezopovy_bajky_037.html",
       "words": 189,
       "chars": 1070,
@@ -693,7 +790,7 @@
       ]
     },
     {
-      "title": "Zajíci a žáby • Ezopovy bajky",
+      "title": "Zajíci a žáby",
       "file": "ezopovy_bajky_038.html",
       "words": 144,
       "chars": 849,
@@ -713,7 +810,7 @@
       ]
     },
     {
-      "title": "Poutník a Hermes • Ezopovy bajky",
+      "title": "Poutník a Hermes",
       "file": "ezopovy_bajky_039.html",
       "words": 199,
       "chars": 1088,
@@ -733,7 +830,7 @@
       ]
     },
     {
-      "title": "Otec a dcery • Ezopovy bajky",
+      "title": "Otec a dcery",
       "file": "ezopovy_bajky_040.html",
       "words": 201,
       "chars": 1140,
@@ -753,7 +850,7 @@
       ]
     },
     {
-      "title": "Vlk a pastýř • Ezopovy bajky",
+      "title": "Vlk a pastýř",
       "file": "ezopovy_bajky_041.html",
       "words": 202,
       "chars": 1120,
@@ -773,7 +870,7 @@
       ]
     },
     {
-      "title": "Lev, osel a liška • Ezopovy bajky",
+      "title": "Lev, osel a liška",
       "file": "ezopovy_bajky_042.html",
       "words": 132,
       "chars": 733,
@@ -793,7 +890,7 @@
       ]
     },
     {
-      "title": "Lev za vraty • Ezopovy bajky",
+      "title": "Lev za vraty",
       "file": "ezopovy_bajky_043.html",
       "words": 123,
       "chars": 668,
@@ -813,7 +910,7 @@
       ]
     },
     {
-      "title": "Lev a pastýř • Ezopovy bajky",
+      "title": "Lev a pastýř",
       "file": "ezopovy_bajky_044.html",
       "words": 145,
       "chars": 838,
@@ -833,7 +930,7 @@
       ]
     },
     {
-      "title": "Poutníci a platan • Ezopovy bajky",
+      "title": "Poutníci a platan",
       "file": "ezopovy_bajky_045.html",
       "words": 141,
       "chars": 837,
@@ -853,7 +950,7 @@
       ]
     },
     {
-      "title": "Poutníci a medvěd • Ezopovy bajky",
+      "title": "Poutníci a medvěd",
       "file": "ezopovy_bajky_046.html",
       "words": 153,
       "chars": 866,
@@ -873,7 +970,7 @@
       ]
     },
     {
-      "title": "Opice a rybáři • Ezopovy bajky",
+      "title": "Opice a rybáři",
       "file": "ezopovy_bajky_047.html",
       "words": 102,
       "chars": 557,
@@ -893,7 +990,7 @@
       ]
     },
     {
-      "title": "Včely a Zeus • Ezopovy bajky",
+      "title": "Včely a Zeus",
       "file": "ezopovy_bajky_048.html",
       "words": 142,
       "chars": 810,
@@ -913,7 +1010,7 @@
       ]
     },
     {
-      "title": "Pastýř vtipálek • Ezopovy bajky",
+      "title": "Pastýř vtipálek",
       "file": "ezopovy_bajky_049.html",
       "words": 224,
       "chars": 1193,
@@ -933,7 +1030,7 @@
       ]
     },
     {
-      "title": "Vlk a pes • Ezopovy bajky",
+      "title": "Vlk a pes",
       "file": "ezopovy_bajky_050.html",
       "words": 214,
       "chars": 1126,
@@ -953,7 +1050,7 @@
       ]
     },
     {
-      "title": "Hospodář kupující osla • Ezopovy bajky",
+      "title": "Hospodář kupující osla",
       "file": "ezopovy_bajky_051.html",
       "words": 185,
       "chars": 1067,
@@ -973,7 +1070,7 @@
       ]
     },
     {
-      "title": "Osel a kůň • Ezopovy bajky",
+      "title": "Osel a kůň",
       "file": "ezopovy_bajky_052.html",
       "words": 181,
       "chars": 1005,
@@ -993,7 +1090,7 @@
       ]
     },
     {
-      "title": "Dřevorubec a bůh Hermes • Ezopovy bajky",
+      "title": "Dřevorubec a bůh Hermes",
       "file": "ezopovy_bajky_053.html",
       "words": 228,
       "chars": 1331,
@@ -1013,7 +1110,7 @@
       ]
     },
     {
-      "title": "Stařena a lékař • Ezopovy bajky",
+      "title": "Stařena a lékař",
       "file": "ezopovy_bajky_054.html",
       "words": 160,
       "chars": 1004,
@@ -1033,7 +1130,7 @@
       ]
     },
     {
-      "title": "Slunce a severák • Ezopovy bajky",
+      "title": "Slunce a severák",
       "file": "ezopovy_bajky_055.html",
       "words": 170,
       "chars": 924,
@@ -1053,7 +1150,7 @@
       ]
     },
     {
-      "title": "Nemocný a lékař • Ezopovy bajky",
+      "title": "Nemocný a lékař",
       "file": "ezopovy_bajky_056.html",
       "words": 177,
       "chars": 1021,
@@ -1073,7 +1170,7 @@
       ]
     },
     {
-      "title": "Vlaštovka a soudce • Ezopovy bajky",
+      "title": "Vlaštovka a soudce",
       "file": "ezopovy_bajky_057.html",
       "words": 168,
       "chars": 954,
@@ -1093,7 +1190,7 @@
       ]
     },
     {
-      "title": "Věštec • Ezopovy bajky",
+      "title": "Věštec",
       "file": "ezopovy_bajky_058.html",
       "words": 178,
       "chars": 1071,
@@ -1113,7 +1210,7 @@
       ]
     },
     {
-      "title": "Osel a mezek • Ezopovy bajky",
+      "title": "Osel a mezek",
       "file": "ezopovy_bajky_059.html",
       "words": 161,
       "chars": 911,
@@ -1133,7 +1230,7 @@
       ]
     },
     {
-      "title": "Osel s nákladem soli • Ezopovy bajky",
+      "title": "Osel s nákladem soli",
       "file": "ezopovy_bajky_060.html",
       "words": 195,
       "chars": 1040,
@@ -1153,7 +1250,7 @@
       ]
     },
     {
-      "title": "Pes a slepice • Ezopovy bajky",
+      "title": "Pes a slepice",
       "file": "ezopovy_bajky_061.html",
       "words": 109,
       "chars": 598,
@@ -1173,7 +1270,7 @@
       ]
     },
     {
-      "title": "Pes na hostině • Ezopovy bajky",
+      "title": "Pes na hostině",
       "file": "ezopovy_bajky_062.html",
       "words": 186,
       "chars": 1026,
@@ -1193,7 +1290,7 @@
       ]
     },
     {
-      "title": "Sněm zvířat • Ezopovy bajky",
+      "title": "Sněm zvířat",
       "file": "ezopovy_bajky_063.html",
       "words": 190,
       "chars": 1155,
@@ -1213,7 +1310,7 @@
       ]
     },
     {
-      "title": "Jelen a lev • Ezopovy bajky",
+      "title": "Jelen a lev",
       "file": "ezopovy_bajky_064.html",
       "words": 158,
       "chars": 893,
@@ -1233,7 +1330,7 @@
       ]
     },
     {
-      "title": "Liška a dřevorubec • Ezopovy bajky",
+      "title": "Liška a dřevorubec",
       "file": "ezopovy_bajky_065.html",
       "words": 122,
       "chars": 701,
@@ -1253,7 +1350,7 @@
       ]
     },
     {
-      "title": "Osel, mezek a lupiči • Ezopovy bajky",
+      "title": "Osel, mezek a lupiči",
       "file": "ezopovy_bajky_066.html",
       "words": 148,
       "chars": 816,
@@ -1273,7 +1370,7 @@
       ]
     },
     {
-      "title": "Přátelé a sekera • Ezopovy bajky",
+      "title": "Přátelé a sekera",
       "file": "ezopovy_bajky_067.html",
       "words": 118,
       "chars": 655,
@@ -1293,7 +1390,7 @@
       ]
     },
     {
-      "title": "Komár, lev a pavouk • Ezopovy bajky",
+      "title": "Komár, lev a pavouk",
       "file": "ezopovy_bajky_068.html",
       "words": 227,
       "chars": 1256,
@@ -1313,7 +1410,7 @@
       ]
     },
     {
-      "title": "Mravenec a cikáda • Ezopovy bajky",
+      "title": "Mravenec a cikáda",
       "file": "ezopovy_bajky_069.html",
       "words": 140,
       "chars": 776,
@@ -1333,7 +1430,7 @@
       ]
     },
     {
-      "title": "Kavka a cizí peří • Ezopovy bajky",
+      "title": "Kavka a cizí peří",
       "file": "ezopovy_bajky_070.html",
       "words": 225,
       "chars": 1299,
@@ -1353,7 +1450,7 @@
       ]
     },
     {
-      "title": "Člověk a lev • Ezopovy bajky",
+      "title": "Člověk a lev",
       "file": "ezopovy_bajky_071.html",
       "words": 154,
       "chars": 904,
@@ -1373,7 +1470,7 @@
       ]
     },
     {
-      "title": "Labutí píseň • Ezopovy bajky",
+      "title": "Labutí píseň",
       "file": "ezopovy_bajky_072.html",
       "words": 186,
       "chars": 1074,
@@ -1393,7 +1490,7 @@
       ]
     },
     {
-      "title": "Labuť a husa • Ezopovy bajky",
+      "title": "Labuť a husa",
       "file": "ezopovy_bajky_073.html",
       "words": 186,
       "chars": 980,
@@ -1413,7 +1510,7 @@
       ]
     },
     {
-      "title": "Želva a orel • Ezopovy bajky",
+      "title": "Želva a orel",
       "file": "ezopovy_bajky_074.html",
       "words": 221,
       "chars": 1153,
@@ -1433,7 +1530,7 @@
       ]
     },
     {
-      "title": "Had, lasička a myši • Ezopovy bajky",
+      "title": "Had, lasička a myši",
       "file": "ezopovy_bajky_075.html",
       "words": 176,
       "chars": 942,
@@ -1453,7 +1550,7 @@
       ]
     },
     {
-      "title": "Žížala a velký had • Ezopovy bajky",
+      "title": "Žížala a velký had",
       "file": "ezopovy_bajky_076.html",
       "words": 164,
       "chars": 912,
@@ -1473,7 +1570,7 @@
       ]
     },
     {
-      "title": "Liška a čáp • Ezopovy bajky",
+      "title": "Liška a čáp",
       "file": "ezopovy_bajky_077.html",
       "words": 198,
       "chars": 1142,
@@ -1493,7 +1590,7 @@
       ]
     },
     {
-      "title": "Dva kohouti • Ezopovy bajky",
+      "title": "Dva kohouti",
       "file": "ezopovy_bajky_078.html",
       "words": 130,
       "chars": 754,
@@ -1513,7 +1610,7 @@
       ]
     },
     {
-      "title": "Pes, liška a kohout • Ezopovy bajky",
+      "title": "Pes, liška a kohout",
       "file": "ezopovy_bajky_079.html",
       "words": 175,
       "chars": 975,
@@ -1533,7 +1630,7 @@
       ]
     },
     {
-      "title": "Člověk, který rozbil sochu • Ezopovy bajky",
+      "title": "Člověk, který rozbil sochu",
       "file": "ezopovy_bajky_080.html",
       "words": 199,
       "chars": 1089,
@@ -1553,7 +1650,7 @@
       ]
     },
     {
-      "title": "Lakomec • Ezopovy bajky",
+      "title": "Lakomec",
       "file": "ezopovy_bajky_081.html",
       "words": 218,
       "chars": 1235,
@@ -1573,7 +1670,7 @@
       ]
     },
     {
-      "title": "Opilec a jeho žena • Ezopovy bajky",
+      "title": "Opilec a jeho žena",
       "file": "ezopovy_bajky_082.html",
       "words": 164,
       "chars": 935,
@@ -1593,7 +1690,7 @@
       ]
     },
     {
-      "title": "Ptáčník a koroptev • Ezopovy bajky",
+      "title": "Ptáčník a koroptev",
       "file": "ezopovy_bajky_083.html",
       "words": 186,
       "chars": 1064,
@@ -1613,7 +1710,7 @@
       ]
     },
     {
-      "title": "Jedle a šípkový keř • Ezopovy bajky",
+      "title": "Jedle a šípkový keř",
       "file": "ezopovy_bajky_084.html",
       "words": 165,
       "chars": 929,
@@ -1633,7 +1730,7 @@
       ]
     },
     {
-      "title": "Vlaštovka a jmelí • Ezopovy bajky",
+      "title": "Vlaštovka a jmelí",
       "file": "ezopovy_bajky_085.html",
       "words": 186,
       "chars": 1071,
@@ -1653,7 +1750,7 @@
       ]
     },
     {
-      "title": "Orlice, kočka a divoká svině • Ezopovy bajky",
+      "title": "Orlice, kočka a divoká svině",
       "file": "ezopovy_bajky_086.html",
       "words": 206,
       "chars": 1172,
@@ -1673,7 +1770,7 @@
       ]
     },
     {
-      "title": "Liška bez ocasu • Ezopovy bajky",
+      "title": "Liška bez ocasu",
       "file": "ezopovy_bajky_087.html",
       "words": 202,
       "chars": 1110,
@@ -1693,7 +1790,7 @@
       ]
     },
     {
-      "title": "Kanec a kůň • Ezopovy bajky",
+      "title": "Kanec a kůň",
       "file": "ezopovy_bajky_088.html",
       "words": 232,
       "chars": 1280,
@@ -1713,7 +1810,7 @@
       ]
     },
     {
-      "title": "Skopci a řezník • Ezopovy bajky",
+      "title": "Skopci a řezník",
       "file": "ezopovy_bajky_089.html",
       "words": 185,
       "chars": 1031,
@@ -1733,7 +1830,7 @@
       ]
     },
     {
-      "title": "Včely a trubci před soudem • Ezopovy bajky",
+      "title": "Včely a trubci před soudem",
       "file": "ezopovy_bajky_090.html",
       "words": 140,
       "chars": 795,
@@ -1753,7 +1850,7 @@
       ]
     },
     {
-      "title": "Vosy, špačci, mezek a starý sedlák • Ezopovy bajky",
+      "title": "Vosy, špačci, mezek a starý sedlák",
       "file": "ezopovy_bajky_091.html",
       "words": 182,
       "chars": 1028,
@@ -1773,7 +1870,7 @@
       ]
     },
     {
-      "title": "Člověk a paní Přísaha • Ezopovy bajky",
+      "title": "Člověk a paní Přísaha",
       "file": "ezopovy_bajky_092.html",
       "words": 218,
       "chars": 1316,
@@ -1793,7 +1890,7 @@
       ]
     },
     {
-      "title": "Zloděj a hostinský • Ezopovy bajky",
+      "title": "Zloděj a hostinský",
       "file": "ezopovy_bajky_093.html",
       "words": 235,
       "chars": 1362,
@@ -1813,7 +1910,7 @@
       ]
     },
     {
-      "title": "Slepice a zlaté vejce • Ezopovy bajky",
+      "title": "Slepice a zlaté vejce",
       "file": "ezopovy_bajky_094.html",
       "words": 146,
       "chars": 815,
@@ -1833,7 +1930,7 @@
       ]
     },
     {
-      "title": "Myš a žába • Ezopovy bajky",
+      "title": "Myš a žába",
       "file": "ezopovy_bajky_095.html",
       "words": 185,
       "chars": 987,
@@ -1853,7 +1950,7 @@
       ]
     },
     {
-      "title": "Orel, had a lovec • Ezopovy bajky",
+      "title": "Orel, had a lovec",
       "file": "ezopovy_bajky_096.html",
       "words": 180,
       "chars": 976,
@@ -1873,7 +1970,7 @@
       ]
     },
     {
-      "title": "Chlapec zloděj a jeho matka • Ezopovy bajky",
+      "title": "Chlapec zloděj a jeho matka",
       "file": "ezopovy_bajky_097.html",
       "words": 235,
       "chars": 1364,
@@ -1893,7 +1990,7 @@
       ]
     },
     {
-      "title": "Šašek a sedlák • Ezopovy bajky",
+      "title": "Šašek a sedlák",
       "file": "ezopovy_bajky_098.html",
       "words": 232,
       "chars": 1293,
@@ -1913,7 +2010,7 @@
       ]
     },
     {
-      "title": "Chlapec a namalovaný lev • Ezopovy bajky",
+      "title": "Chlapec a namalovaný lev",
       "file": "ezopovy_bajky_099.html",
       "words": 189,
       "chars": 1064,
@@ -1933,7 +2030,7 @@
       ]
     },
     {
-      "title": "Člověk a satyr • Ezopovy bajky",
+      "title": "Člověk a satyr",
       "file": "ezopovy_bajky_100.html",
       "words": 169,
       "chars": 885,
@@ -1953,7 +2050,7 @@
       ]
     },
     {
-      "title": "Trubač • Ezopovy bajky",
+      "title": "Trubač",
       "file": "ezopovy_bajky_101.html",
       "words": 147,
       "chars": 852,
@@ -1973,7 +2070,7 @@
       ]
     },
     {
-      "title": "Dvě tašky • Ezopovy bajky",
+      "title": "Dvě tašky",
       "file": "ezopovy_bajky_102.html",
       "words": 144,
       "chars": 744,
@@ -1993,11 +2090,11 @@
       ]
     },
     {
-      "title": "Tiráž • Ezopovy bajky",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 136,
-      "chars": 895,
-      "ideas": 21,
+      "words": 118,
+      "chars": 764,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "ezopovy_bajky_102.html",
@@ -2008,31 +2105,16 @@
           "level": 1,
           "name": "Tiráž",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Ezopovy bajky",
-              "id": "ezopovy-bajky",
-              "children": []
-            },
-            {
-              "index": 2,
-              "level": 2,
-              "name": "Pavel Šrut",
-              "id": "pavel-šrut",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     }
   ],
   "totals": {
     "all": {
-      "words": 17093,
-      "chars": 96200,
-      "ideas": 1063
+      "words": 17075,
+      "chars": 96069,
+      "ideas": 1058
     },
     "chapters": {
       "words": 16951,

@@ -1,5 +1,6 @@
 ---
 title: "Liška a\_dřevorubec"
+contentType: prose
 ---
 
   

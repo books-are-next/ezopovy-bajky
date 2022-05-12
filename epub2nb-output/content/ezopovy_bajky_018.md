@@ -1,5 +1,6 @@
 ---
 title: "Vinař a\_jeho synové"
+contentType: prose
 ---
 
   

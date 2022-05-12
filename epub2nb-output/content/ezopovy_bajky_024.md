@@ -1,5 +1,6 @@
 ---
 title: "Myši a\_kočky"
+contentType: prose
 ---
 
   

@@ -1,5 +1,6 @@
 ---
 title: "Rybář a\_píšťala"
+contentType: prose
 ---
 
   

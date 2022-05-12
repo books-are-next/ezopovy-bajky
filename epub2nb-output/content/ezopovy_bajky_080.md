@@ -1,5 +1,6 @@
 ---
 title: Člověk, který rozbil sochu
+contentType: prose
 ---
 
   

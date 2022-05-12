@@ -1,5 +1,6 @@
 ---
 title: Kavka a holubi
+contentType: prose
 ---
 
   

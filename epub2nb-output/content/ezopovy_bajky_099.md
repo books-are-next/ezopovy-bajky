@@ -1,5 +1,6 @@
 ---
 title: "Chlapec a\_namalovaný lev"
+contentType: prose
 ---
 
   

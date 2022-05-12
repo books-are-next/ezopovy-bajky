@@ -1,5 +1,6 @@
 ---
 title: "Orlice, kočka a\_divoká svině"
+contentType: prose
 ---
 
   

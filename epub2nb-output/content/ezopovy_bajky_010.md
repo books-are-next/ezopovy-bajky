@@ -1,5 +1,6 @@
 ---
 title: "Divoké kozy a\_pastýř"
+contentType: prose
 ---
 
   

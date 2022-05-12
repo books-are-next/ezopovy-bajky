@@ -1,5 +1,6 @@
 ---
 title: "Člověk a\_satyr"
+contentType: prose
 ---
 
   

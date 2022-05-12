@@ -1,5 +1,6 @@
 ---
 title: Pes na hostině
+contentType: prose
 ---
 
   

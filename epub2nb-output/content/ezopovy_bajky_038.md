@@ -1,5 +1,6 @@
 ---
 title: "Zajíci a\_žáby"
+contentType: prose
 ---
 
   

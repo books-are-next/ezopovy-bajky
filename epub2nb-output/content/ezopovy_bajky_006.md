@@ -1,5 +1,6 @@
 ---
 title: "Orel a\_chrobák"
+contentType: prose
 ---
 
   

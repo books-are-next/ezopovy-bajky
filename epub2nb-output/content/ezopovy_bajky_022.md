@@ -1,5 +1,6 @@
 ---
 title: "Osel, liška a\_lev"
+contentType: prose
 ---
 
   

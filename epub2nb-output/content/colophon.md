@@ -2,12 +2,14 @@
 title: Tiráž
 ---
 
-***
-
-## Ezopovy bajky
-
-## Pavel Šrut
-
+**Pavel Šrut    
+Ezopovy bajky**  
+Kharkhan Oleg/Shutterstock.com  
+Redakce Jaroslava Bednářová  
+Vydala Městská knihovna v Praze  
+Mariánské nám. 1, 115 72 Praha 1  
+V MKP 1. elektronické vydání  
+1. vydání z 12. 5. 2022.
 
 ***
 
@@ -23,50 +25,7 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
   
 
-Verze 1.0 z 3. 7. 2020.
 
   
 
 ![image002.jpg](./resources/image002_fmt.jpeg)
-
-
-***
-
-**Pavel Šrut  
-Ezopovy bajky**
-
-  
-
-Kharkhan Oleg/Shutterstock.com
-
-  
-
-Redakce Jaroslava Bednářová
-
-  
-
-Vydala Městská knihovna v Praze
-
-  
-
-Mariánské nám. 1, 115 72 Praha 1
-
-  
-
-V MKP 1. elektronické vydání
-
-  
-
-Verze 1.0 z 3. 7. 2020
-
-  
-
-ISBN 978-80-274-0923-5 (epub)
-
-  
-
-ISBN 978-80-274-0924-2 (pdf)
-
-  
-
-ISBN 978-80-274-0925-9 (prc)

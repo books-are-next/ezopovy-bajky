@@ -1,5 +1,6 @@
 ---
 title: "Otec a\_dcery"
+contentType: prose
 ---
 
   

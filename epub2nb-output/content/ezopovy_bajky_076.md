@@ -1,5 +1,6 @@
 ---
 title: "Žížala a\_velký had"
+contentType: prose
 ---
 
   

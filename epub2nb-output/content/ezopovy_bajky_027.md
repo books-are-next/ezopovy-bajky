@@ -1,5 +1,6 @@
 ---
 title: "Mravenec a\_Zeus"
+contentType: prose
 ---
 
   

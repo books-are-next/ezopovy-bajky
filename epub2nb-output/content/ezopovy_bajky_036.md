@@ -1,5 +1,6 @@
 ---
 title: "Hvězdář a\_žába"
+contentType: prose
 ---
 
   

@@ -1,5 +1,6 @@
 ---
 title: "Opilec a\_jeho žena"
+contentType: prose
 ---
 
   

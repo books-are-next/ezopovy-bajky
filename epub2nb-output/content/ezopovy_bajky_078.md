@@ -1,5 +1,6 @@
 ---
 title: Dva kohouti
+contentType: prose
 ---
 
   
