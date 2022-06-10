@@ -3,8 +3,6 @@ title: "Divoké kozy a\_pastýř"
 contentType: prose
 ---
 
-  
-
 Pastýř vyváděl denně stádo koz na pastvu pod vysokou horou. Jednou z hory seběhly divoké kozy a přimíchaly se do houfu. Pastýř měl radost, jak se mu stádo rozrostlo. Honem zahnal kozy do jeskyně a zatarasil ji ohradou.
 
 Druhý den na pastvu nevyháněl. Chtěl, aby si divoké kozy u něho zvykly a zapomněly na svobodu.
@@ -18,6 +16,8 @@ Divokým kozám chutnalo, a tak se pastýř nebál hnát příští den celé s
 „Vy nevděčnice!“ volal za nimi pastýř. „Cožpak jste se u mne neměly dobře? Vždyť jsem vám dával mnohem víc než svým vlastním kozám!“
 
 „Právě proto od tebe utíkáme,“ odpověděl mu starý kozel, vůdce divokého stáda, než zmizel za skálou.
+
+  
 
 > _A měl pravdu.  
 > Když pastýř nechal o hladu své vlastní kozy  

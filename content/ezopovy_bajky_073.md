@@ -3,8 +3,6 @@ title: "Labuť a\_husa"
 contentType: prose
 ---
 
-  
-
 Jeden boháč choval na své zahradě labuť a husu. Husa se hlasitě ráchala v rybníčku, zatímco labuť se tiše kolébala na hladině jezírka.
 
 Vždyť také labuť tu byla pro potěchu oka a husa pro potěchu žaludku.
@@ -18,6 +16,8 @@ Sluha se hned sebral, že husu přinese a na zítřek ji připraví. Vzal si je
 To labuť zpívala svou píseň smrti. To labuť zpívala, protože si ji sluha ve tmě spletl s husou a chtěl ji podříznout…
 
 A ta píseň jí zachránila život. Sluha poznal svůj omyl a pánovi přinesl na pekáči, co na pekáč patří.
+
+  
 
 > _A kdo chce věřit, uvěří,  
 > že hudba a krása zahánějí smrt._

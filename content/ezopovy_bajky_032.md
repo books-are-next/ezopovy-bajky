@@ -3,8 +3,6 @@ title: Vlk a psi
 contentType: prose
 ---
 
-  
-
 Jeden pastýř našel opuštěné vlče a vychoval je spolu se svými psy. Vlče se dobře naučilo ovčáckému řemeslu, a když dospělo, stalo se vůdcem psí smečky. Mělo nejrychlejší nohy a nejdravější srdce a pastýř byl tuze spokojen.
 
 Vůdce smečky ochránil stádo ovcí před vlky, a když přece nějaký vlk ovečku ukořistil, pronásledoval ho i potom, co psům došel dech.
@@ -16,6 +14,8 @@ Vlci však na čas odtáhli a vůdci smečky se zastesklo po ovčím mase. A t
 Pastýř si samosebou spočítal, že se mu čas od času nějaká ovečka ztrácí, proto si v noci chodil lehat poblíž stáda.
 
 A díky tomu jednou poznal, že lupiče má ve svém vlastním domě. Vlka bez milosti zastřelil a celou psí smečku rozehnal. Dobře věděl, že ze psa, který uvykl vlčím mravům, už nikdy dobrý ovčák nebude.
+
+  
 
 > _A to je poučení,  
 > které mnohdy platí i o lidech._

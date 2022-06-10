@@ -3,8 +3,6 @@ title: Liška bez ocasu
 contentType: prose
 ---
 
-  
-
 Jedna liška přišla v pasti o ocas. Protože dřív bývala na svůj ohon nesmírně pyšná, trápila se nad ztrátou té ozdoby tak, že zprvu ani nechtěla vycházet z nory.
 
 Pak ji hlad vyhnal na lov. Měla štěstí, protože ulovila hned tři zajíce. A tehdy dostala nápad. Rozhodla se, že lišky přemluví, aby se také zbavily ocasu. Tím její hanba zmizí a bude si mezi ostatními připadat stejně krásná jako dřív.
@@ -16,6 +14,8 @@ Pár lišek se nad tou řečí vážně zamyslelo, pár jich moc nepřemýšlelo
 Jen jedna stará liška se ozvala: „Mluvíš hezky, ale jen proto, že chceš ze své ztráty udělat ctnost! Kdo má štěstí, chytí třeba tucet zajíců. A kdo má špetku rozumu ví, že liška ohon potřebuje. Ne snad pro lov – ale proto, aby po lovu za sebou zametla stopy!“
 
 Byla to rozumná odpověď a všechny lišky přesvědčila.
+
+  
 
 > _Protože u rozumného nepochodí ten,  
 > kdo mu radí a myslí  

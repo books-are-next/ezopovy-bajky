@@ -3,8 +3,6 @@ title: Osel a zahradník
 contentType: prose
 ---
 
-  
-
 Osel sloužil u zahradníka. Tahal na hřbetě náklady zeleniny a ovoce, ale sám dostával jen trávu a nějaké padavky. Jednou si na svůj úděl stěžoval u vládce Olympu.
 
 Zeus si myslel své. Věděl, že oslí život je život slouhovský a těžko najít pána, který bude oslovi podstrojovat. Ale nakonec mu vyhověl.
@@ -20,6 +18,8 @@ Náklad, který osel u koželuha nosil, byl docela lehounký. Vždyť to byla j
 Když osel poznal, čím se jeho pán živí, dostal strach. „Zachraň mne!“ prosil pána Olympu. „Můj hospodář ze mne určitě sedře kůži jako z ostatních oslů a pak ji prodá na trhu. Vrať mě zpátky k zahradníkovi!“
 
 Ale Zeus mu neodpověděl. Jen se hrozivě zamračil. A osel smutně šlapal zpátky k svému pánovi koželuhovi.
+
+  
 
 > _Tak i člověk, který si stále na něco stěžuje,  
 > pozná, že stará příkoří nebyla tak zlá jako ta nová._

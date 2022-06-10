@@ -3,8 +3,6 @@ title: "Orel a\_chrobák"
 contentType: prose
 ---
 
-  
-
 Orel pronásledoval zajíce. Chudák zajíc pelášil a kličkoval, ale moc síly mu už nezbývalo.
 
 „Pomoz mi!“ křikl na chrobáka, který valil kuličku trusu v trávě.
@@ -20,6 +18,8 @@ Chrobák nemohl na tu nespravedlnost zapomenout. Vyslídil, kde má orel na ská
 Orel nakonec musel prosit o pomoc až na Olympu. Sám Zeus, mocný bůh, orla vyslechl a dovolil mu, aby snesl vejce do jeho klína, kde bude zaručeně v bezpečí.
 
 Ale chrobák se ani tehdy nevzdal. Uválel kuličku trusu, vznesl se s ní nad pána Olympu a upustil mu ji do klína. Zeus s hrozivým zaklením vyskočil a smetl trus i s orlím vejcem ze svého klína. A jak jinak, vejce se rozbilo o skálu…
+
+  
 
 > _Vidíte – i ten nejmenší a nejpohrdanější  
 > má svou odvahu a čest._

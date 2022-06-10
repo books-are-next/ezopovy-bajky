@@ -3,8 +3,6 @@ title: "Člověk a\_satyr"
 contentType: prose
 ---
 
-  
-
 Satyr je zvláštní bytost. Má tělo kozlí a hlavu člověčí, ale člověkem není a zvířetem být nechce. Běhá po skalách sám, i když se umí radovat jako kozel a trápí se jako člověk.
 
 Jednou se k člověku přidružil a žil s ním v jeho domě. Přišla zima a satyr viděl, jak člověk zvedl ruce k ústům a dýchal si na ně.
@@ -22,6 +20,8 @@ Hned nato vešli do domu a k plotně, kde si člověk vařil brambory. Vzal je
 A satyr zesmutněl a řekl: „Odcházím od tebe, člověče. Nemůžeme být přáteli, když jedním dechem vypouštíš z úst teplo i chlad.“
 
 Třeba se to stalo, třeba ne. Jisté je, že satyr a člověk se spolu nepřátelí a že…
+
+  
 
 > _… i člověk by se měl vyhýbat příteli,  
 > jehož smýšlení je obojaké._

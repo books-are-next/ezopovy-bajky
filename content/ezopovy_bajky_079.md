@@ -3,8 +3,6 @@ title: "Pes, liška a\_kohout"
 contentType: prose
 ---
 
-  
-
 Pes a kohout se znali z jednoho dvora. Zvykli si na sebe a nakonec se z nich stali přátelé. Jednou si vyšli do lesa a zůstali tam tak dlouho, že je zastihla noc.
 
 A tak si pes udělal pelíšek v dutině vykotlaného stromu a kohout si ustlal nahoře ve větvích.
@@ -20,6 +18,8 @@ Uslyšela to liška a kohoutí zpěv v ní probudil hlad. Přiběhla ke stromu
 Liška se zaradovala, že narazila na hlupáka, a bezstarostně vklouzla do dutiny stromu. Tam na ni ale vyskočil pes a potrhal ji tak, že sama cestu nenašla.
 
 Zato kohout a pes se domů vesele vrátili.
+
+  
 
 > _Tak rozum a přátelství  
 > vyhrály  

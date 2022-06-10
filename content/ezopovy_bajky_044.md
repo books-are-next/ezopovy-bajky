@@ -3,8 +3,6 @@ title: "Lev a\_pastýř"
 contentType: prose
 ---
 
-  
-
 Lev obcházel stavení jednoho pastýře. Ovce nechal na pokoji, ale zakoukal se do pastýřovy dcery.
 
 Děvče se bálo odmítnout a pastýř si na lva netroufal. A tak se poradil s vlastní chytrostí.
@@ -14,6 +12,8 @@ Děvče se bálo odmítnout a pastýř si na lva netroufal. A tak se poradil s
 Zamilovaný lev poslechl. Dal si vyrvat tesáky a ubrousit drápy. Pak přišel k vratům bezbranný jako beránek.
 
 Nevěsta se mu neukázala. Zato vyběhl pastýř s holí. Vyhnal bezzubého ženicha z domu. Lev se nakonec dočkal kromě ran i posměchu ostatních zvířat. Raději se odstěhoval ze svého kraje až na poušť a živil se tam písečnými blechami.
+
+  
 
 > _Ach ano, pošetilá láska dovede udělat  
 > i ze lva hlupáka. Zvláště když ani předtím,  

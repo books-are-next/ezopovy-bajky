@@ -3,8 +3,6 @@ title: "Osel s\_nákladem soli"
 contentType: prose
 ---
 
-  
-
 Jeden osel pořád přemýšlel, jak by si ulehčil práci. Nosil na hřbetě pytle kupeckého zboží jako všichni ostatní oslové, a když vzdoroval, vysloužil si jen ránu holí.
 
 Jednou mu ale s nákladem pomohla náhoda. Osel nesl kupci vaky soli a uklouzl. Uklouzl na lávce přes řeku a spadl do proudu.
@@ -20,6 +18,8 @@ Dostal sice pár ran holí, ale měl jistotu, že je chytřejší než všichni 
 Zanedlouho, když se vracel s nákladem hub, zamířil si to rovnou k řece. Skočil bezstarostně do vody a čekal, až se houby rozmočí stejně jako předtím cukr a sůl.
 
 Jenže houby vodou nasákly a ztěžkly. A stáhly osla ke dnu řeky…
+
+  
 
 > _Tak se i lidé svým chytračením  
 > mohou snadno přivést do neštěstí._

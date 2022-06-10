@@ -3,8 +3,6 @@ title: Pes na hostině
 contentType: prose
 ---
 
-  
-
 Jeden člověk čekal návštěvu přítele, kterého už léta neviděl. Proto mu dal na uvítanou připravit velkolepou hostinu.
 
 Pes toho člověka měl také svého psího přítele. Proto vyběhl z domu, aby kamaráda pozval na hody.
@@ -22,6 +20,8 @@ A právě ten cizí psí ocas uviděl kuchař, který nosil na stůl. Položil 
 „To bylo vůní, až mi vyschlo v krku!“ odpověděl mu náš pes. „Takovou žízeň jsem z toho dostal, že jsem pil a pil, až jsem se dočista opil. Ani nevím, jak jsem se z toho domu dostal ven!“
 
 To se ví, že mu hafan nevěřil ani slovo.
+
+  
 
 > _A nevyplácí se věřit ani těm,  
 > kteří nám slibují dobrodiní na cizí útraty._

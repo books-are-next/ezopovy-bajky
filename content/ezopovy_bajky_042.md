@@ -3,8 +3,6 @@ title: "Lev, osel a\_liška"
 contentType: prose
 ---
 
-  
-
 Lev se spřátelil s liškou a oslem. Jednou si vyšli společně na lov. Štěstí jim přálo a úlovek byl bohatý. Když kořist složili na jednu velkou hromadu, vyzval lev osla, aby rozdělil maso pro společnou hostinu.
 
 Osel rozdělil kořist spravedlivě na tři stejné díly.
@@ -20,6 +18,8 @@ Liška nechala lvovi celou kořist, jen malý kousek masa si přitáhla na svou 
 „Ten chudák osel,“ odpověděla liška.
 
 A víckrát už se lvem na lov nešla.
+
+  
 
 > _Byla dost chytrá na to,  
 > aby se z neštěstí druhého poučila._
