@@ -3,6 +3,8 @@ title: Hospodář kupující osla
 contentType: prose
 ---
 
+<section>
+
 Jeden hospodář měl tucet oslů, ale potřeboval se jednoho zbavit. Aby měl náhradu, zašel za oslařem a vybíral, až si nakonec vybral.
 
 „Ale stejně mi dej den na rozmyšlenou,“ povídá. „Musím napřed poznat, jak si bude ten tvůj s mými osly rozumět.“ Majitel souhlasil a náš hospodář si přivedl osla domů. Naplnil žlab a vpustil zvíře do stáje.
@@ -15,8 +17,12 @@ Hospodář se vůbec nerozmýšlel a popadl ohlávku. Nasadil ji tomu novému o
 
 „Já si ho vůbec nemusel zkoušet,“ odpověděl hospodář. „Hned jsem poznal, že bude na chlup stejný jako ten osel, který je dobrý nanejvýš pro řezníka!“
 
-  
+</section>
+
+<section>
 
 > _A ta slova stojí za zapamatování.  
 > Vždyť člověk je právem posuzován nejen podle sebe,  
 > ale i podle svých kamarádů._
+
+</section>

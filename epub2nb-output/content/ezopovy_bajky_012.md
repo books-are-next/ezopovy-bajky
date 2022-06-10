@@ -3,6 +3,8 @@ title: "Rybář a\_píšťala"
 contentType: prose
 ---
 
+<section>
+
 Byl to dobrý rybář a ještě lepší muzikant. Když zahrál na píšťalu, všichni ve vsi nechali práce a poskakovali tak, jak je píšťala vybízela.
 
 V ruce píšťalu a přes rameno síť vypravil se jednou na lov. Síť rozprostřel na břehu, pak se postavil na skalnatý ostroh a vyhrával. Čekal, že ryby, tak jako vesničani, nechají spánku a začnou tančit a vyskakovat z moře rovnou do jeho sítě.
@@ -15,7 +17,11 @@ A považte – ryby sebou na břehu mrskaly a poskakovaly… Nu právě tak j
 
 Rybář měl dobrý úlovek a přece se zlobil, že ryby netančily, když jim pískal, a teď, když píšťalu kvůli nim zahodil, utančily by se k smrti.
 
-  
+</section>
+
+<section>
 
 > _Ale zbytečně se zlobil. Vždyť všechno  
 > se musí dělat na pravém místě a v pravý čas._
+
+</section>

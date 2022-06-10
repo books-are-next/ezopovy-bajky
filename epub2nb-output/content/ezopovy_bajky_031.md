@@ -3,6 +3,8 @@ title: Vlk a volavka
 contentType: prose
 ---
 
+<section>
+
 Když vlk táhne krajem, nikdo si před ním nemůže být jistý. Potvrdí vám to ovečka i zajíc, kohout i volavka.
 
 A přece volavka jednou zapomněla, s kým má tu čest. Potkala vlka, který žalostně naříkal. Spolkl kost, ta se mu vzpříčila v tlamě a vlkovi hrozila smrt.
@@ -15,8 +17,12 @@ Touha po odměně – spíše než soucit – přiměla volavku, aby strčila 
 
 „Jsi slepá? Nebo jsi zapomněla, že mluvíš s vlkem? Jediná odměna, které se ti může dostat, je, že tě nechám uletět, ty hlupačko!“
 
-  
+</section>
+
+<section>
 
 > _Tohle vlk řekl a řekl pravdu.  
 > Kdo je zlý, prokáže ti dobrodiní už tím,  
 > že ti neublíží._
+
+</section>

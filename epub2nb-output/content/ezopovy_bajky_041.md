@@ -3,6 +3,8 @@ title: Vlk a pastýř
 contentType: prose
 ---
 
+<section>
+
 Pastýř vyháněl stádo ovcí na louky. Bylo mu líto živit ovčáckého psa, sám ve dne zastal jeho práci a v noci se zabalil do houně a poblíž svých oveček i spal.
 
 Jednou si povšiml, že jeho stádo sleduje zdálky vlk. Kam šly ovce, tam šel vlk, byl stále poblíž, ale nikdy tak blízko, aby mohl ovečce ublížit.
@@ -19,8 +21,12 @@ Pastýř se vrátil před večerem. Spatřil tu pohromu, kterou vlk po sobě zan
 
 „Patří mi to,“ přiznal si smutně. „Jak jsem jen mohl důvěřovat vlkovi, který se chová jako ovčácký pes!“
 
-  
+</section>
+
+<section>
 
 > _A to je rada pro každého důvěřivce,  
 > který se potká s chamtivcem  
 > a svěří mu svůj majetek do úschovy._
+
+</section>

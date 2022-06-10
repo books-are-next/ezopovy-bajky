@@ -3,6 +3,8 @@ title: "Člověk a\_paní Přísaha"
 contentType: prose
 ---
 
+<section>
+
 Jeden člověk převzal od přítele do úschovy peníze, ale pak ho přemohla lakota. Chodil a přemýšlel, jak to zaonačit, aby mu měšec zůstal.
 
 Nakonec přítel řekl: „Nechceš-li vrátit peníze dobrovolně, vrátíš je pod přísahou!“
@@ -29,8 +31,12 @@ A před hořícím domem stála paní Přísaha.
 
 „Nevrátila bych se,“ odpověděla paní Přísaha, „kdybys mne tak rychle nepřivolal zpátky. Když mě někdo křivou přísahou urazí, jsem na místě hned.“
 
-  
+</section>
+
+<section>
 
 > _Ano, špatný čin sám na sebe si přivolává trest.  
 > A špatný člověk nesmí doufat,  
 > že se mu trest vyhne či že snad bude otálet._
+
+</section>

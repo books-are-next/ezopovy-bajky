@@ -3,6 +3,8 @@ title: Lev a osel
 contentType: prose
 ---
 
+<section>
+
 Jeden osel si připadal náramně silný a rád by se přátelil s někým ještě silnějším. Tak se dostal do spolku se lvem.
 
 „Budeme lovit spolu,“ navrhl mu. „Ty máš tesáky a spáry a já mám silný hlas. Vyplaším zvěř z úkrytu a budu ti ji nahánět rovnou do chřtánu.“
@@ -21,7 +23,11 @@ Osel vyšel z jeskyně a tuze se holedbal. „Neříkal jsem ti, že mám siln
 
 Osla chlubivost hned přešla. Začal hýkat silným hlasem o pomoc, ale nikoho nepřivolal.
 
-  
+</section>
+
+<section>
 
 > _Skončil tak jako každý,  
 > kdo ztratí soudnost a dá se do spolku s nepřítelem._
+
+</section>

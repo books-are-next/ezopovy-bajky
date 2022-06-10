@@ -3,6 +3,8 @@ title: "Kupec a\_moře"
 contentType: prose
 ---
 
+<section>
+
 Jeden kupec se vypravil za obchodem. Co neprodal ve městě, to chtěl nabídnout na ostrově v moři.
 
 Opatřil si bárku a složil do ní svůj náklad. Moře bylo klidné a jeho vlnky se čeřily a kudrnatily jako beránčí rouno. Kupec byl spokojený.
@@ -15,7 +17,11 @@ Moře mlčelo, ale nad hladinou se zjevila ryba, která promluvila.
 
 „Ničemu nerozumíš,“ řekla ta ryba kupci. „Moře je přece od počátku světa laskavé a klidné. Za to, co se ti stalo, může zlý vichr, který zvedl vlny a rozpoutal mořskou bouři!“
 
-  
+</section>
+
+<section>
 
 > _A jako kupec, tak se někdy mýlíme i my,  
 > když hledáme viníka tam, kde není._
+
+</section>

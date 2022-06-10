@@ -3,6 +3,8 @@ title: "Liška a\_čáp"
 contentType: prose
 ---
 
+<section>
+
 Liška pozorovala čápa, jak chodí kolem rybníka a ponořuje svůj dlouhý zobák do vody, jako by měřil její hloubku. Vypadal tak rozvážně, že hned dostala nápad, jak si z něho vystřelí.
 
 Přišla blíž a povídá: „Příteli, ráda bych tě pozvala na oběd. Přijď zítra v poledne, já něco dobrého přichystám.“
@@ -19,7 +21,11 @@ Když se za pár dnů znovu potkali, čáp lišku pozval, aby tentokrát přišl
 
 „Tak to vidíš,“ řekl čáp, když se najedl. „Teď půjdeš domů hladová a navíc ještě s ostudou.“ A měl pravdu.
 
-  
+</section>
+
+<section>
 
 > _Protože na každého vtipálka, který si myslí,  
 > že snědl všechnu vtipnou kaši, jednou dojde._
+
+</section>

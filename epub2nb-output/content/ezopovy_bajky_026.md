@@ -3,6 +3,8 @@ title: "Orel, kavka a\_pastýř"
 contentType: prose
 ---
 
+<section>
+
 Orel má zoban, perutě a pařáty. Kavka má drobný zobák, krátká křídla a místo pařátů jen drápky. Orel lítá vysoko a kavka nízko, ale nebe patří oběma. Jen kořist a potravu si jinak vybírá orel a jinak kavka.
 
 Orel se spustí z výšky na louku, kde pobekává zabloudilá ovečka. Zobanem ji omráčí a pařáty sevře a odletí s ní na skálu, kde si pak uspořádá hostinu.
@@ -17,8 +19,12 @@ Ten křik přivolal pastýře. Pastýř kavku vysvobodil, ale volnost jí nedal.
 
 „Kavka, která chtěla být orlem,“ odpověděl otec. „Není to k smíchu?“
 
-  
+</section>
+
+<section>
 
 > _Je to k smíchu a může to dopadnout i hůř –  
 > s kavkou a s každým, kdo má málo rozumu  
 > a hodně pýchy._
+
+</section>

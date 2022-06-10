@@ -3,6 +3,8 @@ title: "Hvězdář a\_žába"
 contentType: prose
 ---
 
+<section>
+
 Jeden hvězdář ve dne spal a v noci pozoroval hvězdy. S hlavou zvrácenou k obloze chodil po kraji a přemýšlel o hvězdných světech. Zem, po které šlapal, mu nestála za jediný pohled.
 
 Jednou si nevšiml nezakryté studně a spadl do ní. Volal o pomoc, ale jeho křik slyšela jen žába v blízké kaluži.
@@ -15,8 +17,12 @@ Jednou si nevšiml nezakryté studně a spadl do ní. Volal o pomoc, ale jeho 
 
 Přeli se ještě dlouho – hvězdář ve studni a žába v kaluži. Ale řeč nikam nevedla. Každý si vedl svou a oba zůstali tam, kde byli.
 
-  
+</section>
+
+<section>
 
 > _Tak to bývá, když si někdo  
 > krátkozrace trvá na svém  
 > a nevidí za práh svého domu._
+
+</section>

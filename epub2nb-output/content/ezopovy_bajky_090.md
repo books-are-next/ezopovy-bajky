@@ -3,6 +3,8 @@ title: "Včely a\_trubci před soudem"
 contentType: prose
 ---
 
+<section>
+
 Včely kladly med do pláství v dutině starého dubu. Trubci se jen dívali, ale když med zavoněl, hlad je pomátl a chtěli si všechnu tu sladkost přisvojit.
 
 „Med je náš!“ volali a troubili na poplach.
@@ -21,8 +23,12 @@ Soudcem byla vosa, protože dobře znala včely i trubce.
 
 Vosa rozhodla po právu. Pracovitým včelám zůstal sladký med a líným trubcům hořká hanba.
 
-  
+</section>
+
+<section>
 
 > _A to je poučení  
 > pro trubce mezi lidmi  
 > i pro soudce jejich častých sporů._
+
+</section>

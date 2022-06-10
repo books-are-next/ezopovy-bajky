@@ -3,6 +3,8 @@ title: Orel a liška
 contentType: prose
 ---
 
+<section>
+
 Liška je doma na zemi a orel na nebi. A přece se spřátelili. Slovo dalo slovo a přátelé si mají být nablízku. Tak si liška našla noru pod vysokým stromem a orel si postavil hnízdo v koruně toho velikána. A mohlo při tom zůstat, kdyby…
 
 Kdyby se orel nevrátil jednoho dne z lovu k mláďatům s prázd­nou – a kdyby liška právě neodešla od svých mláďat na lov.
@@ -15,7 +17,11 @@ Orlí mláďata, která ještě neuměla lítat, dopadla z hořícího hnízda 
 
 Kdyby na ně už dole liška nečekala – a kdyby s nimi nenaložila stejně jako předtím orel s liščaty.
 
-  
+</section>
+
+<section>
 
 > _Ach ano, tak krutý konec mívá krutá zrada  
 > a nerovné přátelství._
+
+</section>

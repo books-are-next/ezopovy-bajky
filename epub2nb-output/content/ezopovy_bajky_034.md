@@ -3,6 +3,8 @@ title: "Pastýř a\_vlčata"
 contentType: prose
 ---
 
+<section>
+
 Jeden pastýř našel ve vlčím doupěti čtyři opuštěná mláďata. Vzal si je domů a krmil je ovčím mlékem a chlebem. Staral se o ně a vychovával je líp než ovčácké psy.
 
 Však si od nich také hodně sliboval.
@@ -17,7 +19,11 @@ Už byli dost silní, aby se mohli postarat sami o sebe, a navíc poznali nato
 
 Ovčák naříkal nad ztrátou svého stáda a ostatní pastýři mu řekli: „Zasloužil bys ještě větší trest. Vždyť jsi ovčím mlékem zaléval zlo, které bylo potřeba hned v zárodku zničit!“
 
-  
+</section>
+
+<section>
 
 > _A měli pravdu. Kdo podporuje špatnost,  
 > musí počítat s tím, že sám se stane její obětí._
+
+</section>

@@ -3,6 +3,8 @@ title: "Opice a\_rybáři"
 contentType: prose
 ---
 
+<section>
+
 Opice pozorovala při práci rybáře. Seděla u řeky na vysokém stromě a viděla, jak házejí do vody síť, pak ji vytáhnou, usednou k ohni, radují se a na pečených rybách si pochutnávají.
 
 A tak seskočila ze stromu a začala tahat síť jako oni.
@@ -13,8 +15,12 @@ A tak seskočila ze stromu a začala tahat síť jako oni.
 
 „Sama se ulovila,“ odpověděl otec. „Chtěla být rybářem, ale dopadla jako ryba.“
 
-  
+</section>
+
+<section>
 
 > _Kdepak, kdo se jen opičí  
 > a dělá něco bez znalosti, důvtipu a fortelu,  
 > sám si škodí._
+
+</section>

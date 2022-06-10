@@ -3,6 +3,8 @@ title: Osel a mezek
 contentType: prose
 ---
 
+<section>
+
 Oslař měl osla a mezka. Mezek byl silnější a vykonal víc práce, proto dostával i víc potravy.
 
 Jednou jim oslař naložil na hřbety těžký náklad. Podělil oba stejně. Mezek trpělivě šlapal a osel jen hekal a naříkal.
@@ -15,8 +17,12 @@ A tehdy se mezek, který teď nesl celý náklad, ohlédl na osla a povídá: 
 
 A osel žádnou odpověď, ani chytrou, ani oslovskou, na tahle slova nenašel.
 
-  
+</section>
+
+<section>
 
 > _Ale my můžeme najít poučení:  
 > Neposuzuj člověka ani osla podle začátku,  
 > nýbrž podle konce._
+
+</section>

@@ -3,6 +3,8 @@ title: "Sele a\_ovce"
 contentType: prose
 ---
 
+<section>
+
 Ztratilo se sele pasákovi vepřů a zabloudilo mezi ovce. Sotva ovčák to prasátko spatřil ve svém stádu, popadl těžkou hůl a začal je honit. Sele kličkovalo mezi ovcemi a kvičelo jako by je na nože bral.
 
 „Proč tak kvičíš, hlupáku?“ smály se ovce. „Nás pastýř chytá každý den. To nemáš v hlavě špetku rozumu?“
@@ -13,8 +15,12 @@ Ztratilo se sele pasákovi vepřů a zabloudilo mezi ovce. Sotva ovčák to pra
 
 „A právě proto kvičím a utíkám,“ volalo sele. „Vás chytá pastýř kvůli vlně a mléku – a mne kvůli masu!“
 
-  
+</section>
+
+<section>
 
 > _Je to tak. Jinak volá o pomoc ten,  
 > komu jde jenom o kabát,  
 > a jinak ten, komu jde o kůži._
+
+</section>

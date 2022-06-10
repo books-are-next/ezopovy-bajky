@@ -3,6 +3,8 @@ title: "Had, lasička a\_myši"
 contentType: prose
 ---
 
+<section>
+
 V jednom domě žilo plno myší. A tak sem chodila pěšinou, která se táhla od lesa, lasička. Vždycky tu ulovila dost, aby jí nekručelo v žaludku.
 
 V tom domě žilo opravdu hodně myší. A tak sem chodil z druhé strany, stezkou, která se vinula k řece, had. I had si tu nachytal tolik, aby si nemusel na hlad stěžovat.
@@ -15,9 +17,13 @@ Ta rvačka vylákala myši ze všech skulin a děr v domě… Myši byly zvěd
 
 Hloupé a zvědavé myši se pozdě poučily, že…
 
-  
+</section>
+
+<section>
 
 > _… dva silní nepřátelé snadno  
 > zapomenou na rozbroje mezi sebou  
 > a vrhnou se na slabšího.  
 > Zvlášť když jim sám vyjde naproti._
+
+</section>

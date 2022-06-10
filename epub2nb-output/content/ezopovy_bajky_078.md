@@ -3,6 +3,8 @@ title: Dva kohouti
 contentType: prose
 ---
 
+<section>
+
 Dva kohouti se narodili na jednom dvoře. Od malička se čepýřili, roztahovali peroutky a zkoušeli proti sobě sílu svých zobáků.
 
 Když dorostli a měli kolem houf slepic, bylo zřejmé, že jeden dvůr je pro dva kohouty moc malý. Drobné šarvátky už jim nestačily. Všechno měla rozhodnout veliká bitva.
@@ -15,7 +17,11 @@ Tomu nestačil obdiv všech slepic na dvorku. Musel vyletět na střechu a kokr
 
 Vyvolával svou slávu a přivolal orla. Orel se tiše spustil z nebe a kohouta odnesl.
 
-  
+</section>
+
+<section>
 
 > _A proč to povídám? Jen tak – a jako varování  
 > pro lidské kohouty. Sami je znáte…_
+
+</section>

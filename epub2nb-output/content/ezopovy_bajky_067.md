@@ -3,6 +3,8 @@ title: "Přátelé a\_sekera"
 contentType: prose
 ---
 
+<section>
+
 Dva přátelé šli lesem. Tu jeden z nich spatřil na pařezu sekeru a bochánek ovčího sýra.
 
 „Našli jsme sekeru a sýr!“ zaradoval se.
@@ -19,7 +21,11 @@ Ušli jen pár kroků, když z houští vyběhl rozlícený dřevorubec. „Kde
 
 A šel dál svou cestou.
 
-  
+</section>
+
+<section>
 
 > _Protože přítel, který se neumí podělit o štěstí,  
 > nezaslouží si účast ani v neštěstí._
+
+</section>

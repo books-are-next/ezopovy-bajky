@@ -3,6 +3,8 @@ title: Věštec
 contentType: prose
 ---
 
+<section>
+
 Jeden provazník se prohlásil za věštce a hadače budoucnosti. Neprovdaným pannám hádal, jakého dostanou ženicha, provdaným kolik budou mít dětí, vojákům předvídal čest a slávu a kupcům dobré obchody.
 
 Lidé potřebují slyšet dobré zprávy a rádi za ně zaplatí. Věštci se dařilo a penízky si ukládal doma do truhly.
@@ -17,9 +19,13 @@ Věštec nechal hádání a upaloval k svému příbytku. Soused nelhal. Truhl
 
 Okradený bědoval a naříkal, ale lidé ho nelitovali. „Jak ses mohl opovážit a hádat, co se přihodí nám? Vždyť neumíš uhodnout, ani co se stane tobě! Vrať se zase k pletení provázků, tam jsi nám užitečnější.“
 
-  
+</section>
+
+<section>
 
 > _Tak dostanou za vyučenou lidé,  
 > kteří se holedbají, že vidí do života  
 > jiných lidí a přitom nevědí,  
 > co se děje v jejich vlastním domě._
+
+</section>
