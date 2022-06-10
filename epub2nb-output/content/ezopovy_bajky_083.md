@@ -3,8 +3,6 @@ title: "Ptáčník a\_koroptev"
 contentType: prose
 ---
 
-  
-
 K jednomu ptáčníkovi přišel na návštěvu příbuzný ze vzdálené vsi. Šel pěšky, cesta byla daleká, a tak zabušil na vrátka až za tmy.
 
 „Jistě ti cestou vytrávilo,“ uvítal ho ptáčník. „Jenže já zrovna nic v hrnci nemám.“
@@ -20,6 +18,8 @@ Koroptev se škubala a naříkala, jaký je to od ptáčníka zlý nevděk a n
 „A to ti nebyla hanba?“ rozzlobil se ptáčník. „Právě proto tě teď bez výčitek podříznu. Kdo zrazuje své příbuzné, sám si nezaslouží nic jiného než zradu!“
 
 A bylo to. Koroptev skončila na pekáči a ptáčníkův příbuzný si na ní prý náramně pochutnal.
+
+  
 
 > _Tak to chodí.  
 > Ten, kdo zrazuje své blízké,  

@@ -3,8 +3,6 @@ title: "Opilec a\_jeho žena"
 contentType: prose
 ---
 
-  
-
 Jedna žena měla manžela opilce. Do hospody odcházel po svých, ale domů ho musela často nosit na zádech. Byla to hodná žena, a tak stále přemýšlela, jak manžela z té žíznivé nemoci vyléčit.
 
 Jednou dostala nápad. Když si ho zase namol opilého naložila v hospodě na záda, nešla s ním rovnou domů. Zabočila na cestu, která vedla na hřbitov.
@@ -22,6 +20,8 @@ Chvíli se prospala, ale ještě před rozbřeskem se na hřbitov vrátila a za
 „Ano,“ odpověděla žena. „Pití tě zahubilo. Teď jsi, muži nebožtík!“
 
 „A tak to mi žádné jídlo nenos!“ zvolal muž z rakve. „K čemu je mrtvému jídlo? Radši mi přines kořaličku!“
+
+  
 
 > _Tu máš, čerte, kropáč!  
 > Když se člověka chytne špatný návyk,  

@@ -3,8 +3,6 @@ title: Osel a mezek
 contentType: prose
 ---
 
-  
-
 Oslař měl osla a mezka. Mezek byl silnější a vykonal víc práce, proto dostával i víc potravy.
 
 Jednou jim oslař naložil na hřbety těžký náklad. Podělil oba stejně. Mezek trpělivě šlapal a osel jen hekal a naříkal.
@@ -16,6 +14,8 @@ Pěšina vedla do kopce a oslovi ubývalo sil. Oslař tedy přeložil část je
 A tehdy se mezek, který teď nesl celý náklad, ohlédl na osla a povídá: „Tak co, pořád ti připadá jako nespravedlnost, že dostávám víc sena a trávy než ty?“
 
 A osel žádnou odpověď, ani chytrou, ani oslovskou, na tahle slova nenašel.
+
+  
 
 > _Ale my můžeme najít poučení:  
 > Neposuzuj člověka ani osla podle začátku,  

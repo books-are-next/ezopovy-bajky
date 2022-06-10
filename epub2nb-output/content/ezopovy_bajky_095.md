@@ -3,8 +3,6 @@ title: "Myš a\_žába"
 contentType: prose
 ---
 
-  
-
 Na břehu rybníka se potkaly myš a žába. Myš znala jen své políčko, ale byla zvědavá na svět kolem. Žába znala svůj rybník a pár louží, ale uměla báječně řečnit.
 
 Kvákala a kvákala, až nakonec svou známou přemluvila, že ji naučí plavat. Přivázala si ji dlouhým motouzem k noze a pak obě skočily do rybníka.
@@ -16,6 +14,8 @@ Docela na ni zapomněla. Dál se potápěla a plavala, bavila se s jinými ž�
 Co se stalo? Třetí den se utopená myš ve vodě nafoukla a vyplula na hladinu. Vznášela se tu jako měch, než ji spatřil luňák.
 
 Sjel z oblohy, myš v letu vylovil – a s ní i žábu. Vždyť byly stále motouzem přivázané k sobě! A tak luňák sežral myš i žábu, protože luňák bývá pořád hladový a cizími příběhy si hlavu neláme.
+
+  
 
 > _Ale vy se nad tím příběhem zamyslete.  
 > Kdo uvede druhého svou bezstarostností do nebezpečí,  

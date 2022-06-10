@@ -3,8 +3,6 @@ title: Lasička a kohout
 contentType: prose
 ---
 
-  
-
 Lasice chytila kohouta. Měla hlad, ale zároveň se bála hospodáře, kterému kohout patřil. A tak ji napadla chytrá výmluva. „Kohoute,“ povídá, „já tě sežeru. Ale ne z hladu, nýbrž za trest!“
 
 „Co jsem provedl?“ vylekal se kohout.
@@ -20,6 +18,8 @@ Lasice chytila kohouta. Měla hlad, ale zároveň se bála hospodáře, kterému
 „Už mně z tvých výmluv pořádně vytrávilo,“ zívla lasice a chudáka kohouta zakousla.
 
 Na dvoře zůstala jen hrst peří.
+
+  
 
 > _A nám zůstává poučení:  
 > pro špatný čin si špatný člověk  

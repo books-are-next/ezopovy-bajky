@@ -3,8 +3,6 @@ title: "Přátelé a\_sekera"
 contentType: prose
 ---
 
-  
-
 Dva přátelé šli lesem. Tu jeden z nich spatřil na pařezu sekeru a bochánek ovčího sýra.
 
 „Našli jsme sekeru a sýr!“ zaradoval se.
@@ -20,6 +18,8 @@ Ušli jen pár kroků, když z houští vyběhl rozlícený dřevorubec. „Kde
 „Neříkej: je s námi konec. Řekni: je se mnou konec!“ opravil ho druhý pocestný.
 
 A šel dál svou cestou.
+
+  
 
 > _Protože přítel, který se neumí podělit o štěstí,  
 > nezaslouží si účast ani v neštěstí._

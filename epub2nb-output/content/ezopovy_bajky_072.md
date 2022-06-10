@@ -3,8 +3,6 @@ title: Labutí píseň
 contentType: prose
 ---
 
-  
-
 Jeden cizinec přišel odněkud, kde neznají labutě. Natrefil na člověka, který mu byl ochoten labuť prodat.
 
 „Je to vzácný pták,“ dozvěděl se. „Labuť si člověk chová pro okrasu a proto, aby se potěšil jejím krásným smutným zpěvem.“
@@ -18,6 +16,8 @@ Ale labuť kejhala jako husa. Ke zpěvu se nedala uprosit. Byla z toho ostuda a
 Za čas ho probudil krásný smutný zpěv. To labuť umírala a smut­nou písní se loučila se životem.
 
 „Byl jsem to ale hlupák,“ pomyslel si cizinec. „Kdybych ji místo proseb pohrozil tehdy nožem, určitě by mým hostům zazpívala!“
+
+  
 
 > _Ať už měl pravdu, nebo neměl, jisté je,  
 > že někteří lidé udělají ochotně po zlém to,  
