@@ -3,6 +3,8 @@ title: "Kanec a\_kůň"
 contentType: prose
 ---
 
+<section>
+
 Kanec a divoký kůň žili volně v přírodě, ale museli se scházet u jednoho napajedla. Kolem byly lesy s bohatstvím bukvic a žaludů pro kance a louky se šťavnatou trávou pro koně, ale vody bylo v kraji málo. Napajedlo, u kterého se scházeli, bylo široko daleko jediné.
 
 A právě proto tu došlo ke sváru. Kanec vždycky podupal trávu kolem, a když pil, brouzdal se a ryl v napajedle tak, že vodu bahnem zkalil. Nedělal to úmyslně, ale vysvětlete to koňovi.
@@ -19,7 +21,11 @@ Ale na statku sedlák popadl ohlávku a uvázal divokého koně ke žlabu.
 
 Se svobodou byl konec. Koni už nepatřili šťavnaté louky a lesy plné buků a dubů. Vodu dostával do džberu a uvadlou trávu do žlabu, ve dne tahal pluh a v noci nespal pod hvězdami, nýbrž pod černou střechou stáje. Pozdě naříkal…
 
-  
+</section>
+
+<section>
 
 > _… jako každý, kdo se chce vyhnout blátu  
 > a spadne do louže._
+
+</section>

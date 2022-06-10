@@ -3,6 +3,8 @@ title: "Žížala a\_velký had"
 contentType: prose
 ---
 
+<section>
+
 Jedna žížala byla nespokojená se svou žížalí podobou a se svým žížalím osudem. Nestačilo jí, že je největší z celého klubka svých sester a příbuzných, chtěla být dlouhá jako had.
 
 „Had má plno nepřátel,“ radily jí ostatní žížaly, „buď šťastná, že jsi se narodila jako žížala. Co ti schází?“
@@ -15,8 +17,12 @@ Jeden ležel u smokvoně a spal. Nebyl nijak zvlášť dlouhý, ale co naplat,
 
 A tak se položila vedle hada a začala se natahovat. Natahovala se a napínala a nepřestala a nepřestala – dokud se nepřetrhla.
 
-  
+</section>
+
+<section>
 
 > _A něco podobného se může stát i lidem,  
 > kteří by se třeba i přetrhli,  
 > jen aby se podobali těm větším a mocnějším._
+
+</section>

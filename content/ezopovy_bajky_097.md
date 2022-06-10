@@ -3,6 +3,8 @@ title: "Chlapec zloděj a\_jeho matka"
 contentType: prose
 ---
 
+<section>
+
 Chlapec, který vyrůstal bez otce, ukradl ve škole psací tabulku. Přinesl ji domů a přiznal matce, že tabulku vzal svému sousedovi v lavici. Bál se a čekal trest. Jenže namísto trestu přišla pochvala.
 
 „Hlavně, že tě při tom nikdo neviděl,“ řekla matka.
@@ -19,7 +21,11 @@ Matčin nářek se změnil v hněv. „Vidíte toho bezbožníka!“ volala. �
 
 Ale syn ji přerušil a smutně odpověděl: „Kdybys mi byla nařezala už ten první den, kdy jsem přinesl domů ukradenou školní tabulku, nevedli mě teď na popravu! Tak kdo z nás dvou je větší bezbožník?“
 
-  
+</section>
+
+<section>
 
 > _Je to smutný příběh a smutná pravda,  
 > smutné poučení._
+
+</section>

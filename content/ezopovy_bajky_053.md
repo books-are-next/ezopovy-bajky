@@ -3,6 +3,8 @@ title: "Dřevorubec a\_bůh Hermes"
 contentType: prose
 ---
 
+<section>
+
 Dřevorubec kácel stromy u řeky. Jenže mu topůrko vyklouzlo z ruky a sekera zmizela v hlubině. Chudák seděl na břehu a naříkal.
 
 Bůh Hermes všechno viděl a rozhodl se, že si toho človíčka vyzkouší. Vstoupil do dravého proudu a vylovil ze dna zlatou sekeru. „Je tohle tvoje sekera?“ zeptal se.
@@ -21,7 +23,11 @@ Bůh Hermes všechno viděl. Vstoupil do divoké řeky a podal drvoštěpovi zl
 
 „Lžeš,“ zamračil se Hermes. „A za trest nedostaneš ani tu svou!“
 
-  
+</section>
+
+<section>
 
 > _A stalo se, jak Hermes řekl.  
 > Lháři za trest a vám k poučení._
+
+</section>

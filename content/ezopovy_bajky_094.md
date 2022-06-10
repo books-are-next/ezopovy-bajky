@@ -3,6 +3,8 @@ title: Slepice a zlaté vejce
 contentType: prose
 ---
 
+<section>
+
 Jeden chudák měl převzácnou slepici. Přišel k ní náhodou a ještě větší náhodou, či spíše zázrakem, se stalo, že ta slepice mu jednoho dne snesla zlaté vajíčko.
 
 Chudák nemohl svému štěstí uvěřit. Vždyť slepice zobala docela obyčejné zrní, v obyčejném prachu se popelila a škubala si docela obyčejnou travičku. A přitom vejce v kukani bylo z ryzího zlata!
@@ -13,8 +15,12 @@ Z chudáka se stal rázem boháč. Ale příliš brzo si na své bohatství zvy
 
 Tak jednoho dne slepici zabil a vykuchal ji. A co našel? Správně hádáte – vůbec nic.
 
-  
+</section>
+
+<section>
 
 > _Ale to už se stává i chamtivcům a lidem,  
 > kteří poznají, co měli, teprve tehdy,  
 > až se o to sami připraví._
+
+</section>

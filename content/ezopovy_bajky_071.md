@@ -3,6 +3,8 @@ title: "Člověk a\_lev"
 contentType: prose
 ---
 
+<section>
+
 V jednom kraji žili pospolu člověk a lev. Neměli mezi sebou rozbroje, jen malicherně při…
 
 „Člověk je nejmoudřejší a nejmocnější ze všech tvorů!“ tvrdil ten dvounohý, kdykoli se potkali.
@@ -17,7 +19,11 @@ A lev mu odpověděl: „Kdyby lvi uměli tesat, viděl bys na těch kamenech o
 
 Ale dvounohý mlčel. Odpověď neznal a pravdu čtyřnohému přiznat nechtěl.
 
-  
+</section>
+
+<section>
 
 > _Jako každý, kdo se vychloubá tvrzením,  
 > jež ve při neobstojí._
+
+</section>

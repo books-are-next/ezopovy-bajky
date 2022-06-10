@@ -3,6 +3,8 @@ title: "Otec a\_dcery"
 contentType: prose
 ---
 
+<section>
+
 Jeden otec provdal dvě dcery. Starší dal za ženu zahradníkovi a mladší hrnčíři. Po čase se vypravil, aby zjistil, jak se dcerám daří.
 
 „Jsem šťastná a spokojená,“ řekla starší dcera, „jen o jedno tě, otče, prosím. Pomodli se za mne k bohům, aby přivolali silné a dlouhé deště. Zelenina nám rychle poroste a budeme mít dobrý výdělek.“
@@ -15,9 +17,13 @@ Otec se vrátil domů a velice se trápil. Obě dcery měl stejně rád, a kdy
 
 A ti se rozhodli pro boží zlomyslnost. Nepřivolali ani déšť, ani slunce, nýbrž vichřici. Vichřice pokácela a rozbila hrnce a nádoby na hrnčířově dvoře a zpustošila a vytrhala ze země i zeleninu na zahradníkově poli.
 
-  
+</section>
+
+<section>
 
 > _To se stává,  
 > když dva chtějí v jedné chvíli něco naprosto rozdílného,  
 > a ten, kdo je má rozsoudit,  
 > se uchýlí k výčitkám u vrat nepravého domu._
+
+</section>

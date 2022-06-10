@@ -3,6 +3,8 @@ title: "Orlice, kočka a\_divoká svině"
 contentType: prose
 ---
 
+<section>
+
 V jednom lese stál starý dub, tak vysoký a tak rozložitý, že poskytoval přístřeší třem rodinám. V koruně měla hnízdo orlice se svými mláďaty. V kořenech stromu žila divoká svině s podsvinčaty. A uprostřed v dutině měla pelech kočka se svými koťaty.
 
 Mohly tu žít svorně a spokojeně, kdyby… Kdyby se kočce nezalíbilo v pomluvách a pletichách.
@@ -15,9 +17,13 @@ Pomluva je jako nemoc. A strach je jako choroba. Důvěřivá orlice přikryla 
 
 Tak se stalo, že orlí rodina a rodinka divoké svině pomřely hladem.
 
-  
+</section>
+
+<section>
 
 > _Smutný příběh,  
 > smutné varování pro toho,  
 > kdo zlé pomluvě věří  
 > a strachu z ní se neubrání._
+
+</section>

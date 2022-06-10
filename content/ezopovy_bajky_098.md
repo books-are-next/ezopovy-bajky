@@ -3,6 +3,8 @@ title: "Šašek a\_sedlák"
 contentType: prose
 ---
 
+<section>
+
 Do jednoho města přijel slavný šašek. Prý sám král se jeho šprýmům smál. Sešli se měšťané i chudý lid a všichni se těšili, co zábavného jim na rynku předvede.
 
 Šašek v dlouhém plášti se uklonil a pak si dolní cíp kabátu přehodil přes hlavu. A jak byl v tom plášti schovaný, začal kvičet jako sele. Kvičel tak věrohodně, že diváci volali: „Nás neoklameš! Ukaž, kde máš to sele!“
@@ -21,8 +23,12 @@ A přesto lidé na rynku šaškovi tleskali a sedláka vypískali. „Ty jsi j
 
 A tak se někteří zahanbili a někteří rozzlobili.
 
-  
+</section>
+
+<section>
 
 > _Tak už to chodí mezi lidmi,  
 > kteří jen neradi odvolávají svou přízeň  
 > a přiznávají vlastní omyl._
+
+</section>

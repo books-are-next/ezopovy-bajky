@@ -3,6 +3,8 @@ title: "Vosy, špačci, mezek a\_starý sedlák"
 contentType: prose
 ---
 
+<section>
+
 Starý sedlák měl velkou vinici na kopci a jediného pomocníka. Byl to hubený trpělivý mezek, který tahal pluh i měchy s vodou na zalévání, a když došlo ke sklizni, nosil na hřbetě koše hroznů z vinice do vsi.
 
 Jednou přišlo veliké sucho. Ani rosa k ránu nepadla. Žízní trpěli i špačci a vosy. Dřív se sedlákovi vyhýbali, ale teď přiletěli s prosíkem.
@@ -15,8 +17,12 @@ Ale sedlák zavrtěl hlavou. „Když bylo vody dost, nikdy jste za mnou nepři�
 
 A pak špačky zaplašil a vosy rozehnal a o vodu se rozdělil se svým věrným mezkem.
 
-  
+</section>
+
+<section>
 
 > _Protože věděl,  
 > jakou cenu mají sliby  
 > lhářů a nevítaných pomocníků._
+
+</section>

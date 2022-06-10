@@ -3,6 +3,8 @@ title: "Jedle a\_šípkový keř"
 contentType: prose
 ---
 
+<section>
+
 Na kraji lesa se krčil u cesty, kudy jezdily povozy, zaprášený šípkový keř.
 
 A v lese, hned proti němu, vzpínala svoje zelené větve vysoká a vznosná jedle. Byla vyšší než okolní stromy, byla silnější než smrky kolem a byla na to také patřičně pyšná.
@@ -15,7 +17,11 @@ A šípkový keř jí odpověděl: „Chudáčku, cožpak nevidíš, že ti lid
 
 A měl pravdu ten zaprášený keřík. Když se dřevorubci dali do práce, pyšná jedle tak žalostně pod jejich sekyrami a pilami naříkala, že šípek z lítosti poztrácel pár růžových kvítků. Ale věděl, že…
 
-  
+</section>
+
+<section>
 
 > _… lepší je žít v chudobě a prostotě beze strachu,  
 > než v bohatství a pýše pod hrozbou násilí._
+
+</section>

@@ -3,6 +3,8 @@ title: Vlk a pes
 contentType: prose
 ---
 
+<section>
+
 Hubený a hladem zesláblý vlk potkal tlustého psa.
 
 „Jak dobře vypadáš,“ podivil se. „Srst se ti leskne a oči ti září samou spokojeností! A já hlady sotva pletu nohama.“
@@ -27,7 +29,11 @@ A šli. Když přicházeli k pánovu domu, všiml si vlk, že pes je odře­n�
 
 „A takový život si chválíš? Je mi tě líto, kamaráde. Tvůj řetěz je horší než můj hlad. Sbohem!“ řekl vlk a vrátil se zase do lesů.
 
-  
+</section>
+
+<section>
 
 > _Protože vlk stejně jako člověk miluje svobodu  
 > a neprodá ji za zbytky od pánova stolu._
+
+</section>

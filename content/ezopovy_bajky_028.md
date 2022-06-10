@@ -3,6 +3,8 @@ title: "Zeus a\_želva"
 contentType: prose
 ---
 
+<section>
+
 Bůh Zeus slavil svatbu a pozval všechna zvířata k sobě na velkou hostinu. Ptáci opustili svá hnízda a přiletěli. Medvědi opustili brlo­hy a přišli. Myši opustily své skrýše a přiběhly. Lišky vyšly z nor, zajíci vyběhli z houštin, hadi z tůní a ještěrky z puklin skal. Všichni se v daný čas shromáždili v domě pána Olympu.
 
 Hodovali a bydleli tu řadu dní, jen želva nepřišla.
@@ -17,8 +19,12 @@ Zeus strnul nad takovou troufalostí. A přikázal: „Abych tě potrestal, bud
 
 Jak přikázal, tak se stalo.
 
-  
+</section>
+
+<section>
 
 > _Ale jak velký trest to byl,  
 > ať posoudí ten, kdo raději žije skrovně  
 > ve svém než přepychově v cizím příbytku._
+
+</section>

@@ -3,6 +3,8 @@ title: Pastýř vtipálek
 contentType: prose
 ---
 
+<section>
+
 Mladý pastýř vyháněl stádo ovcí na louky. Bylo pěkné klidné léto a ovčák měl dlouhou chvíli. Koukal, co kolem lítá, odháněl mouchy – a pak mu do hlavy vlítl hloupý nápad. A ten už nezahnal.
 
 „Pomoc! Pomoc! Je tu vlk!“ křičel přes hory a doly. Bylo ho slyšet až do vesnice. Vesničané popadli hole, kosy a vidle a hnali se na vlka. Když přiběhli na louku, vlk nikde. Slunce svítilo, tráva se zelenala, ovce se pásly – a pastýř se smál, až se za břicho popadal.
@@ -15,7 +17,11 @@ Ale léto bylo dlouhé. Uběhlo pár dní a pastýři otrnulo. Zase dostal chu�
 
 A pak se stalo, co se muselo stát. Pastýřovo stádo napadl vlk. Co vlk, byla jich celá smečka! Mladík volal o pomoc přes hory a doly a lidé ve vsi si jen zaťukali na čelo a šli po svých. Pastýř přišel o všechny své ovečky a zbylo mu jen trpké poučení, že…
 
-  
+</section>
+
+<section>
 
 > _… lháři nikdo neuvěří,  
 > ani když náhodou mluví pravdu._
+
+</section>

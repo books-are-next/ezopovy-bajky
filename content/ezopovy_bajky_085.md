@@ -3,6 +3,8 @@ title: "Vlaštovka a\_jmelí"
 contentType: prose
 ---
 
+<section>
+
 Lidé dřív hojně jedli drobné ptáky a leckde jsou dodnes vítanou pochoutkou. Chytali je do sítí, stražili na stromy lep, ale hlavně k polapení ptáků užívali jmelí.
 
 A tak jednou, když se zase na stromech jmelí objevilo, způsobila vlaštovka po lese poplach. Svolala ptáky, aby se spojili a vykopali duby v širém okolí.
@@ -19,8 +21,12 @@ A lidé poslouchali, a nakonec ji pro její důvtip a důvěřivost i state�
 
 Od té doby má vlaštovka u dobrých lidí útočiště a nemusí se bát jako ostatní ptáci.
 
-  
+</section>
+
+<section>
 
 > _A tak i slabý člověk,  
 > když má statečné a důvěřivé srdce,  
 > může napravit mocného nepřítele._
+
+</section>
