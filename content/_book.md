@@ -11,6 +11,7 @@ meta:
   modified: '2022-02-11T11:35:01.840Z'
   publisherShort: mkp
   edition: beletrie
+  contentType: prose
 readingOrder:
   - promo.html
   - ezopovy_bajky_005.html
