@@ -112,7 +112,7 @@ readingOrder:
   - ezopovy_bajky_100.html
   - ezopovy_bajky_101.html
   - ezopovy_bajky_102.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
