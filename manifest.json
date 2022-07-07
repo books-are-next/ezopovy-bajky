@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "en",
   "root": "main",
-  "identifier": "srut-ezopovy-bajky-b770519",
-  "revision": "b770519",
+  "identifier": "srut-ezopovy-bajky-7343c5b",
+  "revision": "7343c5b",
   "readingOrder": [
     "promo.html",
     "ezopovy_bajky_005.html",
@@ -110,11 +110,11 @@
     "ezopovy_bajky_100.html",
     "ezopovy_bajky_101.html",
     "ezopovy_bajky_102.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:01:52 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978512256
+    "date": "Thu Jul 07 2022 08:22:27 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182147289
   },
   "documents": [
     {
@@ -183,7 +183,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Orel a liška",
+          "name": "Orel a liška",
           "id": null,
           "children": []
         }
@@ -323,7 +323,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Lasička a kohout",
+          "name": "Lasička a kohout",
           "id": null,
           "children": []
         }
@@ -343,7 +343,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Lasička a slepice",
+          "name": "Lasička a slepice",
           "id": null,
           "children": []
         }
@@ -423,7 +423,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kočka a bohyně Afrodite",
+          "name": "Kočka a bohyně Afrodite",
           "id": null,
           "children": []
         }
@@ -463,7 +463,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Lev a myš",
+          "name": "Lev a myš",
           "id": null,
           "children": []
         }
@@ -503,7 +503,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Lev a osel",
+          "name": "Lev a osel",
           "id": null,
           "children": []
         }
@@ -543,7 +543,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kavka a holubi",
+          "name": "Kavka a holubi",
           "id": null,
           "children": []
         }
@@ -643,7 +643,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Osel a cikády",
+          "name": "Osel a cikády",
           "id": null,
           "children": []
         }
@@ -663,7 +663,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Vlk a volavka",
+          "name": "Vlk a volavka",
           "id": null,
           "children": []
         }
@@ -683,7 +683,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Vlk a psi",
+          "name": "Vlk a psi",
           "id": null,
           "children": []
         }
@@ -703,7 +703,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Osel a vlk",
+          "name": "Osel a vlk",
           "id": null,
           "children": []
         }
@@ -743,7 +743,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Osel a zahradník",
+          "name": "Osel a zahradník",
           "id": null,
           "children": []
         }
@@ -863,7 +863,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Vlk a pastýř",
+          "name": "Vlk a pastýř",
           "id": null,
           "children": []
         }
@@ -903,7 +903,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Lev za vraty",
+          "name": "Lev za vraty",
           "id": null,
           "children": []
         }
@@ -1043,7 +1043,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Vlk a pes",
+          "name": "Vlk a pes",
           "id": null,
           "children": []
         }
@@ -1083,7 +1083,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Osel a kůň",
+          "name": "Osel a kůň",
           "id": null,
           "children": []
         }
@@ -1223,7 +1223,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Osel a mezek",
+          "name": "Osel a mezek",
           "id": null,
           "children": []
         }
@@ -1283,7 +1283,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Pes na hostině",
+          "name": "Pes na hostině",
           "id": null,
           "children": []
         }
@@ -1923,7 +1923,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Slepice a zlaté vejce",
+          "name": "Slepice a zlaté vejce",
           "id": null,
           "children": []
         }
@@ -2078,7 +2078,7 @@
       "role": "chapter",
       "order": 98,
       "prev": "ezopovy_bajky_101.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -2091,11 +2091,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 132,
-      "chars": 871,
+      "chars": 870,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "ezopovy_bajky_102.html",
       "next": null,
@@ -2113,7 +2113,7 @@
   "totals": {
     "all": {
       "words": 17089,
-      "chars": 96176,
+      "chars": 96175,
       "ideas": 1058
     },
     "chapters": {

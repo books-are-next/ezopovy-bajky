@@ -59,7 +59,7 @@
             "filename": "ezopovy_bajky_003.md",
             "xhtml": "ezopovy_bajky_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
@@ -69,7 +69,7 @@
             "filename": "ezopovy_bajky_004.md",
             "xhtml": "ezopovy_bajky_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
@@ -1157,7 +1157,7 @@
             "filename": "ezopovy_bajky_103.md",
             "xhtml": "ezopovy_bajky_103.xhtml",
             "id": 102,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
@@ -1853,6 +1853,6 @@
       "user": "books-are-next",
       "repo": "ezopovy-bajky"
     },
-    "generatedAt": 1655978347991
+    "generatedAt": 1657181834717
   }
 }
