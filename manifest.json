@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "en",
   "root": "main",
-  "identifier": "srut-ezopovy-bajky-9bc278e",
-  "revision": "9bc278e",
+  "identifier": "srut-ezopovy-bajky-b0729c6",
+  "revision": "b0729c6",
   "readingOrder": [
     "promo.html",
     "ezopovy_bajky_005.html",
@@ -113,8 +113,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:39:46 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414386938
+    "date": "Thu Sep 29 2022 21:22:28 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486548709
   },
   "documents": [
     {
