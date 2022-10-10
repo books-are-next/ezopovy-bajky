@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "en",
   "root": "main",
-  "identifier": "srut-ezopovy-bajky-0346b43",
-  "revision": "0346b43",
+  "identifier": "srut-ezopovy-bajky-7ca9bed",
+  "revision": "7ca9bed",
   "readingOrder": [
     "promo.html",
     "ezopovy_bajky_005.html",
@@ -113,8 +113,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:03:01 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151381074
+    "date": "Mon Oct 10 2022 15:54:59 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417299670
   },
   "documents": [
     {
@@ -2093,7 +2093,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 132,
-      "chars": 871,
+      "chars": 872,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -2113,7 +2113,7 @@
   "totals": {
     "all": {
       "words": 17089,
-      "chars": 96176,
+      "chars": 96177,
       "ideas": 1058
     },
     "chapters": {
